@@ -64,8 +64,12 @@ alternative_names_df['alternate name'].apply(
     lambda x: unicodedata.normalize('NFD', x) if isinstance(x, str) else x
 )
 all_countries_df = load_all_countries()
-all_countries_df['name'].apply(
+all_countries_df['name'] = all_countries_df['name'].apply(
     lambda x: unicodedata.normalize('NFD', x) if isinstance(x, str) else x)
+alternative_names_df['alternate name'] = alternative_names_df['alternate name'].apply(
+    lambda x: unicodedata.normalize('NFD', x) if isinstance(x, str) else x
+)
+
 gold_df = load_annotations('annotations_gold.tsv')
 toponym_set = create_toponym_set(gold_df)
 
