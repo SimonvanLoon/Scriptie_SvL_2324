@@ -108,7 +108,7 @@ def most_populated(candidate_rows_df, score_dict):
     else:
         score = 0  # Default score if population_ratio is NaN
 
-    increment_value = 3
+    increment_value = 4
     if second_max_population_row['population'] == 0 and max_population_row['population'] != 0:
         score += increment_value
 
@@ -166,11 +166,18 @@ def get_surrounding_toponyms(dict_entry, target_toponym):
 def get_most_likely_candidate_id(country_df, alt_df, target_toponym, surrounding_toponyms, maxpop=False):
     candidate_rows_df = get_candidate_rows(alt_df, country_df, target_toponym)
     if candidate_rows_df.empty:
-        return str(0)
+        return "toponym_not_found"
     score_dict = create_score_dict(candidate_rows_df)
     popmax_dict = most_populated(candidate_rows_df, score_dict)
     if maxpop:
-        return [max(popmax_dict, key=popmax_dict.get)]
+        if max(popmax_dict.values()) == 0:
+            # Executes if none of the candidates have a population or a population of zero.
+            return "population_status_unknown"
+        else:
+            # returns the geoname id for the candidate that has the highest population
+            # Currently only the candidate with the highest population gets assigned a score
+            # that is greater than zero.
+            return max(popmax_dict, key=popmax_dict.get)
     dutch_places_dict = dutch_places(candidate_rows_df, popmax_dict)
     # most_likely_geo_id = max(dutch_places_dict, key=dutch_places_dict.get)
     max_value = max(dutch_places_dict.values())
@@ -196,15 +203,22 @@ text_toponym_dict = create_dictionary(annotations_df)
 
 double_count = 0
 correctly_guessed = 0
+unfound_toponyms = 0
+no_pop_status = 0
 for file_id in text_toponym_dict:
     for entry in text_toponym_dict[file_id]:
         target_toponym = entry[0]
         geoname_id = entry[1]
         surrounding_toponyms = get_surrounding_toponyms(text_toponym_dict[file_id], target_toponym)
-        most_likely_candidate_id = get_most_likely_candidate_id(country_df, alt_df, target_toponym, surrounding_toponyms)[0]
+        most_likely_candidate_id = get_most_likely_candidate_id(country_df, alt_df, target_toponym, surrounding_toponyms, maxpop=True)
         if str(most_likely_candidate_id) == str(geoname_id):
             correctly_guessed += 1
-print(correctly_guessed)
+        if most_likely_candidate_id == "toponym_not_found":
+            unfound_toponyms += 1
+        if most_likely_candidate_id == "population_status_unknown":
+            no_pop_status += 1
+
+print("correctly guessed toponyms:",correctly_guessed, ",", unfound_toponyms,"were not found.", no_pop_status, "didn't have a population status." )
 #         if len (most_likely_candidate_id) > 1:
 #             double_count += 1
 #             print(most_likely_candidate_id)
