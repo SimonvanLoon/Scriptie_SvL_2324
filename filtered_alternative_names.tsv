@@ -202,6 +202,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 482177	783697		Bali						
 4669483	3185259		Karaburun						
 1358917	3185548		Karaburun						
+1560696	174982	af	Armenië	1.0					
+1560734	174982	nl	Armenië	1.0					
+1974812	174982	li	Armenië						
+16926103	174982	fy	Armenië	1.0					
 2184858	616051		Yerevan	1.0	1.0				
 2187208	616051	nb	Yerevan						
 2187209	616051	nn	Yerevan						
@@ -352,6 +356,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1511878	3859240		San Francisco						
 1512264	3860805		Bremen						
 7120462	3865456		Arizona						
+1560467	3865483	af	Argentinië	1.0					
+1560506	3865483	nl	Argentinië	1.0					
+1974192	3865483	li	Argentinië						
+16926204	3865483	fy	Argentinië	1.0					
 1513272	3866375		San Francisco						
 6981453	8056283	es	Florida						
 11755010	11147907	es	Florida						
@@ -834,6 +842,20 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17760060	3577154	pap	Oranjestad	1.0					
 7119022	3577272		Barcelona						
 12215820	11433862	en	Oranjestad						
+12195780	661485		Åland						
+2256814	661882	fr	Åland						
+2299437	661882	no	Åland	1.0					
+2299471	661882	en	Åland		1.0				
+2417462	661882	sv	Åland	1.0					
+2727971	661882	de	Åland						
+2728461	661882	tr	Åland						
+7084894	661882	da	Åland	1.0					
+7084926	661882	nb	Åland	1.0					
+7084929	661882	nn	Åland	1.0					
+16400451	661882		Åland	1.0					
+16926371	661882	eu	Åland	1.0					
+16926398	661882	nl	Åland	1.0					
+391377	661883	sv	Åland						
 17090146	845889		Haren						
 16031584	846411		Haren						
 1974624	587116	af	Azerbeidjan	1.0					
@@ -915,6 +937,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1933457	2787413	li	Sint-Gillis						
 17461404	2787413	nl	Sint-Gillis	1.0					
 8044950	2787415	nl	Sint-Gillis						
+1255646	2787706		Rosières						
 4167267	2789289		Parijs						
 4167598	2790114		Ninove						
 5599987	2790115		Ninove						
@@ -950,6 +973,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18228637	2790115	ro	Ninove						
 18228639	2790115	da	Ninove						
 18228640	2790115	tr	Ninove						
+4167723	2790427		Néchin						
 4167740	2790469	nl	Namen		1.0				
 13856545	2790470	nl	Namen	1.0	1.0				
 1256694	2790471		Namen						
@@ -1146,7 +1170,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4171757	2801774		Bloemendaal						
 4171758	2801775		Bloemendaal						
 4171759	2801776		Bloemendaal						
+1559615	2802361	af	België	1.0					
 1559621	2802361	cs	Belgie	1.0					
+1559656	2802361	nl	België	1.0					
+1972965	2802361	zea	België						
+16926532	2802361	fy	België	1.0					
 4171954	2802380		Bekegem						
 2080681	2803136		Antwerpen						
 4172193	2803136	nl	Antwerpen	1.0	1.0				
@@ -1535,14 +1563,101 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4224246	3513817		Colombia						
 1435668	3513919		Venezuela						
 8708666	7610359	eo	Sint-Eustatius						
+17541017	3388247		São Paulo						
 4515630	3389200		Santiago						
 4515631	3389201		Santiago						
+1397840	3389366		São Paulo						
+1397929	3389837		São Paulo						
 17541368	3393287		Palestina						
 17541370	3393296		Palestina						
+1400206	3401050		São Paulo						
 17524196	3407135		Arizona						
 16479039	3411457	pt	Tirol						
 7954534	3445324	pt	Venezuela						
 7954662	3446407	pt	Tirol						
+2184922	3448433		São Paulo	1.0	1.0				
+7666160	3448433	es	São Paulo		1.0				
+8041836	3448433	pt	São Paulo						
+17935755	3448433	hr	São Paulo						
+17935756	3448433	gsw	São Paulo						
+17935757	3448433	hu	São Paulo						
+17935761	3448433	nah	São Paulo						
+17935763	3448433	pms	São Paulo						
+17935764	3448433	ia	São Paulo						
+17935765	3448433		São Paulo						
+17935766	3448433	id	São Paulo						
+17935767	3448433	sco	São Paulo						
+17935769	3448433	af	São Paulo						
+17935772	3448433	is	São Paulo						
+17935779	3448433	ro	São Paulo						
+17935780	3448433	ceb	São Paulo						
+17935785	3448433	br	São Paulo						
+17935786	3448433	sc	São Paulo						
+17935787	3448433	bs	São Paulo						
+17935791	3448433	sk	São Paulo						
+17935792	3448433	sl	São Paulo						
+17935793	3448433	sm	São Paulo						
+17935794	3448433	so	São Paulo						
+17935795	3448433	ca	São Paulo						
+17935798	3448433	sv	São Paulo						
+17935801	3448433	sw	São Paulo						
+17935805	3448433	co	São Paulo						
+17935806	3448433	kw	São Paulo						
+17935808	3448433	cs	São Paulo						
+17935814	3448433	cy	São Paulo						
+17935815	3448433	nds	São Paulo						
+17935816	3448433	da	São Paulo						
+17935817	3448433	li	São Paulo						
+17935818	3448433	tr	São Paulo						
+17935820	3448433	de	São Paulo						
+17935821	3448433	ast	São Paulo						
+17935824	3448433	lad	São Paulo						
+17935833	3448433	ms	São Paulo						
+17935835	3448433	mt	São Paulo						
+17935836	3448433	en	São Paulo						
+17935841	3448433	vi	São Paulo						
+17935842	3448433	nb	São Paulo						
+17935844	3448433	hbs	São Paulo						
+17935845	3448433	vo	São Paulo						
+17935847	3448433	nl	São Paulo						
+17935849	3448433	fi	São Paulo						
+17935851	3448433	fr	São Paulo						
+17935852	3448433	oc	São Paulo						
+17935854	3448433	ga	São Paulo						
+17935855	3448433	ang	São Paulo						
+17935857	3448433	gl	São Paulo						
+17935858	3448433	gn	São Paulo						
+17935860	3448433	war	São Paulo						
+17935864	3448433	pl	São Paulo						
+4515262	3448437		São Paulo						
+1981569	3448439	pl	São Paulo						
+1981570	3448439	es	São Paulo						
+1981571	3448439	fr	São Paulo						
+1981572	3448439	de	São Paulo						
+1981574	3448439	af	São Paulo						
+1981578	3448439	ca	São Paulo						
+1981579	3448439	co	São Paulo						
+1981580	3448439	cs	São Paulo						
+1981581	3448439	da	São Paulo						
+1981584	3448439	et	São Paulo						
+1981587	3448439	fi	São Paulo						
+1981588	3448439	ga	São Paulo						
+1981591	3448439	hu	São Paulo						
+1981592	3448439	id	São Paulo						
+1981600	3448439	ms	São Paulo						
+1981601	3448439	nl	São Paulo						
+1981602	3448439	nn	São Paulo						
+1981603	3448439	no	São Paulo						
+1981604	3448439	oc	São Paulo						
+1981605	3448439	pt	São Paulo	1.0					
+1981606	3448439	ro	São Paulo						
+1981608	3448439	sk	São Paulo						
+1981610	3448439	sv	São Paulo						
+1981611	3448439	sw	São Paulo						
+1981614	3448439	vi	São Paulo						
+7635176	3448439	en	São Paulo	1.0					
+7954916	3448440	pt	São Paulo						
+7954917	3448441	pt	São Paulo						
 1417476	3449427		Palmyra						
 4515629	3449743		Santiago						
 1417857	3450401		Santa Barbara						
@@ -1642,6 +1757,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8007791	3460168	pt	Rio de Janeiro						
 1421635	3460354		Virginia						
 1422357	3461606		Palestina						
+1422384	3461627		São Paulo						
+1422882	3462944		São Paulo						
+1424971	3468689		São Paulo						
+1559049	3469034	nl	Brazilië	1.0					
+16926936	3469034	fy	Brazilië	1.0					
 5492844	3471300	pt	Austin						
 7957547	3471494	pt	Arizona						
 5665354	3475592	pt	Palestina						
@@ -1697,12 +1817,19 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7909440	6322060	en	Rio		1.0				
 9484835	6322060	de	Rio de Janeiro	1.0					
 9484836	6322060	fr	Rio de Janeiro	1.0					
+9495627	6324358	de	São Paulo	1.0					
+9495628	6324358	fr	São Paulo	1.0					
+9495629	6324358	en	São Paulo	1.0					
 5516663	7538037	pt	San Francisco						
+5617361	7582885	pt	São Paulo						
+5687939	7616988	pt	São Paulo						
+5731950	7630231	pt	São Paulo						
 6526898	7771925	pt	Congo						
 7669961	8304767	pt	Austin						
 7984564	8437556	pt	Palestina						
 8115121	8473011		Colorado						
 8121190	8508069	pt	Palestina						
+8121335	8508141	pt	São Paulo						
 8265294	8541625	pt	Arizona						
 8432596	8602681	pt	Colorado						
 8433821	8603823	pt	Colorado						
@@ -1712,6 +1839,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16555502	12133737	pt	Santiago						
 16555655	12133890	pt	Congo						
 16668643	12179542	pt	Arizona						
+17504688	12533762	pt	São Paulo						
+17551891	12555201	pt	São Paulo						
 1453628	3572005	en	Long Island	1.0	1.0				
 4256311	3572006	en	Long Island						
 1558901	1252634	ca	Bhutan	1.0					
@@ -2055,10 +2184,32 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4116544	2261132		Bali						
 13856907	2658205	abbr	VS						
 1558502	2658434	nl	Zwitserland	1.0					
+2185835	2660645	fr	Genève		1.0				
+8041759	2660645		Genève						
+17912144	2660645	ceb	Genève						
+17912149	2660645	sv	Genève						
+17912155	2660645	li	Genève						
+17912159	2660645	vi	Genève						
+17912160	2660645	nb	Genève						
+17912162	2660645	nl	Genève						
+17912163	2660645	gd	Genève						
+1227168	2660646		Genève						
+1605592	2660646	af	Genève						
+1605604	2660646	fr	Genève						
+1605611	2660646	io	Genève						
+1605617	2660646	nl	Genève						
+1605618	2660646	nn	Genève						
+1605619	2660646	no	Genève						
+1605629	2660646	sv	Genève						
+1605631	2660646	tr	Genève						
+1980810	2660646	qu	Genève						
 5773046	2660911		Emmen						
 8613317	2660911	en	Emmen						
 1881461	6294245		Memphis						
+13188619	6458783	fr	Genève	1.0					
+9484858	7285902	fr	Genève	1.0					
 13183854	11544240	fr	Tours						
+13186654	11546965	fr	Rosières						
 13238819	11576778	de	Brugge						
 13931990	11962715	abbr	NY						
 13932969	11963244	abbr	LA						
@@ -2692,6 +2843,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7363580	3682394		Florida						
 4536875	3683638		La Palma						
 1492410	3685142		San Diego						
+1492519	3685377		Curaçao						
 4537595	3685577		Cuba						
 4537596	3685579		Cuba						
 1492780	3686069		Colorado						
@@ -3258,9 +3410,49 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1912650	3374199	pt	Santiago						
 1912651	3374199	sv	Santiago						
 4314461	3374214		Santiago						
+1557976	3374766	nl	Kaapverdië	1.0					
+16927606	3374766	fy	Kaapverdië	1.0					
 1435329	3513181		Santa Barbara						
 4224106	3513322		Roosendaal						
 1435551	3513640		Damascus						
+11907134	3513790	en	Curaçao	1.0					
+5700238	7626836	nl	Curaçao	1.0					
+6755246	7626836	de	Curaçao	1.0					
+6910428	7626836	fr	Curaçao	1.0					
+6910486	7626836	pl	Curaçao	1.0					
+6910527	7626836	pt	Curaçao	1.0					
+7086099	7626836	en	Curaçao	1.0	1.0				
+16927629	7626836	af	Curaçao	1.0					
+16927636	7626836	br	Curaçao	1.0					
+16927638	7626836	ca	Curaçao	1.0					
+16927640	7626836	cs	Curaçao	1.0					
+16927641	7626836	cy	Curaçao	1.0					
+16927642	7626836	da	Curaçao	1.0					
+16927645	7626836	et	Curaçao	1.0					
+16927646	7626836	eu	Curaçao	1.0					
+16927648	7626836	fi	Curaçao	1.0					
+16927649	7626836	fo	Curaçao	1.0					
+16927650	7626836	fy	Curaçao	1.0					
+16927651	7626836	ga	Curaçao	1.0					
+16927652	7626836	gd	Curaçao	1.0					
+16927653	7626836	gl	Curaçao	1.0					
+16927658	7626836	hr	Curaçao	1.0					
+16927659	7626836	hu	Curaçao	1.0					
+16927661	7626836	id	Curaçao	1.0					
+16927664	7626836	it	Curaçao	1.0					
+16927668	7626836	kl	Curaçao	1.0					
+16927672	7626836	lb	Curaçao	1.0					
+16927681	7626836	mt	Curaçao	1.0					
+16927684	7626836	no	Curaçao	1.0					
+16927689	7626836	rm	Curaçao	1.0					
+16927690	7626836	ro	Curaçao	1.0					
+16927692	7626836	se	Curaçao	1.0					
+16927694	7626836	sk	Curaçao	1.0					
+16927695	7626836	sl	Curaçao	1.0					
+16927699	7626836	sv	Curaçao	1.0					
+16927708	7626836	tr	Curaçao	1.0					
+16927713	7626836	vi	Curaçao	1.0					
+16927716	7626836	yo	Curaçao	1.0					
 16206726	18990		Limni						
 2187159	146362		Olympia						
 108851	146379		Limni						
@@ -3537,6 +3729,34 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1985500	2925535	vi	Frankfurt						
 7321988	2929880		Epe						
 15947072	2930525		Emmen						
+8517348	2934245		Düsseldorf						
+13498941	2934245	de	Düsseldorf		1.0				
+1600691	2934246	de	Düsseldorf						
+1600693	2934246	es	Düsseldorf						
+1600694	2934246	af	Düsseldorf						
+1600697	2934246	bs	Düsseldorf						
+1600698	2934246	ca	Düsseldorf						
+1600699	2934246	cs	Düsseldorf						
+1600700	2934246	da	Düsseldorf						
+1600702	2934246	fi	Düsseldorf						
+1600703	2934246	fr	Düsseldorf						
+1600705	2934246	hu	Düsseldorf						
+1600706	2934246	it	Düsseldorf						
+1600713	2934246	nl	Düsseldorf						
+1600714	2934246	no	Düsseldorf						
+1600715	2934246	pl	Düsseldorf						
+1600716	2934246	pt	Düsseldorf						
+1600717	2934246	ro	Düsseldorf						
+1600719	2934246	sk	Düsseldorf						
+1600720	2934246	sv	Düsseldorf						
+1600721	2934246	tr	Düsseldorf						
+1620674	2934246	ksh	Düsseldorf						
+1633434	2934246	et	Düsseldorf						
+1633436	2934246	hr	Düsseldorf						
+1633437	2934246	id	Düsseldorf						
+1896075	2934246	vo	Düsseldorf						
+1982238	2934246	nn	Düsseldorf						
+10158846	2934246	en	Düsseldorf	1.0					
 1602198	2934691	de	Duisburg						
 1602199	2934691	en	Duisburg						
 1602201	2934691	af	Duisburg						
@@ -3593,8 +3813,102 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1591746	2950159	nl	Berlijn						
 1894587	2951839	nl	Beieren						
 17917870	2951839	fy	Beieren						
+2080248	2953481	de	Baden-Württemberg	1.0	1.0				
+2185037	2953481		Baden-Württemberg	1.0	1.0				
+5882268	2953481	frr	Baden-Württemberg						
+5882283	2953481	ca	Baden-Württemberg						
+17917893	2953481	pt	Baden-Württemberg						
+17917894	2953481	hr	Baden-Württemberg						
+17917896	2953481	hu	Baden-Württemberg						
+17917897	2953481	ban	Baden-Württemberg						
+17917898	2953481	lmo	Baden-Württemberg						
+17917901	2953481	nah	Baden-Württemberg						
+17917902	2953481	yo	Baden-Württemberg						
+17917903	2953481	pms	Baden-Württemberg						
+17917905	2953481		Baden-Württemberg						
+17917906	2953481	id	Baden-Württemberg						
+17917907	2953481	ie	Baden-Württemberg						
+17917908	2953481	nap	Baden-Württemberg						
+17917909	2953481	sco	Baden-Württemberg						
+17917910	2953481	scn	Baden-Württemberg						
+17917911	2953481	qu	Baden-Württemberg						
+17917912	2953481	af	Baden-Württemberg						
+17917913	2953481	frp	Baden-Württemberg						
+17917914	2953481	nrm	Baden-Württemberg						
+17917915	2953481	is	Baden-Württemberg						
+17917916	2953481	it	Baden-Württemberg						
+17917918	2953481	cdo	Baden-Württemberg						
+17917920	2953481	rm	Baden-Württemberg						
+17917921	2953481	zu	Baden-Württemberg						
+17917922	2953481	ro	Baden-Württemberg						
+17917927	2953481	jv	Baden-Württemberg						
+17917930	2953481	sc	Baden-Württemberg						
+17917931	2953481	br	Baden-Württemberg						
+17917932	2953481	bs	Baden-Württemberg						
+17917934	2953481	se	Baden-Württemberg						
+17917935	2953481	min	Baden-Württemberg						
+17917938	2953481	sl	Baden-Württemberg						
+17917939	2953481	kg	Baden-Württemberg						
+17917943	2953481	sv	Baden-Württemberg						
+17917945	2953481	sw	Baden-Württemberg						
+17917948	2953481	ku	Baden-Württemberg						
+17917949	2953481	kw	Baden-Württemberg						
+17917950	2953481	co	Baden-Württemberg						
+17917955	2953481	lb	Baden-Württemberg						
+17917956	2953481	cy	Baden-Württemberg						
+17917957	2953481	tk	Baden-Württemberg						
+17917959	2953481	nds	Baden-Württemberg						
+17917960	2953481	vls	Baden-Württemberg						
+17917961	2953481	li	Baden-Württemberg						
+17917962	2953481	da	Baden-Württemberg						
+17917963	2953481	tr	Baden-Württemberg						
+17917965	2953481	fur	Baden-Württemberg						
+17917966	2953481	ast	Baden-Württemberg						
+17917969	2953481	hak	Baden-Württemberg						
+17917970	2953481	vec	Baden-Württemberg						
+17917971	2953481	mg	Baden-Württemberg						
+17917974	2953481	pam	Baden-Württemberg						
+17917976	2953481	pap	Baden-Württemberg						
+17917980	2953481	ms	Baden-Württemberg						
+17917981	2953481	ilo	Baden-Württemberg						
+17917982	2953481	et	Baden-Württemberg						
+17917983	2953481	eu	Baden-Württemberg						
+17917984	2953481	vi	Baden-Württemberg						
+17917986	2953481	nb	Baden-Württemberg						
+17917988	2953481	hbs	Baden-Württemberg						
+17917989	2953481	nl	Baden-Württemberg						
+17917990	2953481	nn	Baden-Württemberg						
+17917991	2953481	fi	Baden-Württemberg						
+17917993	2953481	fo	Baden-Württemberg						
+17917995	2953481	wa	Baden-Württemberg						
+17917996	2953481	pcd	Baden-Württemberg						
+17917997	2953481	oc	Baden-Württemberg						
+17917998	2953481	wo	Baden-Württemberg						
+17918000	2953481	ga	Baden-Württemberg						
+17918003	2953481	gd	Baden-Württemberg						
+17918005	2953481	gl	Baden-Württemberg						
+17918007	2953481	lld	Baden-Württemberg						
+17918009	2953481	war	Baden-Württemberg						
+17918010	2953481	srn	Baden-Württemberg						
+17918012	2953481	gv	Baden-Württemberg						
 4219213	2959643		Achterhoek						
 5725201	3207073		Soest						
+1638515	3207852	en	Nürburgring						
+1638516	3207852	de	Nürburgring						
+1638517	3207852	es	Nürburgring						
+1638518	3207852	pl	Nürburgring						
+1638521	3207852	da	Nürburgring						
+1638522	3207852	fi	Nürburgring						
+1638523	3207852	fr	Nürburgring						
+1638524	3207852	hu	Nürburgring						
+1638525	3207852	it	Nürburgring						
+1638527	3207852	nl	Nürburgring						
+1638529	3207852	sv	Nürburgring						
+1902754	3207852	no	Nürburgring						
+1988810	3207852	cs	Nürburgring						
+1988811	3207852	pt	Nürburgring						
+1988813	3207852	sl	Nürburgring						
+4709865	3207852		Nürburgring						
 1883075	3208171		Bremen						
 13270978	3208854		Ramstein						
 13498926	3214104	de	Karlsruhe		1.0				
@@ -3607,6 +3921,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8520895	3221033		Hannover						
 8520937	3221124		Soest						
 8521160	3231901		Duisburg						
+8521162	3231903		Düsseldorf						
 8521256	3247450		Bonn						
 2000867	6290300	de	Frankfurt						
 2000868	6290300	pl	Frankfurt						
@@ -3615,6 +3930,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9445342	6548737	en	Leipzig	1.0					
 8146424	6553020	de	Bremen	1.0	1.0				
 9445336	6553020	en	Bremen	1.0					
+8147726	6553022	de	Düsseldorf	1.0	1.0				
+9484880	6553022	en	Düsseldorf	1.0					
+9484881	6553022	fr	Düsseldorf	1.0					
+13136106	6553022	ga	Düsseldorf						
 8147728	6553023		Duisburg		1.0				
 8146430	6553048	de	Bonn	1.0	1.0				
 9484852	6553048	en	Bonn	1.0					
@@ -3858,6 +4177,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1974365	357994	fy	Egypte	1.0					
 1974378	357994	li	Egypte						
 250415	358766		Birma						
+1591274	360630	nl	Caïro						
 8182084	6955473	nl	Tahrirplein						
 16626714	12164559	en	Helwan						
 232542	335795		Cuba						
@@ -4223,6 +4543,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1326561	3130989		Santiago						
 6772391	3131023		Santiago						
 1326597	3131143		Santiago						
+9529296	3336901	nl	Catalonië	1.0					
 1971656	6325246	eu	Santa Barbara	1.0					
 1971658	6325247	eu	Santa Barbara	1.0					
 1971660	6325248	eu	Santa Barbara	1.0					
@@ -4354,7 +4675,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1933394	2974446	oc	Sisteron						
 2024548	2974446	ceb	Sisteron						
 4266805	2974446		Sisteron						
+1950836	2977214	en	Saint-Rémy-de-Provence						
+1950837	2977214	de	Saint-Rémy-de-Provence						
+1950838	2977214	fr	Saint-Rémy-de-Provence						
+1950839	2977214	pl	Saint-Rémy-de-Provence						
+1950840	2977214	it	Saint-Rémy-de-Provence						
+1950842	2977214	nl	Saint-Rémy-de-Provence						
+2034982	2977214	ceb	Saint-Rémy-de-Provence						
 13636269	2978742	de	St. Louis	1.0					
+1281078	2982772		Rosières						
+1281079	2982773		Rosières						
+1281080	2982774		Rosières						
+1281081	2982775		Rosières						
+1281082	2982776		Rosières						
+1281083	2982777		Rosières						
+1281084	2982778		Rosières						
+4272623	2982780		Rosières						
+4272624	2982781		Rosières						
+4272625	2982782		Rosières						
+4272626	2982783		Rosières						
 1592148	2988507	nl	Parijs	1.0					
 1283677	2990967		Nantes						
 16254612	2990968	fr	Nantes		1.0				
@@ -4473,13 +4812,70 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1628017	3031582	sv	Bordeaux						
 1633854	3031582	lb	Bordeaux						
 4298577	3031582		Bordeaux						
+2187089	3037147	fr	Ardèche	1.0	1.0				
+2703002	3037147	de	Ardèche	1.0	1.0				
+2703003	3037147	en	Ardèche	1.0	1.0				
+17924540	3037147	pt	Ardèche						
+17924541	3037147	hu	Ardèche						
+17924542	3037147	lmo	Ardèche						
+17924547	3037147		Ardèche						
+17924548	3037147	id	Ardèche						
+17924550	3037147	sco	Ardèche						
+17924553	3037147	af	Ardèche						
+17924554	3037147	frr	Ardèche						
+17924555	3037147	it	Ardèche						
+17924561	3037147	ro	Ardèche						
+17924562	3037147	ceb	Ardèche						
+17924568	3037147	se	Ardèche						
+17924572	3037147	sk	Ardèche						
+17924573	3037147	sl	Ardèche						
+17924574	3037147	kg	Ardèche						
+17924576	3037147	sq	Ardèche						
+17924580	3037147	sv	Ardèche						
+17924583	3037147	sw	Ardèche						
+17924584	3037147	ku	Ardèche						
+17924586	3037147	cs	Ardèche						
+17924592	3037147	cy	Ardèche						
+17924594	3037147	nds	Ardèche						
+17924595	3037147	da	Ardèche						
+17924596	3037147	li	Ardèche						
+17924597	3037147	tr	Ardèche						
+17924598	3037147	ast	Ardèche						
+17924601	3037147	diq	Ardèche						
+17924602	3037147	lad	Ardèche						
+17924604	3037147	vec	Ardèche						
+17924612	3037147	ms	Ardèche						
+17924614	3037147	eo	Ardèche						
+17924616	3037147	eu	Ardèche						
+17924617	3037147	vi	Ardèche						
+17924618	3037147	nb	Ardèche						
+17924619	3037147	hbs	Ardèche						
+17924620	3037147	vo	Ardèche						
+17924622	3037147	nl	Ardèche						
+17924623	3037147	nn	Ardèche						
+17924624	3037147	fi	Ardèche						
+17924627	3037147	ga	Ardèche						
+17924628	3037147	gd	Ardèche						
+17924630	3037147	gl	Ardèche						
+17924631	3037147	lld	Ardèche						
+17924632	3037147	war	Ardèche						
+17924634	3037147	pl	Ardèche						
+4301943	3037148		Ardèche						
 18799684	6299367	frc	Bordeaux						
+16307417	6425775	fr	Rosières		1.0				
+16307418	6425775		Rosières		1.0				
+16265527	6427085	fr	Saint-Rémy-de-Provence		1.0				
+16265528	6427085		Saint-Rémy-de-Provence		1.0				
+16288823	6434398	fr	Rosières		1.0				
+16288824	6434398		Rosières		1.0				
 9495649	6434483	de	Nantes	1.0					
 9495650	6434483	en	Nantes	1.0					
 9495651	6434483	fr	Nantes	1.0					
 16273522	6434483		Nantes		1.0				
 16262838	6438322	fr	Leers		1.0				
 16262839	6438322		Leers		1.0				
+16285779	6444928	fr	Rosières		1.0				
+16285780	6444928		Rosières		1.0				
 11537274	6445481	ca	Vic						
 11537276	6445481	oc	Vic						
 9445323	6446684	de	Cannes	1.0					
@@ -4495,6 +4891,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16289935	6453977		Durban		1.0				
 16267295	6454060	fr	Tours		1.0				
 16267296	6454060		Tours		1.0				
+16286567	6454455	fr	Rosières		1.0				
+16286568	6454455		Rosières		1.0				
 9484956	6455058	fr	Bordeaux	1.0					
 9484957	6455058	de	Bordeaux	1.0					
 9484958	6455058	en	Bordeaux	1.0					
@@ -4502,6 +4900,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16274200	6618172		Borne		1.0				
 19179727	8288334	eo	Cannes						
 9584767	8556237	fr	St. Louis		1.0				
+10222673	9843557	fr_1793	Réunion				1.0		
 16515177	12122157	fr	Tours						
 17008957	12306395	fr	Rome						
 17009157	12306595	fr	Calais						
@@ -4516,6 +4915,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3240269	2634588		Well						
 2730133	2634715	en	Washington	1.0	1.0				
 3172603	2634715		Washington						
+11387162	2635167	nl	Groot-Brittannië						
 17126227	2635167	nl	Verenigd Koninkrijk	1.0					
 1924686	2636177	de	Taunton						
 1924687	2636177	en	Taunton						
@@ -4732,7 +5132,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 367447	611717		Tblisi						
 1718924	614217	en	Java						
 4095772	614217		Java						
+1555472	614540	af	Georgië	1.0					
+1555510	614540	nl	Georgië	1.0					
+1973638	614540	li	Georgië						
 1973651	614540	sco	Georgie						
+11318816	614540	vls	Georgië						
+16928258	614540	fy	Georgië	1.0					
 370180	615419		Luxemburg				1.0	1921.0	1944.0
 16476741	615742		Ankara						
 2418542	3381670	af	Frans-Guyana	1.0					
@@ -4843,6 +5248,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1555089	2420477	af	Guinee	1.0					
 1980184	2420477	nl	Guinee	1.0					
 16928427	2420477	fy	Guinee	1.0					
+1455826	3578296		Réunion						
 13225035	11567898	fr	Canada						
 13230137	11571728	fr	Congo						
 1613297	252601	de	Tripoli						
@@ -5284,6 +5690,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1981352	1642911	sw	Jakarta						
 1981353	1642911	vi	Jakarta						
 18132762	1643018	cs	Iran						
+809678	1643084		Indonesië						
+1564244	1643084	af	Indonesië	1.0					
+1564282	1643084	nl	Indonesië	1.0					
+1975583	1643084	li	Indonesië						
+11763781	1643084	nl	Nederlands-Indië				1.0		
 812392	1645770		Alkmaar						
 3976544	1647310	id	Caracas						
 815778	1648148		Kalimantan						
@@ -5489,6 +5900,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17997220	294615	it	Kabul						
 17997222	294615	cs	Kabul						
 17997223	294615	pl	Kabul						
+1564080	294640	fr	Israël	1.0					
+1564101	294640	nl	Israël	1.0					
+1975018	294640	li	Israël						
+16928834	294640	fy	Israël	1.0					
 2298023	294800	no	Haifa						
 5463427	294800	en	Haifa		1.0				
 17842034	294800	frr	Haifa						
@@ -5917,6 +6332,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9785744	449599		Qom						
 3598881	1114844		Lech						
 1563738	2629691	nl	IJsland	1.0					
+10380133	2523118	nl	Sicilië	1.0					
+1980494	2523119	nl	Sicilië						
+11318139	2523119	li	Sicilië						
+11318143	2523119	vls	Sicilië						
 1906295	2524458	es	Lampedusa						
 1906296	2524458	fr	Lampedusa						
 1906297	2524458	en	Lampedusa						
@@ -5942,6 +6361,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1641418	3164567	sv	Verbania						
 1906309	3164567	hu	Verbania						
 1994203	3164567	la	Verbania						
+1604877	3165185	nl	Triëst						
+11320854	3165185	af	Triëst						
+8187580	3165186	nl	Triëst						
+8187612	3165186	af	Triëst						
 4662504	3165306		Trastevere						
 1347611	3165724		Texel						
 1347833	3166546	it	Siena	1.0	1.0				
@@ -5991,10 +6414,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1598800	3173435	af	Milaan						
 1598822	3173435	nl	Milaan						
 1991538	3174945	pms	Lech						
+1563632	3175395	af	Italië	1.0					
 1563653	3175395	fr	Italie	1.0					
+1563674	3175395	nl	Italië	1.0					
 1972566	3175395	fur	Italie						
+1972584	3175395	li	Italië						
 1972595	3175395	nrm	Italie						
 16003404	3175395		Italie						
+16928972	3175395	fy	Italië	1.0					
 1350915	3176217	de	Genua	1.0	1.0				
 6157635	3176217		Genua						
 1350918	3176218		Genua						
@@ -6075,7 +6502,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17537298	12547074		Palmyra			1.0			
 17657806	12625315	en	Wellington						
 17682369	12639873	en	Dublin						
+1563240	248816	af	Jordanië	1.0					
 1563258	248816	fr	Jordanie	1.0					
+1563279	248816	nl	Jordanië	1.0					
+1977382	248816	li	Jordanië						
+16929043	248816	fy	Jordanië	1.0					
 1620623	295347	nl	Dode Zee						
 13347903	11672325		Dubai						
 17887529	1850144	bar	Tokio						
@@ -6740,7 +7171,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1649847	2210247	sv	Tripoli						
 5813090	2210247	no	Tripoli						
 2020359	2214846	tr	Misrata						
+1561872	2215636	af	Libië	1.0					
+1561911	2215636	nl	Libië	1.0					
 1977899	2215636	frp	Libie						
+16929511	2215636	fy	Libië	1.0					
 11285714	2218840	en	Bani Walid						
 11285715	2218840		Bani Walid						
 1193854	2542007		Marokko						
@@ -7001,8 +7435,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1976732	1327865	fy	Birma						
 2421214	1327865	et	Birma	1.0					
 7575448	1328228		Long Island						
+13267016	3569980	fr	Réunion						
 1453058	3570544		Californie						
 4254090	3570966		Californie						
+13282385	11601110	fr	Réunion						
 17375698	3578059		Richmond						
 16949330	3578092		Nantes						
 16677836	930831	en	China						
@@ -7499,6 +7935,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8553172	3980058	es	Virginia						
 10728963	3980059	es	Virginia						
 4224651	3980061		Virginia						
+13931704	3980162		Ciudad Juárez						
 9414944	3980204		La Palma						
 8462598	3980381	es	Veracruz						
 8798042	3980382	es	Veracruz						
@@ -7790,6 +8227,17 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1544177	4013283		Colorado						
 1544179	4013285		Colorado						
 8801806	4013310	es	San Francisco						
+1642729	4013708	es	Ciudad Juárez						
+1642730	4013708	en	Ciudad Juárez						
+1642731	4013708	de	Ciudad Juárez						
+1642732	4013708	pl	Ciudad Juárez						
+1642733	4013708	ca	Ciudad Juárez						
+1642734	4013708	da	Ciudad Juárez						
+1642736	4013708	fr	Ciudad Juárez						
+1642738	4013708	nl	Ciudad Juárez						
+1992047	4013708	fi	Ciudad Juárez						
+1992048	4013708	it	Ciudad Juárez						
+4237429	4013708		Ciudad Juárez						
 8194899	4013708	tr	Ciudad Juarez						
 1544349	4013860		San Francisco						
 1544588	4014771		Colorado						
@@ -9112,6 +9560,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10193442	9819745	es	San Francisco						
 10193626	9819929	es	Los Angeles						
 10193692	9819995	es	Los Angeles						
+10242100	9868371	es	Ciudad Juárez						
 10242161	9868432	es	San Francisco						
 10242260	9868531	es	La Palma						
 10242352	9868623	es	La Palma						
@@ -9624,6 +10073,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17767357	12693330	es	San Francisco						
 17767464	12693437	es	San Francisco						
 18159043	12747293	es	La Palma						
+1560636	1733045	af	Maleisië	1.0					
+1560677	1733045	nl	Maleisië	1.0					
+1976148	1733045	li	Maleisië						
+16930030	1733045	fy	Maleisië	1.0					
 2185857	1733046	en	Kuala Lumpur	1.0	1.0				
 4071061	1733752		Kabul						
 1592697	1735161	de	Kuala Lumpur						
@@ -11246,6 +11699,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1936347	2757874	it	Cuijk						
 1936349	2757874	nl	Cuijk	1.0					
 1936350	2757874	sv	Cuijk						
+18219895	2758029	lb	Californië						
+18219896	2758029	en	Californië						
+18219897	2758029		Californië						
+18219898	2758029	fr	Californië						
+18219899	2758029	nl	Californië						
 2426426	2758103		Bunschoten		1.0				
 10840961	2758103	nl	Bunschoten		1.0				
 8240016	2758173		Brunssum						
@@ -11779,9 +12237,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9725445	9425521	no	Kampen						
 9725661	9425730	no	Kampen						
 9725794	9425862	no	Kampen						
+9726749	9426785	no	Åland						
 9727016	9427043	no	Holten						
+9727149	9427171	no	Åland						
 9727453	9427441	no	Kampen						
 9727586	9427571	no	Engeland						
+9728175	9428106	no	Åland						
 9728392	9428305	no	Austin						
 9730061	9429760	no	Holten						
 9730234	9429927	no	Holten						
@@ -11798,6 +12259,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9739573	9437773	no	Holten						
 9739662	9437852	no	Holten						
 9744439	9440979	no	Holten						
+9746616	9442897	no	Åland						
 9748988	9445191	no	Holten						
 9750001	9446111	no	Holten						
 9751201	9447148	no	Engeland						
@@ -11805,6 +12267,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9754024	9449718	no	Engeland						
 9756181	9451196	no	Holten						
 9758312	9452091	no	Holten						
+9760423	9453282	no	Åland						
 9762097	9454875	no	Holten						
 9763449	9456121	no	Holten						
 9763570	9456240	no	Holten						
@@ -11812,6 +12275,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9768239	9460033	no	Holten						
 9770179	9461802	no	Engeland						
 9773708	9464804	no	Holten						
+9775299	9466359	no	Åland						
 9776690	9467712	no	Holten						
 9788251	9472281	no	Halle						
 9793542	9477123	no	Engeland						
@@ -11825,6 +12289,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9817796	9498816	no	India						
 9818514	9499484	no	Kampen						
 9818733	9499688	no	Kampen						
+9820060	9500956	no	Åland						
 9820678	9501524	no	Finland						
 9821706	9502466	no	Kampen						
 9822477	9503186	no	Kampen						
@@ -11854,6 +12319,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10207327	9831977	no	Holten						
 10207344	9831992	no	Holten						
 10208094	9832686	no	Kampen						
+10215845	9838993	no	Åland						
 10218637	9841713	no	Kampen						
 10218640	9841715	no	Rusland						
 13689392	11870238	no	Engeland						
@@ -13031,6 +13497,69 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1983880	290030	ms	Doha						
 1983881	290030	sw	Doha						
 5906841	389470		Doha						
+519087	935316		Réunion						
+1619539	935316	de	Réunion						
+1619541	935316	en	Réunion						
+1619542	935316	af	Réunion						
+1619546	935316	cs	Réunion						
+1619547	935316	cy	Réunion						
+1619550	935316	et	Réunion						
+1619551	935316	fi	Réunion						
+1619552	935316	fr	Réunion						
+1619553	935316	gd	Réunion						
+1619557	935316	hu	Réunion						
+1619558	935316	id	Réunion						
+1619559	935316	io	Réunion						
+1619560	935316	is	Réunion						
+1619561	935316	it	Réunion						
+1619564	935316	kw	Réunion						
+1619566	935316	nds	Réunion						
+1619567	935316	nl	Réunion						
+1619568	935316	no	Réunion						
+1619572	935316	ro	Réunion						
+1619575	935316	sk	Réunion						
+1619578	935316	sv	Réunion						
+1633112	935316	sw	Réunion						
+1633113	935316	tl	Réunion						
+1895359	935316	vi	Réunion						
+1980654	935316	ceb	Réunion						
+1980655	935316	da	Réunion						
+1980657	935316	ia	Réunion						
+1980661	935316	nn	Réunion						
+519088	935317	fr	Réunion		1.0				
+2419106	935317	af	Réunion	1.0					
+2419112	935317	cs	Réunion	1.0					
+2419113	935317	cy	Réunion	1.0					
+2419114	935317	da	Réunion	1.0					
+2419115	935317	de	Réunion	1.0					
+2419117	935317	en	Réunion	1.0					
+2419120	935317	et	Réunion	1.0					
+2419122	935317	fi	Réunion	1.0					
+2419123	935317	ga	Réunion	1.0					
+2419126	935317	hr	Réunion	1.0					
+2419127	935317	hu	Réunion	1.0					
+2419128	935317	id	Réunion	1.0					
+2419129	935317	is	Réunion	1.0					
+2419138	935317	mt	Réunion	1.0					
+2419140	935317	nl	Réunion	1.0					
+2419141	935317	nn	Réunion	1.0					
+2419144	935317	ro	Réunion	1.0					
+2419146	935317	se	Réunion	1.0					
+2419147	935317	sk	Réunion	1.0					
+2419150	935317	sv	Réunion	1.0					
+7090289	935317	fo	Réunion	1.0					
+7090294	935317	kl	Réunion	1.0					
+7090302	935317	nd	Réunion	1.0					
+7090305	935317	rm	Réunion	1.0					
+7090308	935317	sn	Réunion	1.0					
+16930683	935317	fy	Réunion	1.0					
+16930684	935317	gd	Réunion	1.0					
+16930686	935317	ig	Réunion	1.0					
+16930687	935317	jv	Réunion	1.0					
+16930691	935317	ku	Réunion	1.0					
+16930693	935317	lb	Réunion	1.0					
+16930697	935317	no	Réunion	1.0					
+16930709	935317	vi	Réunion	1.0					
 4336312	664950		Tirol						
 402660	681868		Langenfeld						
 402817	682111		Chili						
@@ -13121,6 +13650,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7451984	8238617		Polen						
 7673596	8308482		Katyn						
 17444889	12505736		Polen						
+1976169	102358	af	Saudi-Arabië						
+2418889	102358	nl	Saudi-Arabië	1.0					
 3683192	104694		Long Island						
 48170	105343		Jeddah						
 1597698	105343	en	Jeddah						
@@ -13191,6 +13722,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4047487	604423		Mali						
 1556057	2661886	nl	Zweden	1.0					
 16930883	2661886	fy	Zweden	1.0					
+1228051	2664179		Västmanland		1.0				
+2256882	2664179	fr	Västmanland		1.0				
+2728637	2664179	en	Västmanland		1.0				
+17912813	2664179	pt	Västmanland						
+17912833	2664179	frr	Västmanland						
+17912835	2664179	it	Västmanland						
+17912841	2664179	vi	Västmanland						
+17912844	2664179	hbs	Västmanland						
+17912882	2664179	pl	Västmanland						
 1229866	2673722	fr	Stockholm		1.0				
 2256850	2673722	de	Stockholm		1.0				
 2728620	2673722	en	Stockholm		1.0				
@@ -13416,7 +13956,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16775737	11429067	en	St. Louis						
 7087	51537		Somalie						
 1977767	51537	fr	Somalie	1.0					
+1977768	51537	af	Somalië	1.0					
 1977786	51537	frp	Somalie						
+1977811	51537	nl	Somalië	1.0					
+11320281	51537	li	Somalië						
+16931093	51537	fy	Somalië	1.0					
 1591958	53654	en	Mogadishu						
 1591961	53654	da	Mogadishu						
 1591962	53654	fi	Mogadishu						
@@ -13628,6 +14172,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4024744	163809	en	Palmyra						
 119174	163843		Syrie						
 1555163	163843	fr	Syrie	1.0					
+1555184	163843	nl	Syrië	1.0					
+1976845	163843	li	Syrië						
+16931358	163843	fy	Syrië	1.0					
 127996	170015	en	Hama		1.0				
 2298776	170015	no	Hama						
 5906239	170015		Hama						
@@ -13726,6 +14273,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1989694	933909	sk	Europa						
 1989695	933909	sv	Europa						
 519393	936330		East Island						
+9369208	1545990	pt	São Paulo						
 755026	1546336		Long Island						
 755489	1547209		Long Island						
 755499	1547220		Amsterdam						
@@ -13754,6 +14302,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 814293	1647156		China						
 116715	162152	en	Balkan		1.0				
 11760546	162152	fr	Balkan						
+1564950	2464461	nl	Tunesië	1.0					
+16931611	2464461	fy	Tunesië	1.0					
 210932	298225	en	Long Island						
 1564840	298795	nl	Turkije	1.0					
 1973675	298795	fy	Turkije	1.0					
@@ -13997,6 +14547,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8185206	550558	cs	Charkov						
 8185210	550558	sk	Charkov						
 9196684	688162	uk	Kalynivka						
+1564453	690791	nl	Oekraïne	1.0					
+1974221	690791	af	Oekraïne	1.0					
+1974236	690791	fy	Oekraïne	1.0					
+1974249	690791	li	Oekraïne						
 1721303	692118	en	Svatove						
 4371780	692118		Svatove						
 16540023	693781	uk	Kalynivka						
@@ -18424,8 +18978,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13014270	5330810	en	Brisbane	1.0					
 12374333	5330913		Washington						
 7825113	5332921	fr	Californie	1.0					
+8185001	5332921	nl	Californië						
 8185057	5332921	sco	Californie						
+8185092	5332921	li	Californië						
+8696031	5332921	zea	Californië						
 11319046	5332921	pcd	Californie						
+17957506	5332921	vls	Californië						
 12303639	5335145		Austin						
 13045546	5338800	en	Columbia	1.0					
 18666989	5338800	de	Columbia						
@@ -19569,8 +20127,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12368994	5845792		Long Island						
 12731771	5853337		Mali						
 1632237	5855797	es	Hawai						
+1978227	5855797	fr	Hawaï						
+1978271	5855797	nl	Hawaï						
 2089466	5855797	gl	Hawai	1.0					
+7580428	5855797	li	Hawaï						
+7580430	5855797	fy	Hawaï						
 7580436	5855797	rm	Hawai						
+17958827	5855797	vls	Hawaï						
+17958844	5855797	pcd	Hawaï						
+17958870	5855797	nds-NL	Hawaï						
 17958882	5855797	ami	Hawai						
 13668247	5856194	en	Honolulu		1.0				
 13668248	5856194		Honolulu		1.0				
@@ -20740,6 +21305,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 2698106	6255146	nl	Afrika						
 2698107	6255146	nb	Afrika						
 11213429	6255146	sk	Afrika	1.0					
+2698109	6255147	nl	Azië	1.0	1.0				
 1626675	6255148	es	Europa	1.0	1.0				
 1626676	6255148	eu	Europa						
 1626677	6255148	la	Europa						
