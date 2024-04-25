@@ -204,6 +204,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--popmax", action="store_true", help="Perform georesolution with the maximum population as the sole heuristic")
 parser.add_argument('--train', action='store_true', help="Run the algorithm on the train set")
 parser.add_argument('--test', action='store_true', help="Run the algorithm on the test set")
+parser.add_argument("--interactive", action="store_true", help="Prompt user for input")
 args = parser.parse_args()
 popmax = args.popmax
 train = args.train
@@ -211,46 +212,53 @@ test = args.test
 country_df = load_all_countries("filtered_all_countries.tsv")
 alt_df = load_alt_names("filtered_alternative_names.tsv")
 annotations_df = load_annotations('annotations_gold.tsv')
+if args.interactive:
+    user_text = unicodedata.normalize ('NFD',input("Enter a toponym: "))
+    candidate_rows_df = get_candidate_rows(alt_df,country_df,user_text)
+    print("Candidate toponyms:")
+    print(candidate_rows_df[["name", "geonameid", "population", "country_code", "feature_code"]])
+    # score_dict = create_score_dict(candidate_rows_df)
+    # popmax_dict = most_populated(candidate_rows_df, score_dict)
+    # print(popmax_dict)
+    # dutch_places_dict = dutch_places(candidate_rows_df, popmax_dict)
+    # print(dutch_places_dict)
+
+print(get_most_likely_candidate_id(country_df, alt_df, "De Pijp", [], maxpop=True))
 if train:
     text_toponym_dict = create_dictionary(annotations_df, 0.7)
 elif test:
     text_toponym_dict = create_dictionary(annotations_df, 0.3)
 else:
     text_toponym_dict = create_dictionary(annotations_df)
-# candidate_rows_df = get_candidate_rows(alt_df,country_df,"De Pijp")
-# print(candidate_rows_df[["population", "geonameid", "country_code", "feature_code"]])
-# score_dict = create_score_dict(candidate_rows_df)
-# popmax_dict = most_populated(candidate_rows_df, score_dict)
-# print(popmax_dict)
-# dutch_places_dict = dutch_places(candidate_rows_df, popmax_dict)
-# print(dutch_places_dict)
 
-# print(get_most_likely_candidate_id(country_df, alt_df, "De Pijp", [], maxpop=True))
 
-total_toponyms = 0
-double_count = 0
-correctly_guessed = 0
-unfound_toponyms = 0
-no_pop_status = 0
-equal_scores = 0
-for file_id in text_toponym_dict:
-    for entry in text_toponym_dict[file_id]:
-        total_toponyms += 1
-        target_toponym = entry[0]
-        geoname_id = entry[1]
-        surrounding_toponyms = get_surrounding_toponyms(text_toponym_dict[file_id], target_toponym)
-        most_likely_candidate_id = get_most_likely_candidate_id(country_df, alt_df, target_toponym, surrounding_toponyms, popmax)
-        if str(most_likely_candidate_id) == str(geoname_id):
-            correctly_guessed += 1
-        if most_likely_candidate_id == "toponym_not_found":
-            unfound_toponyms += 1
-        if most_likely_candidate_id == "population_status_unknown":
-            no_pop_status += 1
-        if most_likely_candidate_id == "top candidates have equal scores":
-            equal_scores += 1
 
-print("correctly guessed toponyms:",correctly_guessed,"out of", total_toponyms,"total toponyms,", unfound_toponyms,"were not found.", no_pop_status, "didn't have a population status.", equal_scores, "toponyms scored equally and were therefore not correctly guessed" )
-print("accuracu score:", correctly_guessed/total_toponyms )#         if len (most_likely_candidate_id) > 1:
+# total_toponyms = 0
+# double_count = 0
+# correctly_guessed = 0
+# unfound_toponyms = 0
+# no_pop_status = 0
+# equal_scores = 0
+# for file_id in text_toponym_dict:
+#     for entry in text_toponym_dict[file_id]:
+#         total_toponyms += 1
+#         target_toponym = entry[0]
+#         geoname_id = entry[1]
+#         surrounding_toponyms = get_surrounding_toponyms(text_toponym_dict[file_id], target_toponym)
+#         most_likely_candidate_id = get_most_likely_candidate_id(country_df, alt_df, target_toponym, surrounding_toponyms, popmax)
+#         if str(most_likely_candidate_id) == str(geoname_id):
+#             correctly_guessed += 1
+#         if str(most_likely_candidate_id) != str(geoname_id) and most_likely_candidate_id != "toponym_not_found":
+#             print(target_toponym, most_likely_candidate_id, geoname_id)
+#         if most_likely_candidate_id == "toponym_not_found":
+#             unfound_toponyms += 1
+#         if most_likely_candidate_id == "population_status_unknown":
+#             no_pop_status += 1
+#         if most_likely_candidate_id == "top candidates have equal scores":
+#             equal_scores += 1
+#
+# print("correctly guessed toponyms:",correctly_guessed,"out of", total_toponyms,"total toponyms,", unfound_toponyms,"were not found.", no_pop_status, "didn't have a population status.", equal_scores, "toponyms scored equally and were therefore not correctly guessed" )
+# print("accuracu score:", correctly_guessed/total_toponyms )#         if len (most_likely_candidate_id) > 1:
 #             double_count += 1
 #             print(most_likely_candidate_id)
 # print(double_count)
