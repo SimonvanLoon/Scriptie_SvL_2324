@@ -189,22 +189,38 @@ def get_surrounding_toponyms(dict_entry, target_toponym):
     return surrounding_toponyms
 
 def get_similar_entities(target_toponym, target_rows, surrounding_toponyms, alt_df, country_df, score_dict):
-    my_list = list(target_rows['country_code'])
+    my_list = set(target_rows['country_code'])
+
     dict = score_dict
-    if len(my_list) < 4:
+    toponym_set = set(surrounding_toponyms)
+
+    if len(my_list) < 3:
         # print('target toponym country code list:', my_list)
         surrounding_toponyms_country_codes = []
-        for toponym in surrounding_toponyms:
+        for toponym in toponym_set:
             candidate_rows_df = get_candidate_rows(alt_df, country_df, toponym)
-            country_codes = []
-            for index, candidate_row in candidate_rows_df.iterrows():
-                if candidate_row['country_code'] in my_list:
-                    geoname_id_list = list(target_rows[target_rows['country_code'] == candidate_row['country_code']]['geonameid'])
+            for country_code in my_list:
+                if (candidate_rows_df['country_code'] == country_code).any():
+                    geoname_id_list = list(target_rows[target_rows['country_code'] == country_code]['geonameid'])
                     for geo_id in geoname_id_list:
-                        dict[geo_id] += 0.1
-                    country_codes.append(candidate_row['country_code'])
-            surrounding_toponyms_country_codes.append(country_codes)
-    print(dict)
+                        dict[geo_id] += 0.3
+                # mask = candidate_rows_df['country_code'].isin([country_code])
+                # relevant_rows = candidate_rows_df[mask]
+                # if not relevant_rows.empty:
+
+            # for index, candidate_row in candidate_rows_df.iterrows():
+            #     if candidate_row['country_code'] in my_list:
+            #         geo_id = int(candidate_row['geonameid'])
+            #         dict[geo_id] += 1
+            #         # Fout: als in canidate_rows meerdere kandidaten dezelfde landcode hebben, dan worden
+            #         # er onevenredig veel punten toegkend aan de geo_id.
+            #         # oplossing: geoname_ID in dict maar 1 keer per candidate_rows een score toekennen.
+            #         # geoname_id_list = list(target_rows[target_rows['country_code'] == candidate_row['country_code']]['geonameid'])
+            #         # for geo_id in geoname_id_list:
+            #         #     dict[geo_id] += 1
+            #         country_codes.append(candidate_row['country_code'])
+            # surrounding_toponyms_country_codes.append(country_codes)
+    # print(dict)
     return dict
     # print("surrounding_toponyms_country_codes:", surrounding_toponyms_country_codes)
 
@@ -212,10 +228,14 @@ def get_similar_entities(target_toponym, target_rows, surrounding_toponyms, alt_
 
 
 def get_most_likely_candidate_id(country_df, alt_df, target_toponym, surrounding_toponyms, maxpop=False):
+    # target_toponym = "Groningen"
+    # surrounding_toponyms = ["Kampen", "Paramaribo"]
     candidate_rows_df = get_candidate_rows(alt_df, country_df, target_toponym)
+
     if candidate_rows_df.empty:
         return ["toponym_not_found"]
     score_dict = create_score_dict(candidate_rows_df)
+    score_dict = get_similar_entities(target_toponym, candidate_rows_df, surrounding_toponyms, alt_df, country_df, score_dict)
     popmax_dict = most_populated(candidate_rows_df, score_dict)
     if maxpop:
         if max(popmax_dict.values()) == 0:
@@ -226,16 +246,16 @@ def get_most_likely_candidate_id(country_df, alt_df, target_toponym, surrounding
             # Currently only the candidate with the highest population gets assigned a score
             # that is greater than zero.
             return [max(popmax_dict, key=popmax_dict.get)]
-
-    dutch_places_dict = dutch_places(candidate_rows_df, popmax_dict)
-    # most_likely_geo_id = max(dutch_places_dict, key=dutch_places_dict.get)
+    populated_places_dict = populated_places(candidate_rows_df, popmax_dict)
+    dutch_places_dict = dutch_places(candidate_rows_df, populated_places_dict)
+    most_likely_geo_id = max(dutch_places_dict, key=dutch_places_dict.get)
     # similar_dict = get_similar_entities(target_toponym, candidate_rows_df, surrounding_toponyms, alt_df, country_df, dutch_places_dict)
     # max_value = max(similar_dict.values())
     # max_keys = [key for key, value in similar_dict.items() if value == max_value]
     # if len(max_keys) > 1:
     #      return ["top candidates have equal scores"]
-    # return [max(similar_dict, key=similar_dict.get), similar_dict[max_keys[0]]]
-
+    # return [max(similar_dict, key=similar_dict.get), similar_dict]
+    #
 
     max_value = max(dutch_places_dict.values())
     max_keys = [key for key, value in dutch_places_dict.items() if value == max_value]
@@ -275,6 +295,13 @@ def analyse_error(guessed_id, actual_id, country_df):
     if actual_feature_code == 'AIRP' and (guessed_feature_class == 'P' or guessed_feature_class == 'A'):
         return "error_code_6"
 
+def populated_places(candidate_rows_df, score_dict):
+    P_rows = candidate_rows_df[candidate_rows_df['feature_class'] == 'P']
+    geoname_ids = P_rows['geonameid'].tolist()
+    for geoname_id in geoname_ids:
+        score_dict[geoname_id] += 1.2
+    return score_dict
+
 
 
 
@@ -295,6 +322,7 @@ alt_df = load_alt_names("filtered_alternative_names.tsv")
 if args.interactive:
     user_text = unicodedata.normalize ('NFD',input("Enter a toponym: "))
     candidate_rows_df = get_candidate_rows(alt_df,country_df,user_text)
+
     print("Candidate toponyms:")
     print(candidate_rows_df[["name", "geonameid", "population", "country_code", "feature_code"]])
     # score_dict = create_score_dict(candidate_rows_df)
@@ -335,12 +363,13 @@ for file_id in text_toponym_dict:
         most_likely_candidate_id = result_list[0]
         if len (result_list) > 1:
             score_dict = result_list[1]
+            # print(score_dict)
         if str(most_likely_candidate_id) != str(geoname_id):
             error_code = analyse_error(str(most_likely_candidate_id) , str(geoname_id), country_df)
             if error_code == "error_code_1":
                 error_code_1_count += 1
-                print(file_id, target_toponym, "actual id:", geoname_id, "guessed id:", most_likely_candidate_id,
-                       sorted(score_dict.items(), key=lambda x: x[1], reverse=True))
+                # print(file_id, target_toponym, "actual id:", geoname_id, "guessed id:", most_likely_candidate_id,
+                #        sorted(score_dict.items(), key=lambda x: x[1], reverse=True))
             elif error_code == "error_code_2":
                 error_code_2_count += 1
             elif error_code == "error_code_3":
