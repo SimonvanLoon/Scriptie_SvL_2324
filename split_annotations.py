@@ -2,7 +2,7 @@ import sys
 sys.path.insert(0, 'c:\\users\\user\\pycharmprojects\\scriptie\\.venv\\lib\\site-packages')
 import pandas as pd
 import unicodedata
-
+import random
 
 def load_annotations(filename):
     gold_df = pd.read_csv(filename, sep="\t", header=None,
@@ -44,6 +44,8 @@ gold_df = load_annotations('annotations_gold.tsv')
 dict = create_dictionary(gold_df)
 index = int(0.7 * len(dict))
 key_value_list = [(key, value) for key, value in dict.items()]
+random.seed(1)
+random.shuffle(key_value_list)
 train_list = key_value_list[:index]
 test_list = key_value_list[index:]
 tuple_list_to_tsv(train_list, "train_annotations.tsv")
