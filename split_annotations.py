@@ -44,7 +44,7 @@ gold_df = load_annotations('annotations_gold.tsv')
 dict = create_dictionary(gold_df)
 index = int(0.7 * len(dict))
 key_value_list = [(key, value) for key, value in dict.items()]
-random.seed(1)
+random.seed(0)
 random.shuffle(key_value_list)
 train_list = key_value_list[:index]
 test_list = key_value_list[index:]

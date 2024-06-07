@@ -41,6 +41,20 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7432221	8226657		India						
 7432233	8226661		Pakistan						
 7432418	8226747		Canada						
+564764	1128340		Rabat						
+564769	1128345		Rabat						
+564771	1128347		Rabat						
+565289	1128688		Rabat						
+1550990	1128691		Rabat						
+565300	1128698		Rabat						
+565301	1128699		Rabat						
+565302	1128702		Rabat						
+565304	1128704		Rabat						
+565305	1128705		Rabat						
+565306	1128706		Rabat						
+565307	1128707		Rabat						
+565308	1128708		Rabat						
+565309	1128709		Rabat						
 567772	1130018		Best						
 1906900	1131461	nl	Uruzgan						
 1906903	1131461	pt	Uruzgan						
@@ -178,8 +192,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1582647	1444178		China						
 1584640	1449891		China						
 691602	1453745		China						
+693000	1454753		Rabat						
 4852977	1455460		India						
 700555	1458892		China						
+701671	1459494		Rabat						
+701866	1459606		Rabat						
 706805	1462329		Lech						
 5778693	1469615		China						
 717285	1473699		China						
@@ -352,6 +369,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1510701	3851234		Florida						
 1510702	3851242		Florida						
 1510947	3853673		Cuba						
+17702518	3855645	es	Faro						
 1511747	3858329		Colorado						
 1511878	3859240		San Francisco						
 1512264	3860805		Bremen						
@@ -370,6 +388,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17719844	12654316	es	San Francisco						
 17733554	12663393	es	San Francisco						
 17743678	12671305	es	San Francisco						
+17743733	12671360	es	Valencia						
 17747662	12675120	es	San Francisco						
 17747716	12675171	es	La Palma						
 17782205	12707213	es	San Francisco						
@@ -426,6 +445,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 2428605	2773013	en	Langenfeld	1.0	1.0				
 4163717	2777043		Hahntennjoch						
 1560448	2782113	nl	Oostenrijk	1.0					
+16943181	2058600		West						
 4246955	2058702		Wellington						
 8439391	2059336		East Island						
 6921699	2059436		Virginia						
@@ -477,9 +497,13 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7110569	2072319	en	East Island						
 4251694	2072525		Dublin						
 16944675	2075565		Buffalo						
+1560349	2077456	af	Australië	1.0					
 1560368	2077456	fr	Australie	1.0					
+1560390	2077456	nl	Australië	1.0					
+1618454	2077456	li	Australië						
 1618461	2077456	nrm	Australie						
 1893933	2077456	sco	Australie						
+16926304	2077456	fy	Australië	1.0					
 8440166	2077568		Arnhem						
 7221664	2079108	en	Long Island						
 16943218	2144155		Wellington						
@@ -524,6 +548,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1980542	2147714	hu	Sydney						
 3059202	2147714	en	Sydney	1.0					
 7322624	2149139		Somerset						
+4248069	2149936		Sebastopol						
+4248070	2149937		Sebastopol						
 7322680	2150610		Salisbury						
 16209879	2150612		Salisbury						
 8491504	2150613	en	Salisbury						
@@ -564,6 +590,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18144007	2153391	pl	Perth						
 18144008	2153391	nl	Perth						
 13826574	2155384		Newtown						
+16943905	2158553	en	Maryland						
 4249851	2158777		Marburg						
 4250032	2159657		Long Island						
 7109272	2159657	en	Long Island						
@@ -675,12 +702,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7753924	8352024	en	Somerset						
 7754012	8352112	en	Estland						
 7754364	8352464	en	Arizona						
+7754938	8353038	en	Maryland						
 7755061	8353161	en	Odessa						
 7755821	8353921	en	Kentucky						
 7755970	8354070	en	Oklahoma						
 7756191	8354291	en	Trastevere						
+7756209	8354309	en	Valencia						
 8389353	8579119	en	Karachi						
 8425257	8596788	en	Windsor Park						
+8429190	8599465	en	Vermont						
 12791633	8606531		Cape Flattery						
 8455292	8613966	en	Lockerbie						
 8455722	8614296	en	Kentucky						
@@ -694,12 +724,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8857004	8781269		Salisbury						
 8857053	8781318		Newtown						
 8857442	8781706		Somerset						
+8857483	8781747		Vermont						
 8857537	8781801		Taunton						
 8857572	8781836		Gibraltar						
 8861756	8785973		Broomfield						
 8862021	8786238		Long Island						
 8862195	8786412		Bagdad						
 8862685	8786902		Lockerbie						
+8863418	8787634		Sebastopol						
 8864133	8788349		Kentucky						
 8864695	8788910		Taunton						
 8864905	8789120		Kentucky						
@@ -718,6 +750,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8868790	8793004		Taunton						
 8868991	8793205		Kentucky						
 8869160	8793374		Kentucky						
+8869242	8793456		Vermont						
+8870190	8794404		Vermont						
 8870476	8794690		Somerset						
 8870498	8794712		Arizona						
 8870667	8794881		Oklahoma						
@@ -729,10 +763,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8872812	8797029		Dallas						
 8872976	8797193		Florida						
 8873547	8797764		Somerset						
+8873553	8797770		Ottawa						
 8873743	8797960		Illinois						
 8873947	8798165		Tel Aviv						
 8874162	8798380		Baltimore						
 8874465	8798683		Baltimore						
+8874676	8798894		Alabama						
 8874858	8799076		Kentucky						
 8874954	8799172		Somerset						
 8874979	8799198		Richmond						
@@ -752,23 +788,31 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8879317	8803546		Taunton						
 8879776	8804006		Denver						
 8879849	8804079		Iowa						
+8881118	8805351		Maryland						
 8881154	8805388		Kentucky						
 8882030	8806278		Peru						
+8882047	8806295		Maryland						
 8882542	8806790		Canberra						
 8882583	8806831		Somerset						
+8882679	8806927		Vermont						
 8882702	8806950		Dallas						
 8883002	8807250		Virginia						
 8883030	8807278		Gibraltar						
 8883037	8807285		Oklahoma						
 8883534	8807781		Peru						
+8883612	8807859		Hamburg						
 8884539	8808786		Indiana						
+8884648	8808895		Oregon						
 8884704	8808951		Gibraltar						
+8885256	8809503		Vermont						
+8885444	8809691		Maryland						
 8885529	8809776		Baltimore						
 8885645	8809892		Connecticut						
 8885753	8810000		Somerset						
 8885899	8810146		Richmond						
 8885921	8810168		Somerset						
 8886843	8811090		Kentucky						
+8887937	8812184		Maryland						
 8889144	8813391		Lockerbie						
 8890015	8814262		Denver						
 8890286	8814533		Broomfield						
@@ -778,11 +822,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8891588	8815835		Somerset						
 8891714	8815956		Indiana						
 8891892	8816134		Canberra						
+8891979	8816221		Valencia						
+8892079	8816321		Vermont						
 8892152	8816394		Oklahoma						
 8892304	8816546		Colorado						
+8893074	8817316		Maryland						
 8893338	8817580		Somerset						
 8893350	8817591		Karlsruhe						
 8893379	8817620		Somerset						
+8893672	8817914		Vermont						
 8894509	8818746		Irak						
 8895362	8819597		Kentucky						
 8896200	8820430		Broomfield						
@@ -795,6 +843,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8900744	8825031		Bagdad						
 8901075	8825365		Somerset						
 8901341	8825632		Somerset						
+8901941	8826241		Maryland						
+8901942	8826242		Maryland						
 8902070	8826372		Virginia						
 8903113	8827433		Richmond						
 8903225	8827548		Virginia						
@@ -816,8 +866,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 19244990	11746672	en	Columbia						
 13591957	11814563	en	Richmond						
 13644765	11841643	en	Richmond						
+13646067	11842341	en	Maryland						
 16355598	12054199	en	Kentucky						
 16356241	12054760	en	Kentucky						
+16357682	12055900	en	Vermont						
 17705778	12648483	en	East Island						
 1455602	3577154	ca	Oranjestad						
 1649344	3577154	de	Oranjestad						
@@ -840,6 +892,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1990461	3577154	sk	Oranjestad						
 17760059	3577154	hr	Oranjestad						
 17760060	3577154	pap	Oranjestad	1.0					
+6923176	3577159		Noord						
 7119022	3577272		Barcelona						
 12215820	11433862	en	Oranjestad						
 12195780	661485		Åland						
@@ -858,6 +911,26 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 391377	661883	sv	Åland						
 17090146	845889		Haren						
 16031584	846411		Haren						
+1689582	585468	en	Mosul						
+3952320	585468		Mosul						
+18027280	585468	ceb	Mosul						
+18027281	585468	rw	Mosul						
+18027283	585468	ny	Mosul						
+18027284	585468	sc	Mosul						
+18027286	585468	sm	Mosul						
+18027287	585468	kg	Mosul						
+18027288	585468	ki	Mosul						
+18027289	585468	kl	Mosul						
+18027291	585468	sv	Mosul						
+18027292	585468	uz	Mosul						
+18027293	585468	ms	Mosul						
+18027294	585468	it	Mosul						
+18027295	585468	co	Mosul						
+18027297	585468	sdc	Mosul						
+18027299	585468	az	Mosul						
+18027300	585468	ha	Mosul						
+18027301	585468	rm	Mosul						
+18027303	585468	nl	Mosul						
 1974624	587116	af	Azerbeidjan	1.0					
 16217459	3247002		Kosovo						
 2187177	3373988		Christchurch						
@@ -931,6 +1004,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18223197	2783311	ro	Zaventem						
 18223198	2783311	da	Zaventem						
 18223199	2783311	tr	Zaventem						
+1253896	2783585		Molenbeek						
 1254543	2785147		Turkije						
 9463087	2786770	wa	Chili						
 1255549	2787413		Sint-Gillis						
@@ -938,7 +1012,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17461404	2787413	nl	Sint-Gillis	1.0					
 8044950	2787415	nl	Sint-Gillis						
 1255646	2787706		Rosières						
+4166880	2788063		Rijk						
 4167267	2789289		Parijs						
+17589241	2789534		Oude Maas						
 4167598	2790114		Ninove						
 5599987	2790115		Ninove						
 13843893	2790115	fr	Ninove	1.0	1.0				
@@ -981,6 +1057,16 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1256695	2790472		Namen						
 13842314	2790472	nl	Namen	1.0	1.0				
 4167801	2790670		Moskou						
+1256817	2790909		Molenbeek						
+1256846	2791015		Molenbeek						
+1256847	2791016		Molenbeek						
+4167897	2791021		Molenbeek						
+4167898	2791026		Molenbeek						
+4167899	2791028		Molenbeek						
+4167900	2791029		Molenbeek						
+4167901	2791035		Molenbeek						
+4167902	2791043		Molenbeek						
+4167903	2791046		Molenbeek						
 4167995	2791297		Merksplas						
 13842409	2791298	fr	Merksplas	1.0	1.0				
 13842411	2791298	nl	Merksplas	1.0	1.0				
@@ -1068,11 +1154,16 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1635649	2792482	fi	Leuven						
 1635651	2792482	tr	Leuven						
 13842675	2792483	nl	Leuven	1.0	1.0				
+4168661	2793291		Laren						
 4168707	2793446		Lanaken						
 13842743	2793447	fr	Lanaken	1.0	1.0				
 13842744	2793447	nl	Lanaken	1.0	1.0				
 4169257	2794765		Kampen						
 13825113	2794952		Java						
+1258771	2795768		Heesch						
+1258858	2795984		Molenbeek						
+5763435	2796540		Haaren						
+1259051	2796541		Haaren						
 4169903	2796541		Haren						
 4169957	2796696		Halle						
 13844168	2796697	fr	Halle	1.0	1.0				
@@ -1254,6 +1345,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16926613	290291	fy	Bahrein	1.0					
 202568	290371		Bahrein						
 202574	290372		Bahrein						
+9389573	7090974	nl	Noord						
 1559296	433561	ca	Burundi	1.0					
 1559297	433561	cs	Burundi	1.0					
 1559298	433561	cy	Burundi	1.0					
@@ -1376,6 +1468,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16926777	3573345	tk	Bermuda	1.0					
 1415492	3444056		Santiago						
 4507929	3901295		Washington						
+17487025	3901888		Valencia						
 4508118	3901960		Uruguay						
 1522599	3904665		Santiago						
 1522603	3904674		Santiago						
@@ -1557,6 +1650,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1637395	3513232	et	Sint-Eustatius						
 1637401	3513232	nl	Sint-Eustatius						
 1902131	3513232	eo	Sint-Eustatius						
+17416996	3513346		Noord						
 4224134	3513426		Oranjestad						
 11948751	3513426	en	Oranjestad						
 1435633	3513817		Columbia						
@@ -1766,6 +1860,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7957547	3471494	pt	Arizona						
 5665354	3475592	pt	Palestina						
 7960562	3476717	pt	Palestina						
+4520254	3664247		Faro						
 1529505	3925302		Alaska						
 18817576	6320126	de	Barcelona						
 18817577	6320126	ceb	Barcelona						
@@ -1821,6 +1916,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9495628	6324358	fr	São Paulo	1.0					
 9495629	6324358	en	São Paulo	1.0					
 5516663	7538037	pt	San Francisco						
+5516684	7538058	pt	Malibu						
 5617361	7582885	pt	São Paulo						
 5687939	7616988	pt	São Paulo						
 5731950	7630231	pt	São Paulo						
@@ -2052,6 +2148,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7711080	8330789		Amerika						
 1456886	3581166		Columbia						
 4344802	3582383		Chicago						
+18781571	5937522	ceb	Delhi						
+18781572	5937522	sv	Delhi						
+18781574	5937522	en	Delhi						
+18781575	5937522	sl	Delhi						
+18781576	5937522	vls	Delhi						
+18781577	5937522	fr	Delhi						
+18781578	5937522	nl	Delhi						
+11338714	5951659		Faro						
+11338715	5951659	en	Faro						
 18783579	6059023	ceb	Long Island						
 18783580	6059023	sv	Long Island						
 18783581	6059023	en	Long Island						
@@ -2065,6 +2170,40 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1944604	6081596	pl	Logan						
 8720076	6081596	hbs	Logan						
 11362250	6081596	bs	Logan						
+1980599	6094817	de	Ottawa						
+1980600	6094817	en	Ottawa						
+1980601	6094817	fr	Ottawa						
+1980602	6094817	es	Ottawa						
+1980603	6094817	pl	Ottawa						
+1980604	6094817	af	Ottawa						
+1980608	6094817	bs	Ottawa						
+1980609	6094817	ca	Ottawa						
+1980610	6094817	cs	Ottawa						
+1980611	6094817	cy	Ottawa						
+1980612	6094817	da	Ottawa						
+1980615	6094817	et	Ottawa						
+1980616	6094817	eu	Ottawa						
+1980618	6094817	fi	Ottawa						
+1980619	6094817	frp	Ottawa						
+1980620	6094817	gd	Ottawa						
+1980623	6094817	hr	Ottawa						
+1980624	6094817	hu	Ottawa						
+1980626	6094817	id	Ottawa						
+1980627	6094817	io	Ottawa						
+1980628	6094817	is	Ottawa						
+1980629	6094817	it	Ottawa						
+1980633	6094817	ku	Ottawa						
+1980637	6094817	nl	Ottawa						
+1980638	6094817	nn	Ottawa						
+1980639	6094817	no	Ottawa						
+1980641	6094817	ro	Ottawa						
+1980643	6094817	sk	Ottawa						
+1980644	6094817	sl	Ottawa						
+1980646	6094817	sv	Ottawa						
+1980647	6094817	sw	Ottawa						
+1980649	6094817	tr	Ottawa						
+1980651	6094817	vi	Ottawa						
+1980652	6094817	vo	Ottawa						
 11710195	6122078	fr	Richmond						
 11371505	6151201	az	Somerset						
 2184338	6185811		Yukon	1.0	1.0				
@@ -2120,6 +2259,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18865837	6354908	da	Sydney						
 18865838	6354908	tr	Sydney						
 19253700	6354908	hr	Sydney						
+11083546	8581623	fr	Ottawa	1.0					
 16390364	12070681	en	Somerset						
 16390365	12070681	fr	Somerset						
 6755251	203312	en	Congo		1.0	1.0			
@@ -2205,6 +2345,19 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1980810	2660646	qu	Genève						
 5773046	2660911		Emmen						
 8613317	2660911	en	Emmen						
+1998454	2661398	de	Brienz	1.0					
+1998455	2661398	es	Brienz						
+1998456	2661398	fr	Brienz						
+1998457	2661398	en	Brienz						
+1998458	2661398	et	Brienz						
+1998459	2661398	it	Brienz						
+1998462	2661398	lb	Brienz						
+1998463	2661398	nl	Brienz						
+1998464	2661398	pt	Brienz						
+1998465	2661398	sv	Brienz						
+4023128	2661398		Brienz						
+7299992	2661399		Brienz						
+13523434	2661399	de	Brienz						
 1881461	6294245		Memphis						
 13188619	6458783	fr	Genève	1.0					
 9484858	7285902	fr	Genève	1.0					
@@ -2212,6 +2365,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13186654	11546965	fr	Rosières						
 13238819	11576778	de	Brugge						
 13931990	11962715	abbr	NY						
+13932470	11962969		Brienz	1.0	1.0				
 13932969	11963244	abbr	LA						
 16105241	12005317	it	Santa Monica						
 16105332	12005408	it	La Palma						
@@ -2220,6 +2374,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11809428	3868079	es	Virginia						
 15978054	3868080		Virginia						
 17088792	3868081	es	Virginia						
+15978391	3871122		Sebastopol						
 17753549	3871332	es	Santiago	1.0	1.0				
 1591569	3871336	en	Santiago	1.0					
 1591573	3871336	ca	Santiago						
@@ -2266,6 +2421,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1516743	3885937		Florida						
 1516744	3885945		Florida						
 15980565	3887266		India						
+15980853	3889577		Faro						
 1518168	3890825		Paraguay						
 1518399	3891569		Colorado						
 11810027	3892079	es	Ecuador						
@@ -2366,15 +2522,23 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17372529	12469252	es	Arizona						
 17373008	12469589	es	San Francisco						
 17373033	12469614	es	San Francisco						
+8041711	2222934	en	West		1.0				
+17897209	2222934	fi	West						
+17897216	2222934	sl	West						
 3667719	2228770		Mali						
 1081613	2231050		Bali						
+5815990	2231680		Faro						
 3668753	2233340		Congo						
 3669162	2235024		Bali						
 1927881	2235029	pl	Bali						
 1927882	2235029	en	Bali						
 3669163	2235029	fr	Bali						
 1082727	2235597		Bali						
+10262950	9228189		Faro						
+16079221	9228189	en	Faro		1.0				
 6920294	1280600	zh	Mali						
+6997154	1281378	mn	Delhi						
+8396918	1281378	en	Delhi						
 6644421	1281666	zh	Bali						
 1579095	1529047		Xinjiang		1.0				
 11990458	1529047	en	Xinjiang	1.0	1.0				
@@ -2416,6 +2580,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4194002	1801372		Mali						
 10265883	1801373		Mali						
 4194003	1801374		Mali						
+4196335	1804273		Laren						
 12096135	1804926	en	Long Island						
 1579216	1808773		Hebei						
 6754920	1808773	en	Hebei	1.0	1.0				
@@ -2659,6 +2824,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10320541	9914861		Mali						
 10329435	9919983		Chili						
 10335987	9924268		Ede						
+10337322	9924937		Laren						
+10338400	9925478		Laren						
 10340470	9926519		Namen						
 10341266	9926921		Namen						
 10341330	9926953		Namen						
@@ -2670,10 +2837,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10348944	9930772		Bali						
 10350242	9931424		Bali						
 10350356	9931484		Bali						
+10352454	9932538		Laren						
 10353186	9932908		Namen						
 10353842	9933237		Xinjiang						
 10355020	9933830		Mali						
 10355352	9933997		Xinjiang						
+10374200	9943702		Laren						
 10379174	9946211		Libie						
 10429044	9990726		Mali						
 10431316	9991855		Hebei						
@@ -2688,6 +2857,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10450737	10001939		Hebei						
 10461303	10007975		Ede						
 10465193	10010145		Namen						
+10465581	10010339		Malibu						
 10467223	10011189		Mali						
 10468137	10011646		Mali						
 10468185	10011670		Namen						
@@ -2708,10 +2878,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10688044	10199538		Bali						
 10705649	10212220		Dubai						
 10767731	10273942		Cuba						
+10768081	10274120		Laren						
 10824401	10324997		Xinjiang						
 10883288	10361777		Bali						
 10888703	10364676		Xinjiang						
 10892593	10366620		Xinjiang						
+10905237	10374151		Laren						
 10945144	10402979		Bali						
 10981018	10422555		Bali						
 10981090	10422591		Bali						
@@ -2760,7 +2932,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4531169	3666141		Veracruz						
 4531170	3666143		Veracruz						
 8466211	3666147		Veracruz						
+1485063	3666322		Valencia						
+4531231	3666324		Valencia						
+13673851	3666326		Valencia						
+4531232	3666328		Valencia						
 1485066	3666329		San Francisco						
+4531233	3666329		Valencia						
+6144308	3666329	es	Valencia						
+4531234	3666330		Valencia						
 1485758	3667999		San Francisco						
 1485886	3668389		Santiago						
 1485888	3668391		Santiago						
@@ -2800,6 +2979,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 5492959	3673275	es	Palestina						
 4533395	3673276		Palestina						
 4533759	3674428		Montevideo						
+4533992	3675189		Maryland						
 4534153	3675706		Madrid						
 4534154	3675707		Madrid						
 4534155	3675708		Madrid						
@@ -3068,6 +3248,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10873918	10356944	es	Santa Barbara						
 11032182	10631312	es	La Palma						
 11032452	10631576	es	San Diego						
+16251585	12035472	es	Valencia						
 17221286	12385437	es	Palestina						
 17221403	12385554	es	San Francisco						
 17221435	12385586	es	Puerto Rico						
@@ -3111,6 +3292,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9512506	3623076	fr	Liberia	1.0					
 9512507	3623076	de	Liberia	1.0					
 9512508	3623076	en	Liberia	1.0					
+13827200	3623081		Lepanto						
 17088483	3623173		La Palma						
 16949745	3623719	es	Florida						
 16895996	3623720	es	Florida						
@@ -3153,10 +3335,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17084324	12357967	es	San Francisco						
 17098909	12365184	es	San Francisco						
 17101005	12366687	es	Santiago						
+17101043	12366723	es	Valencia						
 17101098	12366776	es	Florida						
 17105076	12369223	es	Caracas						
 17105290	12369430	es	Cuba						
 17105303	12369443	es	San Francisco						
+17105434	12369574	es	Valencia						
 17105449	12369589	es	Veracruz						
 17120435	12377306	es	Virginia						
 17120949	12377801	es	Europa						
@@ -3167,6 +3351,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17233798	12395679	es	Florida						
 17241838	12401419	es	Florida						
 17242241	12401810	es	San Diego						
+17242465	12401990	es	Valencia						
 17242470	12401994	es	Arizona						
 17242636	12402159	es	San Francisco						
 17268182	12418428	es	San Francisco						
@@ -3175,6 +3360,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17269434	12419646	es	Baltimore						
 17269459	12419670	es	Chicago						
 17269500	12419709	es	Veracruz						
+17269548	12419755	es	Maryland						
 17358500	12458730	es	Florida						
 17358508	12458738	es	Santiago						
 17359131	12459302	es	San Francisco						
@@ -3190,8 +3376,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4239588	3534055		Virginia						
 4239666	3534432		Venezuela						
 4239667	3534433		Venezuela						
+1444370	3534667		Valencia						
+4239719	3534685		Valencia						
 4239734	3534737		Uruguay						
 1444395	3534745		San Francisco						
+11172812	3535540	es	Tamaulipas						
 1444861	3536729		Santiago		1.0				
 1444862	3536730		Santiago						
 11846289	3536733	es	Santiago						
@@ -3410,8 +3599,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1912650	3374199	pt	Santiago						
 1912651	3374199	sv	Santiago						
 4314461	3374214		Santiago						
+7482777	3374333	iata	RAI						
 1557976	3374766	nl	Kaapverdië	1.0					
 16927606	3374766	fy	Kaapverdië	1.0					
+2080541	6453410	iata	RAI				1.0		
+8146133	8521336	iata	RAI						
 1435329	3513181		Santa Barbara						
 4224106	3513322		Roosendaal						
 1435551	3513640		Damascus						
@@ -3470,8 +3662,19 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3946629	146670		Cyprus						
 13911992	11951812	en	Akropolis						
 1311460	3077105		Langenfeld						
+1557809	3077311	nl	Tsjechië	1.0					
+1973967	3077311	li	Tsjechië						
 4542843	3079798		Amerika						
 5720118	2772797		Lech						
+1989176	2806654	de	Wolfsburg						
+1989177	2806654	cs	Wolfsburg						
+4209400	2806654		Wolfsburg						
+12095223	2806654	en	Wolfsburg						
+10582708	2815139	de	Waldböckelheim						
+2080263	2822542	es	Thüringen						
+2185077	2822542	de	Thüringen	1.0	1.0				
+7996227	2822542		Thüringen						
+1262098	2822543	de	Thüringen						
 15932818	2823546		Tempelberg						
 15932819	2823547		Tempelberg						
 16779712	2823548	de	Tempelberg						
@@ -3526,6 +3729,19 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1940570	2831708	nl	Soest						
 15934039	2831814		Sittard						
 15934040	2831815		Sittard						
+11320175	2838632	nl	Sleeswijk-Holstein						
+11658346	2842565	fy	Saksen-Anhalt						
+13721519	2842565	nl	Saksen-Anhalt						
+17916619	2842565	frr	Saksen-Anhalt						
+17916622	2842565	stq	Saksen-Anhalt						
+17916659	2842565	vls	Saksen-Anhalt						
+17916722	2842566	frr	Saksen						
+17916728	2842566	stq	Saksen						
+17916761	2842566	nds-NL	Saksen						
+17916777	2842566	vls	Saksen						
+17916809	2842566	nl	Saksen						
+17916814	2842566	fy	Saksen						
+8186627	2847618	nl	Rijnland-Palts						
 1954339	2850536	es	Ramstein						
 1954340	2850536	fr	Ramstein						
 1954344	2850536	sv	Ramstein						
@@ -3537,6 +3753,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11658422	2862926	nl	Nedersaksen						
 17917155	2862926	nds-NL	Nedersaksen						
 17917166	2862926	vls	Nedersaksen						
+17917316	2872567	nl	Mecklenburg-Voor-Pommeren						
 1264071	2873759		Marburg						
 1618063	2873759	de	Marburg						
 1618064	2873759	en	Marburg						
@@ -3598,6 +3815,28 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1599782	2886242	af	Keulen						
 1599806	2886242	nl	Keulen						
 5883552	2886242	fy	Keulen						
+1897394	2891122	fr	Kiel						
+1897395	2891122	es	Kiel						
+1897396	2891122	en	Kiel						
+1897398	2891122	de	Kiel						
+1897400	2891122	ast	Kiel						
+1897402	2891122	ca	Kiel						
+1897403	2891122	cs	Kiel						
+1897404	2891122	da	Kiel						
+1897407	2891122	et	Kiel						
+1897408	2891122	fi	Kiel						
+1897410	2891122	hu	Kiel						
+1897412	2891122	it	Kiel						
+1897416	2891122	nds	Kiel						
+1897417	2891122	nl	Kiel						
+1897418	2891122	nn	Kiel						
+1897419	2891122	no	Kiel						
+1897420	2891122	pt	Kiel						
+1897422	2891122	hbs	Kiel						
+1897424	2891122	sv	Kiel						
+1897425	2891122	tr	Kiel						
+1897426	2891122	vo	Kiel						
+4213727	2891951		Kiel						
 8517310	2892791		Karlsruhe						
 1605329	2892794	de	Karlsruhe						
 1605330	2892794	en	Karlsruhe						
@@ -3622,6 +3861,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1897437	2892794	vo	Karlsruhe						
 1983628	2892794	cs	Karlsruhe						
 4213803	2892794		Karlsruhe						
+8517311	2892916		Chemnitz						
 15941781	2893296		Kampen						
 7321873	2910514		Haren						
 16405592	2910654	de	Hardenberg						
@@ -3651,6 +3891,122 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1895444	2910831	vo	Hannover						
 1981457	2910831	hr	Hannover						
 7717347	2910831		Hannover						
+2080254	2911297	de	Hamburg	1.0	1.0				
+2080255	2911297	es	Hamburg						
+2185049	2911297		Hamburg	1.0	1.0				
+2426267	2911297	en	Hamburg		1.0				
+17917489	2911297	ksh	Hamburg						
+17917492	2911297	tum	Hamburg						
+17917493	2911297	ban	Hamburg						
+17917495	2911297	bar	Hamburg						
+17917502	2911297	qu	Hamburg						
+17917503	2911297	af	Hamburg						
+17917505	2911297	ak	Hamburg						
+17917508	2911297	cdo	Hamburg						
+17917511	2911297	lfn	Hamburg						
+17917515	2911297	rm	Hamburg						
+17917516	2911297	ro	Hamburg						
+17917525	2911297	br	Hamburg						
+17917528	2911297	bs	Hamburg						
+17917530	2911297	min	Hamburg						
+17917533	2911297	sk	Hamburg						
+17917534	2911297	sl	Hamburg						
+17917539	2911297	su	Hamburg						
+17917540	2911297	sv	Hamburg						
+17917541	2911297	sw	Hamburg						
+17917542	2911297	ch	Hamburg						
+17917544	2911297	co	Hamburg						
+17917551	2911297	cy	Hamburg						
+17917553	2911297	tl	Hamburg						
+17917554	2911297	vls	Hamburg						
+17917556	2911297	tr	Hamburg						
+17917559	2911297	tw	Hamburg						
+17917563	2911297	diq	Hamburg						
+17917564	2911297	ug	Hamburg						
+17917565	2911297	hak	Hamburg						
+17917569	2911297	pam	Hamburg						
+17917570	2911297	pap	Hamburg						
+17917575	2911297	et	Hamburg						
+17917577	2911297	vi	Hamburg						
+17917578	2911297	hsb	Hamburg						
+17917579	2911297	hbs	Hamburg						
+17917580	2911297	vo	Hamburg						
+17917582	2911297	ff	Hamburg						
+17917584	2911297	fj	Hamburg						
+17917586	2911297	fo	Hamburg						
+17917587	2911297	wa	Hamburg						
+17917590	2911297	nov	Hamburg						
+17917591	2911297	wo	Hamburg						
+17917592	2911297	ga	Hamburg						
+17917594	2911297	gd	Hamburg						
+17917595	2911297	szl	Hamburg						
+17917598	2911297	lld	Hamburg						
+17917601	2911297	war	Hamburg						
+17917602	2911297	pdc	Hamburg						
+17917604	2911297	gv	Hamburg						
+17917605	2911297	xh	Hamburg						
+17917606	2911297	ha	Hamburg						
+17917611	2911297	hr	Hamburg						
+17917612	2911297	gsw	Hamburg						
+17917613	2911297	hu	Hamburg						
+17917617	2911297	nah	Hamburg						
+17917618	2911297	yo	Hamburg						
+17917620	2911297		Hamburg						
+17917621	2911297	id	Hamburg						
+17917622	2911297	nap	Hamburg						
+17917623	2911297	ie	Hamburg						
+17917624	2911297	frp	Hamburg						
+17917625	2911297	io	Hamburg						
+17917627	2911297	nrm	Hamburg						
+17917632	2911297	zu	Hamburg						
+17917634	2911297	jv	Hamburg						
+17917637	2911297	kg	Hamburg						
+17917642	2911297	ku	Hamburg						
+17917643	2911297	kw	Hamburg						
+17917646	2911297	lb	Hamburg						
+17917647	2911297	li	Hamburg						
+17917652	2911297	dag	Hamburg						
+17917653	2911297	pih	Hamburg						
+17917656	2911297	mg	Hamburg						
+17917659	2911297	rmy	Hamburg						
+17917665	2911297	ms	Hamburg						
+17917668	2911297	ilo	Hamburg						
+17917670	2911297	dsb	Hamburg						
+17917671	2911297	na	Hamburg						
+17917672	2911297	nb	Hamburg						
+17917674	2911297	nl	Hamburg						
+17917675	2911297	nn	Hamburg						
+17917679	2911297	ang	Hamburg						
+17917684	2911297	pl	Hamburg						
+1598144	2911298	de	Hamburg	1.0					
+1598145	2911298	en	Hamburg						
+1598147	2911298	af	Hamburg						
+1598148	2911298	als	Hamburg						
+1598152	2911298	bs	Hamburg						
+1598154	2911298	ca	Hamburg						
+1598159	2911298	et	Hamburg						
+1598164	2911298	ga	Hamburg						
+1598166	2911298	hr	Hamburg						
+1598167	2911298	hu	Hamburg						
+1598168	2911298	id	Hamburg						
+1598173	2911298	ku	Hamburg						
+1598176	2911298	nb	Hamburg						
+1598178	2911298	nl	Hamburg						
+1598179	2911298	nn	Hamburg						
+1598180	2911298	no	Hamburg						
+1598181	2911298	pl	Hamburg						
+1598183	2911298	ro	Hamburg						
+1598185	2911298	sk	Hamburg						
+1598186	2911298	sl	Hamburg						
+1598188	2911298	sv	Hamburg						
+1598189	2911298	tr	Hamburg						
+1632998	2911298	vi	Hamburg						
+1894952	2911298	io	Hamburg						
+1980571	2911298	eu	Hamburg						
+1980572	2911298	qu	Hamburg						
+1980573	2911298	sw	Hamburg						
+1980575	2911298	vo	Hamburg						
+4215246	2911298		Hamburg						
 8517318	2911516		Halle						
 16661797	2911518		Halle						
 15944457	2911519		Halle						
@@ -3681,9 +4037,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4215261	2911522		Halle						
 15944458	2911524		Halle						
 16781675	2911527	de	Halle						
+15944729	2913126		Haaren						
 16661810	2917136		Gronau						
 5722370	2917138		Gronau						
 7565547	2917139		Gronau						
+1613646	2918632	de	Göttingen						
+1613647	2918632	en	Göttingen						
+1613650	2918632	da	Göttingen						
+1613651	2918632	eo	Göttingen						
+1613652	2918632	fr	Göttingen						
+1613653	2918632	id	Göttingen						
+1613660	2918632	nl	Göttingen						
+1613661	2918632	no	Göttingen						
+1613664	2918632	ro	Göttingen						
+1613666	2918632	sl	Göttingen						
+1613667	2918632	sv	Göttingen						
+1622263	2918632	et	Göttingen						
+1898781	2918632	fi	Göttingen						
+1898783	2918632	vo	Göttingen						
+4215832	2918632		Göttingen						
 1557469	2921044	af	Duitsland	1.0					
 1557512	2921044	nl	Duitsland	1.0					
 8517334	2924362		Friesland						
@@ -3729,6 +4101,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1985500	2925535	vi	Frankfurt						
 7321988	2929880		Epe						
 15947072	2930525		Emmen						
+8003898	2931271	de	Elbe						
 8517348	2934245		Düsseldorf						
 13498941	2934245	de	Düsseldorf		1.0				
 1600691	2934246	de	Düsseldorf						
@@ -3779,6 +4152,29 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1983736	2934691	cs	Duisburg						
 1983737	2934691	ro	Duisburg						
 4217040	2934691		Duisburg						
+16661873	2940130		Chemnitz						
+15948337	2940131		Chemnitz						
+1606513	2940132	de	Chemnitz						
+1606514	2940132	en	Chemnitz						
+1606515	2940132	es	Chemnitz						
+1606518	2940132	da	Chemnitz						
+1606519	2940132	eo	Chemnitz						
+1606520	2940132	fr	Chemnitz						
+1606522	2940132	id	Chemnitz						
+1606523	2940132	it	Chemnitz						
+1606526	2940132	nl	Chemnitz						
+1606527	2940132	no	Chemnitz						
+1606528	2940132	pl	Chemnitz						
+1606529	2940132	pt	Chemnitz						
+1606531	2940132	sv	Chemnitz						
+1628536	2940132	et	Chemnitz						
+1628537	2940132	fi	Chemnitz						
+1899124	2940132	cs	Chemnitz						
+1899127	2940132	tr	Chemnitz						
+1899128	2940132	vo	Chemnitz						
+1985325	2940132	ro	Chemnitz						
+1985327	2940132	vi	Chemnitz						
+4217585	2940132		Chemnitz						
 1269452	2940354		Kampen						
 1269453	2940355		Kampen						
 2080252	2944387	de	Bremen	1.0	1.0				
@@ -3804,6 +4200,24 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1983148	2944388	vi	Bremen						
 1983149	2944388	vo	Bremen						
 13826077	2944389		Bremen						
+11664449	2945023		Braunschweig						
+1606700	2945024	de	Braunschweig						
+1606701	2945024	en	Braunschweig						
+1606704	2945024	eo	Braunschweig						
+1606705	2945024	et	Braunschweig						
+1606706	2945024	fi	Braunschweig						
+1606708	2945024	hu	Braunschweig						
+1606709	2945024	id	Braunschweig						
+1606710	2945024	it	Braunschweig						
+1606716	2945024	nl	Braunschweig						
+1606717	2945024	no	Braunschweig						
+1606719	2945024	sl	Braunschweig						
+1606720	2945024	sv	Braunschweig						
+1606721	2945024	tr	Braunschweig						
+1634618	2945024	da	Braunschweig						
+1634619	2945024	pt	Braunschweig						
+1898545	2945024	vo	Braunschweig						
+4218010	2945024		Braunschweig						
 16693792	2946134	de	Borne						
 13826105	2946136		Borne						
 1982024	2946447	de	Bonn						
@@ -3918,16 +4332,27 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11851354	3220905		Bremen						
 1375779	3220968		Frankfurt		1.0				
 11947300	3220968	de	Frankfurt		1.0				
+8520879	3221011		Braunschweig						
+8520881	3221013		Göttingen						
+8520890	3221023		Wolfsburg						
 8520895	3221033		Hannover						
 8520937	3221124		Soest						
 8521160	3231901		Duisburg						
 8521162	3231903		Düsseldorf						
 8521256	3247450		Bonn						
+8521328	3249070		Kiel						
+7996081	3305801	de	Chemnitz		1.0				
+7996082	3305801	it	Chemnitz		1.0				
 2000867	6290300	de	Frankfurt						
 2000868	6290300	pl	Frankfurt						
+8146732	6548487	de	Chemnitz	1.0	1.0				
+9495734	6548487	en	Chemnitz	1.0					
+9495735	6548487	fr	Chemnitz	1.0					
 8146504	6548737	de	Leipzig	1.0	1.0				
 9445341	6548737	fr	Leipzig	1.0					
 9445342	6548737	en	Leipzig	1.0					
+8147708	6552297		Braunschweig		1.0				
+8147710	6552298		Wolfsburg		1.0				
 8146424	6553020	de	Bremen	1.0	1.0				
 9445336	6553020	en	Bremen	1.0					
 8147726	6553022	de	Düsseldorf	1.0	1.0				
@@ -3974,6 +4399,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9484940	6555606	fr	Karlsruhe	1.0	1.0				
 9484941	6555606	de	Karlsruhe	1.0	1.0				
 9484942	6555606	en	Karlsruhe	1.0					
+8147959	6557373	en	Göttingen	1.0					
+13598640	6557373	de	Göttingen	1.0					
 8148593	6557701		Soest		1.0				
 2730262	6557919	de	Ramstein		1.0				
 9495610	6559065	de	Hannover	1.0					
@@ -3981,8 +4408,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9484862	6690189	en	Stuttgart	1.0					
 9484863	6690189	fr	Stuttgart	1.0					
 3074498	7290252	de	Spandau		1.0				
+9445293	7602585	de	Hamburg	1.0					
+9445294	7602585	en	Hamburg	1.0					
+13499545	11778178		Waldböckelheim						
 19245967	11973043	es	Frankfurt						
 19245971	11973043	pl	Frankfurt						
+16558045	12136232	de	West						
 1593300	2618425	de	Kopenhagen						
 1593306	2618425	br	Kopenhagen						
 1593307	2618425	bs	Kopenhagen						
@@ -4055,9 +4486,13 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3630083	3505444		Gibraltar						
 1433272	3507865		Colorado						
 1434581	3511645		Virginia						
+1167610	2479247		Nador						
+15991966	2486493		Nador						
 1557048	2589581	nl	Algerije	1.0					
 1974461	2589581	fy	Algerije	1.0					
 1974478	2589581	li	Algerije						
+1478520	3650299		Valencia						
+7120497	3650301		Valencia						
 16663785	3651320	es	Santiago						
 1478826	3651335		Columbia						
 1478942	3651871		San Francisco						
@@ -4078,6 +4513,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4406912	3655054		La Palma						
 4406913	3655056		La Palma						
 4406914	3655057		La Palma						
+1480114	3655896		Valencia						
 1480240	3656009		Senegal						
 1480265	3656034		Santiago						
 1480501	3656258		San Francisco						
@@ -4234,6 +4670,29 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16927995	338010	lb	Eritrea	1.0					
 16927999	338010	qu	Eritrea	1.0					
 4562844	2509638		Cumbre Vieja						
+2186773	2509951	de	Valencia	1.0	1.0				
+2186774	2509951	en	Valencia	1.0	1.0				
+2431139	2509951	ast	Valencia	1.0	1.0				
+2697963	2509951	es	Valencia		1.0				
+4563342	2509953		Valencia						
+1982041	2509954	es	Valencia	1.0					
+1982043	2509954	en	Valencia						
+1982044	2509954	de	Valencia						
+1982046	2509954	af	Valencia						
+1982053	2509954	da	Valencia						
+1982055	2509954	et	Valencia						
+1982057	2509954	fi	Valencia						
+1982060	2509954	hr	Valencia						
+1982061	2509954	id	Valencia						
+1982062	2509954	it	Valencia	1.0					
+1982066	2509954	lb	Valencia						
+1982069	2509954	nl	Valencia						
+1982070	2509954	no	Valencia						
+1982073	2509954	ro	Valencia						
+1982075	2509954	hbs	Valencia						
+1982076	2509954	sk	Valencia						
+1982078	2509954	sv	Valencia						
+1982081	2509954	vi	Valencia						
 1556718	2510769	af	Spanje	1.0					
 1556760	2510769	nl	Spanje	1.0					
 1972235	2510769	fy	Spanje	1.0					
@@ -4252,6 +4711,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11711195	2515680	it	La Palma						
 4572093	2515681		La Palma						
 1179661	2515962		Florida						
+1626632	2593113	es	Valencia		1.0				
+2298849	2593113	no	Valencia						
+2298850	2593113	nn	Valencia						
+2417624	2593113	sv	Valencia						
+2728520	2593113	en	Valencia	1.0	1.0				
+7717504	2593113		Valencia	1.0	1.0				
+16735958	2593113	de	Valencia	1.0	1.0				
+17908809	2593113	hu	Valencia						
+17908829	2593113	frr	Valencia						
+17908843	2593113	bs	Valencia						
+17908863	2593113	cy	Valencia						
+17908865	2593113	vls	Valencia						
+17908866	2593113	da	Valencia						
+17908867	2593113	li	Valencia						
+17908892	2593113	nb	Valencia						
+17908895	2593113	nl	Valencia						
+17908896	2593113	fi	Valencia						
+17908898	2593113	fo	Valencia						
+17908900	2593113	fy	Valencia						
 1319103	3104681		Santiago						
 1319154	3104936		Santiago						
 1319164	3105025		Santiago						
@@ -4446,6 +4924,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1324101	3122292		Santiago						
 1324178	3122570		Santiago						
 1324191	3122594		Santiago						
+4574638	3122617		Faro						
 1324245	3122775		Santiago						
 1324574	3123789		Santiago						
 1324664	3124052		Santiago						
@@ -4563,8 +5042,79 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7411766	6359304	en	Madrid	1.0					
 9445299	6359304	de	Madrid	1.0					
 9445300	6359304	fr	Madrid	1.0					
+9445305	6362115	de	Valencia	1.0					
+9445306	6362115	en	Valencia	1.0					
+18970200	6362115	hr	Valencia						
+18970201	6362115	gsw	Valencia						
+18970202	6362115	hu	Valencia						
+18970203	6362115	lmo	Valencia						
+18970207	6362115	bar	Valencia						
+18970208	6362115	nah	Valencia						
+18970210	6362115	ia	Valencia						
+18970211	6362115	id	Valencia						
+18970212	6362115	ie	Valencia						
+18970213	6362115	sco	Valencia						
+18970214	6362115	scn	Valencia						
+18970216	6362115	qu	Valencia						
+18970217	6362115	af	Valencia						
+18970219	6362115	io	Valencia						
+18970220	6362115	frr	Valencia						
+18970222	6362115	ak	Valencia						
+18970223	6362115	it	Valencia						
+18970225	6362115	an	Valencia						
+18970228	6362115	stq	Valencia						
+18970231	6362115	ay	Valencia						
+18970233	6362115	rm	Valencia						
+18970234	6362115	ro	Valencia						
+18970235	6362115	ceb	Valencia						
+18970241	6362115	bm	Valencia						
+18970243	6362115	jv	Valencia						
+18970248	6362115	bs	Valencia						
+18970252	6362115	sk	Valencia						
+18970253	6362115	sl	Valencia						
+18970255	6362115	sq	Valencia						
+18970261	6362115	sv	Valencia						
+18970264	6362115	sw	Valencia						
+18970267	6362115	co	Valencia						
+18970268	6362115	tpi	Valencia						
+18970277	6362115	cy	Valencia						
+18970278	6362115	lb	Valencia						
+18970280	6362115	tn	Valencia						
+18970281	6362115	vls	Valencia						
+18970282	6362115	da	Valencia						
+18970283	6362115	tr	Valencia						
+18970285	6362115	ast	Valencia						
+18970286	6362115	tw	Valencia						
+18970289	6362115	rup	Valencia						
+18970290	6362115	diq	Valencia						
+18970294	6362115	hak	Valencia						
+18970299	6362115	pam	Valencia						
+18970304	6362115	rmy	Valencia						
+18970309	6362115	ms	Valencia						
+18970311	6362115	mt	Valencia						
+18970313	6362115	es	Valencia						
+18970315	6362115	et	Valencia						
+18970317	6362115	vi	Valencia						
+18970318	6362115	nb	Valencia						
+18970319	6362115	chy	Valencia						
+18970320	6362115	hbs	Valencia						
+18970321	6362115	vo	Valencia						
+18970323	6362115	nl	Valencia						
+18970324	6362115	nn	Valencia						
+18970325	6362115	fi	Valencia						
+18970328	6362115	ny	Valencia						
+18970334	6362115	szl	Valencia						
+18970335	6362115	gl	Valencia						
+18970337	6362115	lld	Valencia						
+18970338	6362115	war	Valencia						
+18970341	6362115	ha	Valencia						
 230706	332103		Limmen						
 4526905	335188		Hama						
+4527898	337906		Faro						
+1556657	337996	af	Ethiopië	1.0					
+1556697	337996	nl	Ethiopië	1.0					
+1976007	337996	li	Ethiopië						
+16928029	337996	fy	Ethiopië	1.0					
 17408670	649549	fi	Breda			1.0			
 388970	654498	sv	Kampen						
 11470075	654498	no	Kampen						
@@ -4632,6 +5182,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18322922	3427059	en	East Island						
 18322924	3427059	nl	East Island						
 1407955	3427170		Long Island						
+1214687	2614323		Saksen						
 11219431	2967681	nl	Vogezen	1.0					
 1275127	2969364		Vic						
 1275128	2969365		Vic						
@@ -4641,6 +5192,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1275137	2969389		Vic						
 1275139	2969401		Vic						
 1275141	2969404		Vic						
+2188723	2971053	es	Valencia						
 1275977	2972185		Tours						
 1275978	2972186		Tours						
 1275979	2972187		Tours						
@@ -4683,6 +5235,13 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1950842	2977214	nl	Saint-Rémy-de-Provence						
 2034982	2977214	ceb	Saint-Rémy-de-Provence						
 13636269	2978742	de	St. Louis	1.0					
+1957075	2980236	pl	Saint-Étienne-du-Rouvray						
+1957076	2980236	fr	Saint-Étienne-du-Rouvray						
+1957077	2980236	en	Saint-Étienne-du-Rouvray						
+1957078	2980236	it	Saint-Étienne-du-Rouvray						
+1957079	2980236	nl	Saint-Étienne-du-Rouvray						
+1957081	2980236	sv	Saint-Étienne-du-Rouvray						
+5600495	2980236		Saint-Étienne-du-Rouvray						
 1281078	2982772		Rosières						
 1281079	2982773		Rosières						
 1281080	2982774		Rosières						
@@ -4694,7 +5253,28 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4272624	2982781		Rosières						
 4272625	2982782		Rosières						
 4272626	2982783		Rosières						
+1281639	2984625		Rabat						
 1592148	2988507	nl	Parijs	1.0					
+4276834	2990109		Normandie						
+16538053	2990437	fr	Nice						
+16254089	2990439	fr	Nice		1.0				
+16254090	2990439		Nice		1.0				
+1628019	2990440	en	Nice						
+1628022	2990440	af	Nice						
+1628026	2990440	da	Nice						
+1628028	2990440	et	Nice						
+1628030	2990440	fr	Nice						
+1628032	2990440	id	Nice						
+1628037	2990440	lb	Nice						
+1628039	2990440	nb	Nice						
+1628040	2990440	nl	Nice						
+1628041	2990440	no	Nice						
+1628044	2990440	pt	Nice						
+1628048	2990440	sv	Nice						
+1633913	2990440	cy	Nice						
+1982778	2990440	ceb	Nice						
+1982782	2990440	qu	Nice						
+1982784	2990440	sk	Nice						
 1283677	2990967		Nantes						
 16254612	2990968	fr	Nantes		1.0				
 16254613	2990968		Nantes		1.0				
@@ -4724,6 +5304,34 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1982996	2990969	oc	Nantes						
 1982997	2990969	qu	Nantes						
 1982998	2990969	tr	Nantes						
+1285047	2995463		Marseille						
+16254648	2995468	fr	Marseille		1.0				
+16254649	2995468		Marseille		1.0				
+1599999	2995469	de	Marseille						
+1600000	2995469	en	Marseille						
+1600002	2995469	af	Marseille						
+1600006	2995469	cs	Marseille						
+1600007	2995469	da	Marseille						
+1600009	2995469	et	Marseille						
+1600011	2995469	fi	Marseille						
+1600012	2995469	fr	Marseille	1.0					
+1600015	2995469	hr	Marseille						
+1600016	2995469	id	Marseille						
+1600017	2995469	io	Marseille						
+1600022	2995469	lb	Marseille						
+1600025	2995469	nds	Marseille						
+1600026	2995469	nl	Marseille						
+1600027	2995469	no	Marseille						
+1600033	2995469	sv	Marseille						
+1633346	2995469	bs	Marseille						
+1633349	2995469	sk	Marseille						
+1895353	2995469	sl	Marseille						
+1895356	2995469	vi	Marseille						
+1980663	2995469	ceb	Marseille						
+1980666	2995469	hu	Marseille						
+1980669	2995469	qu	Marseille						
+1980671	2995469	vls	Marseille						
+4280104	2995469		Marseille						
 4283929	3004314		Leers						
 1645756	3008406	es	Alpe d'Huez						
 1645757	3008406	en	Alpe d'Huez						
@@ -4735,6 +5343,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1292070	3020657		Durban						
 1292071	3020659		Durban						
 4292143	3020661		Durban						
+1293019	3023517		Corsica						
+4293920	3023518	en	Corsica						
+2189414	3023519	en	Corsica	1.0	1.0				
+11763935	3023519	it	Corsica	1.0					
+16740940	3023519	co	Corsica						
 1294651	3028805		Cannes						
 1628262	3028808	de	Cannes						
 1628263	3028808	es	Cannes						
@@ -4882,6 +5495,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9445324	6446684	en	Cannes	1.0					
 9445325	6446684	fr	Cannes	1.0					
 16271165	6446684		Cannes		1.0				
+9445346	6447142	de	Marseille	1.0					
+9445347	6447142	en	Marseille	1.0					
+9445348	6447142	fr	Marseille	1.0					
+16259060	6447142		Marseille		1.0				
 16290664	6449024	fr	Borne		1.0				
 16290665	6449024		Borne		1.0				
 11581085	6449249	ca	Durban						
@@ -4893,21 +5510,41 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16267296	6454060		Tours		1.0				
 16286567	6454455	fr	Rosières		1.0				
 16286568	6454455		Rosières		1.0				
+9445303	6454924	en	Nice	1.0					
+9445304	6454924	fr	Nice	1.0					
 9484956	6455058	fr	Bordeaux	1.0					
 9484957	6455058	de	Bordeaux	1.0					
 9484958	6455058	en	Bordeaux	1.0					
 16274199	6618172	fr	Borne		1.0				
 16274200	6618172		Borne		1.0				
+9467147	7602847	nl	Capitool						
 19179727	8288334	eo	Cannes						
 9584767	8556237	fr	St. Louis		1.0				
 10222673	9843557	fr_1793	Réunion				1.0		
+11285035	11071621		Normandie						
+11285861	11071621	fr	Normandie	1.0					
+13196354	11071621	de	Normandie						
+17966259	11071621	gsw	Normandie						
+17966266	11071621	zea	Normandie						
+17966267	11071621	ie	Normandie						
+17966274	11071621	frr	Normandie						
+17966281	11071621	vi	Normandie						
+17966282	11071621	nb	Normandie						
+17966308	11071621	sv	Normandie						
+17966316	11071621	cs	Normandie						
+17966319	11071621	lb	Normandie						
+17966321	11071621	ha	Normandie						
+17966324	11071621	da	Normandie						
+17966326	11071621	li	Normandie						
 16515177	12122157	fr	Tours						
 17008957	12306395	fr	Rome						
 17009157	12306595	fr	Calais						
+17011640	12309064	fr	Vermont						
 17012519	12309925	fr	Vic						
 17013838	12311242	fr	Bordeaux						
 17014531	12311922	fr	Logan						
 17015464	12312855	fr	Manchester						
+17016024	12313415	fr	Normandie						
 17022171	12319546	fr	Haren						
 17023336	12320706	fr	Vic						
 17026603	12323959	fr	Gibraltar						
@@ -4915,6 +5552,13 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3240269	2634588		Well						
 2730133	2634715	en	Washington	1.0	1.0				
 3172603	2634715		Washington						
+1566048	2634894	en	Wales						
+3172633	2634894		Wales						
+1626654	2634895	en	Wales	1.0	1.0				
+2728526	2634895	sv	Wales						
+6533553	2634895	nl	Wales	1.0					
+6533556	2634895	de	Wales	1.0					
+16725523	2634895	no	Wales	1.0					
 11387162	2635167	nl	Groot-Brittannië						
 17126227	2635167	nl	Verenigd Koninkrijk	1.0					
 1924686	2636177	de	Taunton						
@@ -4959,6 +5603,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1991502	2638664	tr	Salisbury						
 3173159	2638664		Salisbury						
 11390075	2638935		Rusland						
+1607540	2639093	de	Rotherham						
+1607541	2639093	en	Rotherham						
+1607542	2639093	eo	Rotherham						
+1607543	2639093	fi	Rotherham						
+1607544	2639093	id	Rotherham						
+1607545	2639093	nl	Rotherham						
+1607546	2639093	sv	Rotherham						
+1923877	2639093	fr	Rotherham						
+2015144	2639093	ro	Rotherham						
 3240660	2639388		Richmond						
 1221755	2640357		Perth						
 1908658	2640358	fr	Perth						
@@ -5045,6 +5698,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1981749	2648579	gl	Glasgow						
 1981752	2648579	oc	Glasgow						
 4012141	2649054		Friesland						
+4012346	2650268		Echt						
 4012564	2651584		Dallas						
 4012794	2653074		Christchurch						
 3175461	2654550		Broomfield						
@@ -5080,6 +5734,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 2184576	3333169		Manchester	1.0	1.0				
 8666503	3333169	en	Manchester	1.0	1.0				
 1937451	3333187	cs	Richmond						
+2184463	3333189		Rotherham	1.0	1.0				
+8666517	3333189	en	Rotherham	1.0	1.0				
 2184712	3333223		Belfast	1.0	1.0				
 8666542	3333223	en	Belfast	1.0	1.0				
 6928066	3345368		Broomfield						
@@ -5112,6 +5768,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 19106887	6697862	fi	British Museum						
 19106888	6697862	fr	British Museum						
 19106889	6697862	oc	British Museum						
+5812236	6945239	abbr	RAI						
+19119580	6953118	de	Maryland						
+19119584	6953118	fr	Maryland						
+19119586	6953118	es	Maryland						
 19122357	6953701	pl	Taunton						
 19253311	7290591	nl	Zuid-Holland	1.0	1.0				
 13287115	11609046	en	Somerset		1.0				
@@ -5249,8 +5909,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1980184	2420477	nl	Guinee	1.0					
 16928427	2420477	fy	Guinee	1.0					
 1455826	3578296		Réunion						
+13193716	3578300	fr	Vermont						
 13225035	11567898	fr	Canada						
 13230137	11571728	fr	Congo						
+4146246	2306832		Rabat						
 1613297	252601	de	Tripoli						
 1613298	252601	en	Tripoli						
 1613300	252601	ro	Tripoli						
@@ -5266,10 +5928,31 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17992649	254864	nl	Poros						
 9711887	254865	en	Poros						
 167078	255620		Peloponnesos						
+168357	256639		Lepanto						
+8542727	256639	it	Lepanto						
 1643370	258293	tr	Limni						
 10643242	258304	en	Limni						
 11166984	258307	en	Limni						
 11084238	258309	en	Limni						
+170593	258465		Lesbos	1.0					
+170596	258466		Lesbos						
+1622148	258466	es	Lesbos						
+1622149	258466	de	Lesbos						
+1622151	258466	cs	Lesbos						
+1622152	258466	da	Lesbos						
+1622155	258466	et	Lesbos						
+1622157	258466	fr	Lesbos						
+1622158	258466	gl	Lesbos						
+1622164	258466	la	Lesbos						
+1622166	258466	nl	Lesbos						
+1622167	258466	pl	Lesbos						
+1622168	258466	pt	Lesbos						
+1622171	258466	sv	Lesbos						
+1985503	258466	ca	Lesbos						
+1985504	258466	eu	Lesbos						
+1985506	258466	nn	Lesbos						
+1985507	258466	ro	Lesbos						
+2256741	258466	no	Lesbos						
 1901311	262565	nl	Evia						
 1901313	262565	ro	Evia						
 17993482	262565	da	Evia						
@@ -5284,6 +5967,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7116544	8133668	en	Tripoli		1.0				
 7116645	8133692	en	Olympia		1.0				
 7116708	8133709	en	Poros		1.0				
+7116910	8133755	en	Lesbos		1.0				
 9711247	9035859	en	Thrakomakedones						
 19231931	9035859	de	Thrakomakedones						
 19231936	9035859	it	Thrakomakedones						
@@ -5297,6 +5981,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10132543	9781731	en	Rio						
 11015726	10629587	en	Limni						
 16454616	3587955	es	Veracruz						
+4347150	3588018		Valencia						
+16586633	3588019	es	Valencia						
 16662941	3588049	es	Uruguay						
 4347162	3588050		Uruguay						
 1460816	3589099		Santiago						
@@ -5486,6 +6172,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1554808	2372248	af	Guinee-Bissau	1.0					
 1554847	2372248	nl	Guinee-Bissau	1.0					
 16928605	2372248	fy	Guinee-Bissau	1.0					
+4409534	3375322		Wales						
 17509598	3375421	en	Virginia						
 1392189	3375683		Best						
 4409740	3375869		Stockholm						
@@ -5501,6 +6188,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4410494	3378162		Java						
 4410527	3378256		Indiana						
 1393330	3378459		Haarlem						
+17331683	3378488	en	Hamburg						
 1393401	3378634		Glasgow						
 4410639	3378638		Gibraltar						
 17331692	3379096	en	Columbia						
@@ -5583,6 +6271,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17448704	12509072	en	Kosovo	1.0					
 17448706	12509072	hr	Kosovo	1.0					
 13148219	3717462	fr	Santiago						
+13148550	3721242	fr	Marseille						
 1504562	3727087		Dallas						
 12787537	3727499	fr	Colorado						
 12146832	3731004	fr	Austin						
@@ -5622,6 +6311,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1925703	1637090	en	Lumajang						
 1925705	1637090	no	Lumajang						
 3153592	1637090	id	Lumajang						
+6994250	1638377	id	Laren						
 804258	1638501		Long Island						
 3971887	1641903		Kalimantan						
 1652746	1642668	nl	Oost-Java						
@@ -5698,6 +6388,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 812392	1645770		Alkmaar						
 3976544	1647310	id	Caracas						
 815778	1648148		Kalimantan						
+3977295	1648148		Borneo						
+17556603	1648148	de	Borneo						
 3979111	1650534	en	Bali						
 2184739	1650535		Bali	1.0	1.0				
 3074336	1650535	en	Bali						
@@ -5713,11 +6405,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 5005036	1987897	id	Kalibata						
 5005118	1988029	id	Kalibata						
 12188535	2082600	nl	Noordwijk				1.0		
+4884099	6389677	id	Laren						
 4884103	6389681	id	Kalibata						
 4885077	6390657	id	Sudan						
+4885468	6391048	id	Laren						
 4890049	6399927	id	Surabaya						
 4897455	6409092	id	Sudan						
 4900396	6560308	id	Bali						
+4901682	6561980	id	Laren						
+4902085	6562383	id	Laren						
 4903733	6564362	id	Bali						
 4903857	6564486	id	Bali						
 4909712	6570646	id	Sudan						
@@ -5764,6 +6460,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 6630436	7863593	id	Surabaya						
 11710543	7869837	fr	Lombok	1.0	1.0				
 6856025	8018250	id	Surabaya						
+7013298	8068670	id	Laren						
 7013390	8068761	id	Sudan						
 7031499	8079873	id	Sudan						
 7795972	8361476	id	Surabaya						
@@ -5780,6 +6477,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8544470	8659091	en	Lombok						
 17545312	12549726		Lombok						
 1271931	2961006	en	Virginia						
+16946539	2961019		Valencia						
 1272388	2962229		Newtown						
 1272389	2962230		Newtown						
 8662938	2962242	en	Newtown						
@@ -5929,6 +6627,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1898570	294801	ro	Haifa						
 1984993	294801	fi	Haifa						
 1984994	294801	nn	Haifa						
+17842097	294824	nl	Noord						
 8265866	8542078		Durban						
 8266024	8542266		Los Angeles						
 8266207	8542374		Kampen						
@@ -5963,6 +6662,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1895061	1255231	hr	Taj Mahal						
 1980906	1255231	oc	Taj Mahal						
 13824855	1257591		Salt Lake City						
+13660473	1259016	abbr	RAI						
 648160	1269725		East Island						
 1563990	1269750	aa	India	1.0					
 1564000	1269750	cy	India	1.0					
@@ -6075,15 +6775,39 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16928889	1269750	fy	India	1.0					
 16928892	1269750	qu	India	1.0					
 649166	1272695		Dubai						
+2184370	1273293	en	Delhi		1.0				
+2256791	1273293	fr	Delhi		1.0				
+5649760	1273293		Delhi						
+13287275	1273293	de	Delhi						
+1984288	1273294	fr	Delhi						
+1984289	1273294	es	Delhi						
+1984290	1273294	en	Delhi	1.0					
+1984291	1273294	pl	Delhi						
+1984292	1273294	de	Delhi						
+1984294	1273294	eu	Delhi						
+1984295	1273294	fi	Delhi						
+1984299	1273294	hu	Delhi						
+1984306	1273294	nds	Delhi						
+1984307	1273294	nl	Delhi						
+1984308	1273294	nn	Delhi						
+1984310	1273294	ro	Delhi						
+1984314	1273294	sv	Delhi						
+4138440	1273294		Delhi						
+17596041	1273294	hr	Delhi						
+19253717	1273294	sl	Delhi						
 10934806	1275507		Birma						
 650093	1275508		Birma						
 650731	1277540		Bali						
 7319624	1277589		Bali						
 1626719	6269134	es	India			1.0			
 8792280	7671009	en	Taj Mahal	1.0					
+11801430	8335458		West						
+13695875	8335458	en	West						
 13655475	10580364	abbr	IJ						
 17440474	12096464	abbr	LA						
 4330358	1282573		East Island						
+3119022	91969		Rabat						
+35331	92877		Mosul						
 1601095	94787	de	Kirkuk						
 1601096	94787	en	Kirkuk						
 1601098	94787	da	Kirkuk						
@@ -6147,6 +6871,16 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1605796	98717	id	Ramadi						
 1605797	98717	nl	Ramadi						
 8435222	98717	fr	Ramadi						
+1629327	99072	es	Mosul						
+1629328	99072	en	Mosul						
+1629332	99072	cs	Mosul						
+1629333	99072	da	Mosul						
+1629340	99072	no	Mosul						
+1629341	99072	pl	Mosul						
+1629345	99072	sv	Mosul						
+1900241	99072	fi	Mosul						
+17831304	99072	hr	Mosul						
+41439	99073		Mosul						
 41690	99237		Irak						
 1563814	99237	af	Irak	1.0					
 1563822	99237	da	Irak	1.0					
@@ -6332,6 +7066,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9785744	449599		Qom						
 3598881	1114844		Lech						
 1563738	2629691	nl	IJsland	1.0					
+2187891	3426184	en	West	1.0					
+9411640	3426184		West						
+1182597	2522914		Faro						
 10380133	2523118	nl	Sicilië	1.0					
 1980494	2523119	nl	Sicilië						
 11318139	2523119	li	Sicilië						
@@ -6348,6 +7085,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1906305	2524458	nl	Lampedusa						
 1906308	2524458	sv	Lampedusa						
 7216426	2524459		Lampedusa						
+1183460	2524792		Faro						
 1641406	3164567	de	Verbania						
 1641407	3164567	pl	Verbania						
 1641408	3164567	en	Verbania						
@@ -6404,6 +7142,29 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1590744	3169070	nrm	Rome						
 2430812	3169071	en	Rome						
 11285512	3169071	fr	Rome	1.0					
+1612591	3169361	de	Rimini						
+1612592	3169361	en	Rimini						
+1612594	3169361	ca	Rimini						
+1612595	3169361	cs	Rimini						
+1612596	3169361	da	Rimini						
+1612597	3169361	eo	Rimini						
+1612598	3169361	et	Rimini						
+1612599	3169361	fr	Rimini						
+1612600	3169361	hr	Rimini						
+1612601	3169361	id	Rimini						
+1612602	3169361	it	Rimini						
+1612604	3169361	nl	Rimini						
+1612605	3169361	no	Rimini						
+1612606	3169361	pl	Rimini						
+1612607	3169361	pt	Rimini						
+1612608	3169361	ro	Rimini						
+1612610	3169361	sk	Rimini						
+1612611	3169361	sv	Rimini						
+1634655	3169361	bs	Rimini						
+1634656	3169361	nap	Rimini						
+1898566	3169361	fi	Rimini						
+1898567	3169361	tr	Rimini						
+4663404	3169361		Rimini						
 1590789	3172394	nl	Napels						
 1981048	3172394	af	Napels						
 7582215	3172394	fy	Napels						
@@ -6431,9 +7192,19 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1600517	3176219	nl	Genua						
 1600520	3176219	pl	Genua						
 1600526	3176219	sv	Genua						
+2004578	3178094	pl	Corinaldo						
+2004579	3178094	fr	Corinaldo						
+2004580	3178094	en	Corinaldo						
+2004581	3178094	eo	Corinaldo						
+2004582	3178094	it	Corinaldo						
+2004584	3178094	nap	Corinaldo						
+2004585	3178094	nl	Corinaldo						
+2004586	3178094	pt	Corinaldo						
+2004587	3178094	sv	Corinaldo						
 9139300	3181586		Breda		1.0				
 5891641	6299552		Lampedusa						
 12131747	6457402	abbr	VS						
+2431287	6457404	it	Rimini	1.0	1.0				
 8544984	6536018	de	Tirol						
 11379281	6536018	en	Tirol						
 11379282	6536018	nl	Tirol						
@@ -6446,15 +7217,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11379299	6536018	war	Tirol						
 11379300	6536018	pl	Tirol						
 11524359	6536061	frp	Polen						
+7837069	6536776	it	Corinaldo		1.0				
 7840162	6541466	it	Siena		1.0				
+7841816	6541863	it	Rimini		1.0				
 7836957	6542004	it	Verbania		1.0				
 11514113	6543448	pms	Lech						
+19205113	8714379	fr	Rimini						
+19205119	8714379	pl	Rimini						
+9031301	8955807		Faro						
 9031713	8956219		Montevideo						
 9032047	8956551		Tripoli						
+9033124	8957628		Brega						
 9033988	8958492		Santa Barbara						
 9034467	8958971		Santa Barbara						
+9034735	8959239		Faro						
 9036980	8961484		Europa						
 9038339	8962843		Santa Barbara						
+9038858	8963362		Faro						
+9039796	8964300		Faro						
+9042042	8966546		Faro						
 9042411	8966915		Breda						
 9044922	8969415		Rio						
 9045649	8970140		Breda						
@@ -6474,6 +7255,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9056803	8981289		Europa						
 9056891	8981377		Tripoli						
 9057803	8982290		Santa Barbara						
+9059008	8983495		Faro						
+9134109	9031433		Corsica						
 9134669	9031992		Breda						
 17499750	12530448	it	Santa Barbara						
 17520381	12540227	it	Santa Barbara						
@@ -6481,6 +7264,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17546233	12550444	it	Santa Barbara						
 17574849	12564160	it	Santa Barbara						
 3596091	3487988		Windsor Park						
+16935422	3488078		West						
 3596217	3488493		Somerset						
 3596300	3488834		Richmond						
 3596381	3489137		Palmyra						
@@ -6872,6 +7656,13 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4091392	610030		Donetsk						
 366229	610096		Chili						
 743890	1519132		Chili						
+1562589	1522867	nl	Kazachstan	1.0					
+1562591	1522867	pl	Kazachstan	1.0					
+1562595	1522867	sk	Kazachstan	1.0					
+1974697	1522867	hsb	Kazachstan						
+1974706	1522867	li	Kazachstan						
+16929287	1522867	fy	Kazachstan	1.0					
+4091173	1524271		Rabat						
 752975	1535513		Bali						
 17083795	12357590		Chili						
 17230270	12392742		Ankara						
@@ -7025,6 +7816,19 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3212161	1228262		Santa Barbara						
 4112017	1229201		Queensland						
 4112236	1231363		Panama						
+5490215	1235889		Maryland						
+4126467	2273150		West						
+1095894	2275099		Maryland		1.0				
+17899369	2275099	pt	Maryland						
+17899381	2275099	frr	Maryland						
+17899387	2275099	eu	Maryland						
+17899390	2275099	nb	Maryland						
+17899393	2275099	nl	Maryland						
+17899397	2275099	fi	Maryland						
+17899399	2275099	fr	Maryland						
+17899401	2275099	br	Maryland						
+17899404	2275099	ca	Maryland						
+17899415	2275099	da	Maryland						
 1562225	2275384	cy	Liberia	1.0					
 1562226	2275384	da	Liberia	1.0					
 1562227	2275384	de	Liberia	1.0					
@@ -7154,6 +7958,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1562029	458258	nl	Letland	1.0					
 1973748	458258	li	Letland						
 3665090	88252	en	Cyrenaica						
+30783	88319		Benghazi						
+1600814	88319	en	Benghazi						
+1600820	88319	fr	Benghazi						
+1600822	88319	id	Benghazi						
+1600824	88319	nl	Benghazi						
 31314	88931		Kufra						
 1953267	88931	es	Kufra						
 1953270	88931	en	Kufra		1.0				
@@ -7161,6 +7970,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1953272	88931	gl	Kufra						
 9394767	88932	vec	Kufra						
 17833512	88932	hbs	Kufra						
+1612737	89113	en	Ajdabiya						
+1612739	89113	sv	Ajdabiya						
 8613457	2210245	en	Tripoli		1.0				
 1070607	2210246		Tripoli						
 1649381	2210247	en	Tripoli						
@@ -7170,6 +7981,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1649775	2210247	fi	Tripoli						
 1649847	2210247	sv	Tripoli						
 5813090	2210247	no	Tripoli						
+1070934	2210554		Sirte						
+1910364	2210554	es	Sirte						
+1910365	2210554	en	Sirte	1.0					
+1910369	2210554	fi	Sirte						
 2020359	2214846	tr	Misrata						
 1561872	2215636	af	Libië	1.0					
 1561911	2215636	nl	Libië	1.0					
@@ -7177,6 +7992,50 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16929511	2215636	fy	Libië	1.0					
 11285714	2218840	en	Bani Walid						
 11285715	2218840		Bani Walid						
+11990576	7602692		Ajdabiya						
+1191254	2538473		Rabat						
+2189568	2538474	fr	Rabat	1.0	1.0				
+1592513	2538475	de	Rabat						
+1592514	2538475	en	Rabat						
+1592515	2538475	es	Rabat		1.0				
+1592517	2538475	ca	Rabat						
+1592518	2538475	cy	Rabat						
+1592520	2538475	et	Rabat						
+1592522	2538475	fi	Rabat						
+1592523	2538475	fr	Rabat						
+1592525	2538475	id	Rabat						
+1592526	2538475	io	Rabat						
+1592527	2538475	it	Rabat						
+1592531	2538475	nl	Rabat						
+1592532	2538475	no	Rabat						
+1592533	2538475	pl	Rabat						
+1592534	2538475	pt	Rabat						
+1592535	2538475	ro	Rabat						
+1592537	2538475	sk	Rabat						
+1592539	2538475	sv	Rabat						
+1634013	2538475	tr	Rabat						
+1649513	2538475	da	Rabat						
+1896385	2538475	an	Rabat						
+1896387	2538475	bs	Rabat						
+1896389	2538475	cs	Rabat						
+1896390	2538475	sw	Rabat						
+1982772	2538475	eu	Rabat						
+3255567	2538475		Rabat						
+3255568	2538476		Rabat						
+2189616	2541472	fr	Nador	1.0	1.0				
+12095828	2541472	en	Nador		1.0				
+12095829	2541472		Nador		1.0				
+1613097	2541479	de	Nador						
+1613098	2541479	en	Nador						
+1613099	2541479	es	Nador						
+1613100	2541479	fr	Nador						
+1613101	2541479	it	Nador						
+1613102	2541479	nl	Nador						
+1613103	2541479	pl	Nador						
+1645522	2541479	da	Nador						
+1645524	2541479	gl	Nador						
+3256234	2541479		Nador						
+4692796	2541480		Nador						
 1193854	2542007		Marokko						
 1561812	2542007	af	Marokko	1.0					
 1561820	2542007	da	Marokko	1.0					
@@ -7204,7 +8063,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1635980	2542997	fi	Marrakech						
 1987157	2542997	ro	Marrakech						
 3256435	2542997		Marrakech						
+1198301	2548763		Faro						
 1204606	2556892		Assen						
+2195077	6546652	fr	Tamanar	1.0	1.0				
+2196353	6547050	fr	Nador	1.0	1.0				
+2196361	6547056	fr	Afsou	1.0	1.0				
 2189694	6547285	fr	Marrakech	1.0	1.0				
 5580387	6547285	en	Marrakech	1.0					
 17286071	11881878		Marrakech						
@@ -7431,16 +8294,49 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4560058	1313128		Long Island						
 660600	1325124		Long Island						
 660620	1325243		Long Island						
+660930	1327865		Myanmar						
+1561488	1327865	de	Myanmar	1.0					
+1561491	1327865	en	Myanmar	1.0					
+1561494	1327865	et	Myanmar						
+1561497	1327865	fr	Myanmar		1.0				
+1561517	1327865	nb	Myanmar	1.0					
+1561519	1327865	nn	Myanmar						
 1561520	1327865	pl	Birma						
+1561530	1327865	tr	Myanmar						
+1976720	1327865	an	Myanmar						
+1976721	1327865	ast	Myanmar						
+1976725	1327865	cs	Myanmar						
 1976732	1327865	fy	Birma						
+1976739	1327865	ia	Myanmar						
+1976740	1327865	ilo	Myanmar						
+1976741	1327865	io	Myanmar						
+1976744	1327865	ku	Myanmar						
+1976752	1327865	nds	Myanmar						
+1976755	1327865	pam	Myanmar						
+1976756	1327865	pt	Myanmar						
+1976757	1327865	qu	Myanmar	1.0					
+1976767	1327865	tl	Myanmar						
 2421214	1327865	et	Birma	1.0					
+2421226	1327865	pl	Myanmar	1.0					
+2421228	1327865	sk	Myanmar	1.0					
+7088850	1327865	mg	Myanmar	1.0					
+7088853	1327865	nd	Myanmar	1.0					
+7088860	1327865	sn	Myanmar	1.0					
+16929760	1327865	lb	Myanmar	1.0					
+17415078	1327865	bur	Myanmar	1.0					
+17415080	1327865	en-GB	Myanmar	1.0					
 7575448	1328228		Long Island						
+11775252	11154242		Mobye						
 13267016	3569980	fr	Réunion						
 1453058	3570544		Californie						
 4254090	3570966		Californie						
 13282385	11601110	fr	Réunion						
 17375698	3578059		Richmond						
 16949330	3578092		Nantes						
+1208377	2562619		Rabat						
+1919309	2562619	mt	Rabat						
+7636997	8299744	mt	Rabat						
+7636999	8299745		Rabat						
 16677836	930831	en	China						
 9744907	1755675	es	San Francisco						
 13290368	3483054	es	Colorado						
@@ -7511,6 +8407,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1910267	3514783	no	Veracruz						
 4224758	3514783		Veracruz						
 9939452	3514784	es	Veracruz						
+8661490	3514882	es	Valencia						
 7846527	3514964		San Francisco						
 1436150	3515017		Santiago						
 1436268	3515339		Santiago						
@@ -7518,6 +8415,66 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1436522	3515859		Santiago						
 1436611	3516030		Santiago						
 7726959	3516088		Texas						
+1436779	3516391		Tamaulipas		1.0				
+1990828	3516391	fr	Tamaulipas						
+1990829	3516391	es	Tamaulipas		1.0				
+1990830	3516391	de	Tamaulipas						
+1990831	3516391	en	Tamaulipas						
+1990832	3516391	pl	Tamaulipas						
+1990834	3516391	ca	Tamaulipas						
+1990835	3516391	da	Tamaulipas						
+1990836	3516391	eo	Tamaulipas						
+1990837	3516391	eu	Tamaulipas						
+1990838	3516391	fi	Tamaulipas						
+1990839	3516391	it	Tamaulipas						
+1990841	3516391	kw	Tamaulipas						
+1990842	3516391	nl	Tamaulipas						
+1990843	3516391	no	Tamaulipas						
+1990844	3516391	pt	Tamaulipas						
+17938414	3516391	hr	Tamaulipas						
+17938415	3516391	hu	Tamaulipas						
+17938417	3516391	bar	Tamaulipas						
+17938419	3516391	nah	Tamaulipas						
+17938420	3516391	pms	Tamaulipas						
+17938421	3516391	ia	Tamaulipas						
+17938423	3516391	id	Tamaulipas						
+17938424	3516391	sco	Tamaulipas						
+17938427	3516391	io	Tamaulipas						
+17938428	3516391	frr	Tamaulipas						
+17938429	3516391	is	Tamaulipas						
+17938430	3516391	an	Tamaulipas						
+17938433	3516391	az	Tamaulipas						
+17938434	3516391	rm	Tamaulipas						
+17938435	3516391	ro	Tamaulipas						
+17938440	3516391	br	Tamaulipas						
+17938441	3516391	sc	Tamaulipas						
+17938445	3516391	sk	Tamaulipas						
+17938446	3516391	sl	Tamaulipas						
+17938450	3516391	sv	Tamaulipas						
+17938452	3516391	sw	Tamaulipas						
+17938455	3516391	cs	Tamaulipas						
+17938460	3516391	cy	Tamaulipas						
+17938461	3516391	tl	Tamaulipas						
+17938462	3516391	tr	Tamaulipas						
+17938464	3516391	ast	Tamaulipas						
+17938467	3516391	lad	Tamaulipas						
+17938468	3516391	vec	Tamaulipas						
+17938470	3516391	mg	Tamaulipas						
+17938471	3516391	pam	Tamaulipas						
+17938475	3516391	uz	Tamaulipas						
+17938476	3516391	ms	Tamaulipas						
+17938478	3516391	ilo	Tamaulipas						
+17938479	3516391	et	Tamaulipas						
+17938480	3516391	vi	Tamaulipas						
+17938481	3516391	nb	Tamaulipas						
+17938482	3516391	chy	Tamaulipas						
+17938483	3516391	hbs	Tamaulipas						
+17938485	3516391	nn	Tamaulipas						
+17938487	3516391	fy	Tamaulipas						
+17938488	3516391	oc	Tamaulipas						
+17938489	3516391	ga	Tamaulipas						
+17938491	3516391	gl	Tamaulipas						
+17938492	3516391	war	Tamaulipas						
 1436784	3516396		La Palma						
 1436889	3516627		Santiago						
 1437042	3516904		Santiago						
@@ -7754,6 +8711,17 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18329594	3530445	ca	Colombia						
 4237319	3530446		Colombia						
 9759040	3530447		Colombia						
+1605925	3530580	de	Ciudad Victoria						
+1605926	3530580	en	Ciudad Victoria						
+1605927	3530580	es	Ciudad Victoria						
+1605928	3530580	nl	Ciudad Victoria						
+1605929	3530580	sv	Ciudad Victoria						
+1923445	3530580	pl	Ciudad Victoria						
+1923446	3530580	fr	Ciudad Victoria						
+1923447	3530580	ca	Ciudad Victoria						
+1923448	3530580	pt	Ciudad Victoria						
+2001836	3530580	id	Ciudad Victoria						
+4237414	3530580		Ciudad Victoria						
 1596728	3530597	fr	Mexico						
 1596746	3530597	ro	Mexico						
 1981136	3530597	sw	Mexico						
@@ -7764,6 +8732,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1443657	3532427		San Francisco						
 4238676	3532457		Bagdad						
 1443827	3532854		Los Angeles						
+9537064	3532931	es	Tamaulipas						
 1440490	3762706		San Francisco						
 4826187	3792108	es	San Francisco						
 8051425	3792198	es	San Diego						
@@ -7825,6 +8794,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9948536	3816382	es	San Francisco						
 9948589	3816493	es	San Diego						
 9755665	3816626	es	Santiago						
+9540621	3816795	es	Tamaulipas						
 11398526	3817382	es	Santiago						
 12106948	3817700	es	San Diego						
 13303748	3817864		San Francisco						
@@ -7877,6 +8847,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13290237	3970926	es	San Francisco						
 8793765	3970979	es	Puerto Rico						
 7756643	3971121	es	Utah						
+9066352	3971208	es	Valencia						
 7756654	3971218		La Palma						
 11993664	3971244	es	San Francisco						
 10726925	3971404	es	San Francisco						
@@ -7932,6 +8903,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8238000	3979304	es	Colorado						
 11994063	3979356	es	Santiago						
 8332021	3979472	es	Veracruz						
+8332076	3979528		Tamaulipas						
+8332105	3979549	es	Ciudad Victoria						
 8553172	3980058	es	Virginia						
 10728963	3980059	es	Virginia						
 4224651	3980061		Virginia						
@@ -7941,10 +8914,16 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8798042	3980382	es	Veracruz						
 1534719	3980384		Veracruz						
 9755201	3980385	es	Veracruz						
+1534809	3980688		Valencia						
+1534813	3980692		Valencia						
+8661486	3980693	es	Valencia						
+4224849	3980694		Valencia						
 9535833	3981417	es	Tokio						
 9535846	3981721	es	Texas						
 9755393	3981722	es	Texas						
 11845934	3982226	es	San Francisco						
+9415044	3982578	es	Tamaulipas						
+9193202	3983205	es	Sebastopol						
 17756663	3983467	es	San Francisco						
 1535713	3983624		Santiago						
 1535720	3983633		Santiago						
@@ -8216,6 +9195,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1543320	4010261		Colorado						
 1543322	4010263		Colorado						
 1543323	4010264		Colorado						
+10151782	4011416	es	Valencia						
 8801652	4011691	es	Barcelona						
 8801727	4012391	es	Cuba						
 9416181	4012393	es	Cuba						
@@ -8333,6 +9313,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8176284	8528394	es	La Palma						
 8282150	8552094	es	Virginia						
 8386389	8576562	es	China						
+8386412	8576583	es	Valencia						
+8428796	8599095	es	Tamaulipas						
 8484779	8627186	es	San Francisco						
 8484782	8627189	es	La Palma						
 8503067	8635503	es	La Palma						
@@ -8357,6 +9339,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8531176	8650579	es	La Palma						
 8541366	8656876	es	San Diego						
 8576857	8669608	es	San Francisco						
+8576888	8669636	es	Faro						
 8576994	8669743	es	La Palma						
 8582620	8673977	es	San Francisco						
 8583134	8674539	es	San Francisco						
@@ -8468,9 +9451,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8767852	8725905	es	San Francisco						
 8767929	8725977	es	La Palma						
 8767934	8725982	es	Montevideo						
+8768708	8726477	es	Valencia						
 8768752	8726519	es	San Francisco						
 8768838	8726596	es	San Diego						
 8769085	8726806	es	San Francisco						
+8769154	8726872	es	Tamaulipas						
 8769368	8726999	es	La Palma						
 8772419	8727965	es	San Francisco						
 8772538	8728079	es	La Palma						
@@ -8494,6 +9479,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8790427	8739017	es	La Palma						
 8790428	8739018	es	La Palma						
 8790774	8739372	es	Santiago						
+8791054	8739634	es	Valencia						
 8807565	8741971	es	La Palma						
 8807569	8741975	es	San Francisco						
 8807986	8742349	es	La Palma						
@@ -8510,6 +9496,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8820844	8750219	es	Los Angeles						
 8820852	8750227	es	Los Angeles						
 8821123	8750420	es	La Palma						
+8821450	8750735	es	Valencia						
 8822030	8751096	es	La Palma						
 8822404	8751404	es	La Palma						
 8822510	8751509	es	La Palma						
@@ -8565,6 +9552,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8838745	8764285	es	La Palma						
 8838849	8764386	es	Colorado						
 8838942	8764480	es	La Palma						
+8838960	8764498	es	Sebastopol						
 8839119	8764655	es	La Palma						
 8839135	8764671	es	San Diego						
 8839482	8765033	es	Los Angeles						
@@ -8677,6 +9665,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8935167	8859789		Veracruz						
 8935395	8860018		La Palma						
 8935498	8860121		Barajas						
+8935745	8860369		Sebastopol						
+8935777	8860401		Sebastopol						
 8936136	8860758		La Palma						
 8936437	8861056		San Francisco						
 8936500	8861119		La Palma						
@@ -8696,6 +9686,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8940827	8865444		La Palma						
 8940837	8865454		San Francisco						
 4232363	8866006		La Palma						
+8941850	8866467		Tamaulipas						
+8941855	8866472		Valencia						
 8942358	8866975		San Francisco						
 8942385	8867002		Palestina						
 8942490	8867107		La Palma						
@@ -8869,6 +9861,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8986865	8911494		La Palma						
 8986882	8911511		San Francisco						
 8986971	8911600		San Diego						
+8987087	8911716		Tamaulipas						
 8987133	8911762		San Francisco						
 8987134	8911763		Veracruz						
 8987326	8911955		La Palma						
@@ -8907,6 +9900,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8994579	8919209		Puerto Rico						
 8994594	8919224		Venezuela						
 8994624	8919254		San Francisco						
+8994719	8919349		Tamaulipas						
 8994742	8919372		Cuba						
 8994764	8919394		Veracruz						
 8994780	8919410		Uruguay						
@@ -8921,6 +9915,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8997070	8921703		La Palma						
 8997074	8921707		San Francisco						
 8997257	8921890		Veracruz						
+8997424	8922058		Valencia						
 8997457	8922091		San Diego						
 8997479	8922113		Cariben						
 8998078	8922712		San Diego						
@@ -8934,6 +9929,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9000178	8924812		San Francisco						
 9000205	8924839		La Palma						
 9000228	8924862		Puerto Rico						
+9000286	8924920		Tamaulipas						
 9000289	8924923		Palestina						
 9000427	8925061		San Francisco						
 9000433	8925067		Veracruz						
@@ -9016,6 +10012,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9015445	8940079		Palestina						
 9015450	8940084		Montevideo						
 9015529	8940163		Veracruz						
+9016119	8940753		Sebastopol						
 9016435	8941069		San Francisco						
 9016608	8941242		San Francisco						
 9016649	8941283		Puerto Rico						
@@ -9046,6 +10043,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9021803	8946437		La Palma						
 9021806	8946440		San Francisco						
 9022186	8946820		Santiago						
+9022456	8947090		Valencia						
 9022511	8947145		Puerto Rico						
 9022527	8947161		San Francisco						
 9022610	8947244		Arizona						
@@ -9109,6 +10107,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9112444	9014605	es	La Palma						
 9112555	9014709	es	La Palma						
 9112575	9014729	es	Bremen						
+9112591	9014743	es	Lepanto						
 9112880	9015020	es	La Palma						
 9113024	9015164	es	Virginia						
 9113032	9015172	es	La Palma						
@@ -9138,10 +10137,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9122945	9022409	es	San Diego						
 9123158	9022621	es	San Francisco						
 9123316	9022775	es	San Francisco						
+9123421	9022876	es	Valencia						
 9123672	9023122	es	Santiago						
 9124157	9023597	es	La Palma						
 9124590	9024015	es	Los Angeles						
 9124762	9024186	es	San Francisco						
+9125666	9024914	es	Valencia						
 9126142	9025376	es	Colombia						
 9126654	9025876	es	San Diego						
 9126922	9026138	es	Colorado						
@@ -9248,6 +10249,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9249396	9101235	es	La Palma						
 9269349	9111589	es	La Palma						
 9269401	9111649	es	San Diego						
+9269558	9111800	es	Tamaulipas						
 9270044	9112104	es	San Francisco						
 9270411	9112354	es	Puerto Rico						
 9271370	9113092	es	La Palma						
@@ -9354,6 +10356,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9579640	9289761	es	San Francisco						
 9583522	9291854	es	San Diego						
 12264984	9292172	es	Europa						
+9584005	9292176	es	Tamaulipas						
 9817868	9498881	es	San Diego						
 9817883	9498895	es	San Diego						
 9818846	9499795	es	San Francisco						
@@ -9399,6 +10402,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9831864	9512327	es	La Palma						
 9831890	9512350	es	Los Angeles						
 9832107	9512565	es	La Palma						
+9832114	9512571	es	Valencia						
 9833069	9513509	es	La Palma						
 9833090	9513528	es	Los Angeles						
 9833487	9513915	es	San Francisco						
@@ -9497,6 +10501,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9984590	9633324	es	Palestina						
 9984629	9633353	es	Bolivia						
 9984891	9633581	es	San Francisco						
+12265057	9639459	es	Valencia						
 10169893	9801852	es	Santiago						
 10170596	9802416	es	San Diego						
 10170719	9802540	es	Colorado						
@@ -9599,6 +10604,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10330095	9920373	es	San Francisco						
 10413980	9979636	es	San Francisco						
 10414194	9979845	es	San Francisco						
+10414356	9979996	es	Valencia						
 10414446	9980081	es	La Palma						
 10415846	9980934	es	San Francisco						
 10415869	9980957	es	Los Angeles						
@@ -9745,6 +10751,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11742907	11137384	es	San Francisco						
 11744614	11138599	es	La Palma						
 11744780	11138840	es	San Francisco						
+11744842	11138897	es	Tamaulipas						
 11745081	11139012	es	Colorado						
 11745245	11139131	es	San Francisco						
 11745271	11139150	es	San Francisco						
@@ -9818,6 +10825,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11898546	11232998	es	San Francisco						
 11898568	11233020	es	San Diego						
 11899565	11233808	es	Santa Barbara						
+11899900	11234236	es	Sebastopol						
 11900158	11234702	es	San Francisco						
 11900160	11234704	es	San Francisco						
 11900165	11234709	es	San Francisco						
@@ -9827,6 +10835,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11900693	11235271	es	San Francisco						
 11901518	11236092	es	La Palma						
 11936007	11246887	es	San Francisco						
+11936112	11246932	es	Valencia						
 11937841	11247872	es	La Palma						
 11942110	11252380	es	San Francisco						
 11942154	11252404	es	Veracruz						
@@ -9891,6 +10900,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12128635	11371283	es	San Francisco						
 12128637	11371285	es	Santiago						
 12128968	11371820	es	San Francisco						
+12129240	11372337	es	Tamaulipas						
 12129786	11374309	es	Puerto Rico						
 12164084	11403754	es	Veracruz						
 12164187	11403796	es	Veracruz						
@@ -9950,6 +10960,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12795976	11501149	es	San Francisco						
 12796719	11501589	es	La Palma						
 12796839	11502231	es	San Francisco						
+12797434	11502609	es	Valencia						
 12797678	11502752	es	San Francisco						
 12797715	11502780	es	San Francisco						
 12798167	11503094	es	Colombia						
@@ -9986,6 +10997,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13215631	11561422	es	Santa Barbara						
 13215837	11561613	es	La Palma						
 13215872	11561647	es	San Francisco						
+13216112	11561884	es	Tamaulipas						
 13216554	11562312	es	Florida						
 13217010	11562737	es	San Diego						
 13217740	11563604	es	San Francisco						
@@ -10031,10 +11043,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16706238	12193055	es	Barcelona						
 16706315	12193132	es	Florida						
 16706577	12193389	es	San Diego						
+16706625	12193435	es	Valencia						
 16706883	12193684	es	Florida						
 16707231	12194022	es	Puerto Rico						
 16707357	12194145	es	San Francisco						
 16707358	12194146	es	San Francisco						
+16707442	12194222	es	Vermont						
 17311556	12439914	es	Montevideo						
 17311628	12439986	es	Madrid						
 17319600	12444047	es	San Diego						
@@ -10107,6 +11121,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4071871	1735446		Long Island						
 858693	1737417		Bali						
 861430	1753686		Columbia						
+861743	1756242		Borneo						
 862909	1763717		Surabaya						
 5682453	7612594	ms	Bali						
 7672727	8307627	ms	Long Island						
@@ -10121,19 +11136,27 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17575050	12564360	en	Tokio						
 17636852	12606713	en	Nantes						
 17714222	12650509	en	Manhattan						
+17714238	12650525	en	Valencia						
 17714243	12650530	en	Virginia						
+17714263	12650550	en	Corsica						
 17714271	12650558	en	Oklahoma						
 17714284	12650571	en	Tripoli						
+17714302	12650589	en	Alabama						
 17744776	12672273	en	Colorado						
 17760139	12689707	en	Arnhem						
 17805091	12724442	en	Olympia						
 17807821	12726159	en	Alkmaar						
 17807829	12726167	en	Olympia						
 17807836	12726174	en	Friesland						
+17813771	12730427	en	Rimini						
 17813809	12730465	en	Utrecht						
+13913351	2139544	fr	Normandie						
 1059600	2140381		Long Island						
 1060077	2141994	en	Long Island						
+16226514	12023875	fr	Laren						
 16226563	12023924	fr	Guam						
+1143878	2447738		Alabama						
+6130321	2447738	fr	Alabama						
 2875192	7027108		Kabul						
 2528945	2323692		Santa Barbara						
 4154753	2325079		Panama						
@@ -10178,6 +11201,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16930180	2328926	lb	Nigeria	1.0					
 16930183	2328926	qu	Nigeria	1.0					
 1115478	2330544		Bali						
+13824916	2330706		Maryland						
+4158580	2342698		Faro						
 1117833	2343239		Epe						
 1927059	2343252	de	Epe						
 4158723	2343252		Epe						
@@ -10575,6 +11600,16 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1640612	2746301	ro	Tilburg						
 1640613	2746301	sv	Tilburg						
 1906055	2746301	fr	Tilburg						
+2426516	2746330		Tiel		1.0				
+10840945	2746330	nl	Tiel		1.0				
+1952562	2746331	de	Tiel						
+1952563	2746331	en	Tiel						
+1952564	2746331	id	Tiel						
+1952565	2746331	it	Tiel						
+1952566	2746331	nl	Tiel						
+1952567	2746331	ro	Tiel						
+1952568	2746331	sv	Tiel						
+2020811	2746331	fr	Tiel						
 2426362	2746383		Texel		1.0				
 10840750	2746383	nl	Texel		1.0				
 1644678	2746385	en	Texel						
@@ -10693,6 +11728,16 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1945486	2747599	nl	Scheveningen						
 2006318	2747599	id	Scheveningen						
 10840944	2747605	nl	Scherpenzeel		1.0				
+2426357	2747719		Schagen		1.0				
+10840749	2747719	nl	Schagen		1.0				
+1953777	2747720	en	Schagen						
+1953778	2747720	de	Schagen						
+1953780	2747720	id	Schagen						
+1953781	2747720	it	Schagen						
+1953782	2747720	nl	Schagen						
+1953783	2747720	sv	Schagen						
+2007149	2747720	fr	Schagen						
+2007150	2747720	li	Schagen						
 1245133	2747815		Rucphen						
 2801907	2747857		Rucphen						
 10840897	2747857	nl	Rucphen		1.0				
@@ -10846,6 +11891,17 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1653801	2749234	sv	Oss						
 2426703	2749277		Opsterland		1.0				
 8490509	2749277	nl	Opsterland						
+8490515	2749611		Ommen						
+10840701	2749611	nl	Ommen		1.0				
+2015832	2749613	en	Ommen						
+2015833	2749613	de	Ommen						
+2015834	2749613	fr	Ommen						
+2015835	2749613	fy	Ommen						
+2015836	2749613	id	Ommen						
+2015837	2749613	it	Ommen						
+2015838	2749613	nl	Ommen						
+2015839	2749613	sl	Ommen						
+2015840	2749613	sv	Ommen						
 8490517	2749643		Oldenzaal						
 10840700	2749643	nl	Oldenzaal		1.0				
 1946161	2749644	de	Oldenzaal						
@@ -10909,6 +11965,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17915082	2749990	nn	Noord-Brabant						
 17915084	2749990	fo	Noord-Brabant						
 17915088	2749990	gd	Noord-Brabant						
+4124457	2750000		Noord						
 8490528	2750052		Nijmegen						
 10840920	2750052	nl	Nijmegen		1.0				
 1611319	2750053	en	Nijmegen						
@@ -10955,6 +12012,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18215989	2750474	ca	Nederland						
 2431909	2750592	nl	Moskou	1.0					
 2431910	2750592	fy	Moskou						
+4124522	2750728		Molenbeek						
+1245853	2750729		Molenbeek						
+1245856	2750730		Molenbeek						
 2426531	2750883		Middelharnis		1.0				
 1955303	2750884	en	Middelharnis						
 1955304	2750884	de	Middelharnis						
@@ -11000,6 +12060,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1934688	2751429	it	Loppersum						
 1934689	2751429	nl	Loppersum						
 1934690	2751429	sv	Loppersum						
+1246021	2751477		Molenbeek						
 2185585	2751596		Limburg		1.0				
 2432482	2751596	nl	Limburg	1.0	1.0				
 9073257	2751596	en	Limburg	1.0	1.0				
@@ -11041,6 +12102,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17915183	2751596	lld	Limburg						
 17915184	2751596	war	Limburg						
 17915186	2751596	gv	Limburg						
+1554428	2751729	nl	Lemmer						
+4124630	2751729		Lemmer						
 1246094	2751736		Lelystad						
 8239932	2751737		Lelystad						
 10840987	2751737	nl	Lelystad		1.0				
@@ -11116,9 +12179,21 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18216621	2751801	vo	Leersum						
 18216623	2751801	pl	Leersum						
 18216624	2751801	nl	Leersum						
+2426405	2751873		Laren		1.0				
+10840742	2751873	nl	Laren		1.0				
+1954792	2751874	en	Laren						
+1954793	2751874	de	Laren						
+1954794	2751874	id	Laren						
+1954795	2751874	it	Laren						
+1954796	2751874	li	Laren						
+1954797	2751874	nl	Laren						
+1954798	2751874	sv	Laren						
+2033035	2751874	fr	Laren						
+2432046	2751888	nl	Langweer						
 2426469	2752263		Krimpen aan den IJssel		1.0				
 10840775	2752263	nl	Krimpen aan den IJssel		1.0				
 3058498	2752264	nl	Krimpen aan den IJssel	1.0	1.0				
+4124688	2752367		Koudum						
 4124727	2752842		Kijkduin						
 8239936	2752922		Kerkrade						
 10840971	2752922	nl	Kerkrade		1.0				
@@ -11186,6 +12261,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18217330	2753106	pl	Kampen						
 18217332	2753106	li	Kampen						
 18217333	2753106	da	Kampen						
+8552888	2753156	nl	Kaatsheuvel			1.0			
+8723194	2753367	la	Isala						
 1246413	2753375		IJmuiden						
 1246420	2753383		IJ						
 1246455	2753480		Wilp						
@@ -11264,6 +12341,18 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18218005	2754454	eu	Hellevoetsluis						
 18218008	2754454	nl	Hellevoetsluis						
 18218009	2754454	ca	Hellevoetsluis						
+8239956	2754651		Heerlen						
+10840970	2754651	nl	Heerlen		1.0				
+1616921	2754652	de	Heerlen						
+1616922	2754652	en	Heerlen						
+1616923	2754652	fr	Heerlen						
+1616924	2754652	id	Heerlen						
+1616925	2754652	it	Heerlen						
+1616927	2754652	nl	Heerlen						
+1616929	2754652	ro	Heerlen						
+1616930	2754652	sv	Heerlen						
+1646300	2754652	pl	Heerlen						
+1907803	2754652	fi	Heerlen						
 4124948	2754815		Harlingervaart						
 8239960	2754840		Haren						
 10841052	2754840	nl	Haren		1.0				
@@ -11336,6 +12425,16 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1899807	2755003	cs	Haarlem						
 1899809	2755003	pt	Haarlem						
 1987038	2755003	ga	Haarlem						
+8239965	2755008		Haaren						
+10840838	2755008	nl	Haaren		1.0				
+1936439	2755009	en	Haaren						
+1936440	2755009	fr	Haaren						
+1936441	2755009	de	Haaren						
+1936442	2755009	id	Haaren						
+1936443	2755009	it	Haaren						
+1936444	2755009	li	Haaren						
+1936445	2755009	nl	Haaren						
+1936446	2755009	sv	Haaren						
 2185584	2755249		Groningen	1.0	1.0				
 2432476	2755249	nl	Groningen	1.0	1.0				
 7352090	2755249	en	Groningen		1.0				
@@ -11435,6 +12534,16 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1935911	2755464	sv	Goirle						
 1247058	2755597		Gent						
 4125061	2755622		Gelderse Vallei						
+2426514	2755632		Geldermalsen		1.0				
+10840911	2755632	nl	Geldermalsen		1.0				
+1948159	2755633	de	Geldermalsen						
+1948160	2755633	en	Geldermalsen						
+1948161	2755633	id	Geldermalsen						
+1948162	2755633	it	Geldermalsen						
+1948163	2755633	nl	Geldermalsen						
+1948164	2755633	pt	Geldermalsen						
+1948165	2755633	sv	Geldermalsen						
+2030213	2755633	fr	Geldermalsen						
 2185590	2755634		Gelderland						
 2432763	2755634	nl	Gelderland	1.0	1.0				
 11907787	2755634	de	Gelderland	1.0	1.0				
@@ -11559,6 +12668,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1988292	2756253	ga	Eindhoven						
 1988294	2756253	no	Eindhoven						
 4125122	2756384		Eemskanaal						
+1247254	2756396		Eem						
 8239994	2756428		Ede						
 10840893	2756428	nl	Ede		1.0				
 1999909	2756429	en	Ede						
@@ -11570,6 +12680,18 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1999916	2756429	ro	Ede						
 1999917	2756429	sv	Ede						
 16326362	2756429	fr	Ede						
+8240000	2756558		Dronten						
+10840955	2756558	nl	Dronten		1.0				
+1920826	2756559	en	Dronten						
+1920827	2756559	de	Dronten						
+1920828	2756559	fi	Dronten						
+1920829	2756559	id	Dronten						
+1920830	2756559	it	Dronten						
+1920831	2756559	li	Dronten						
+1920832	2756559	nl	Dronten						
+1920833	2756559	ro	Dronten						
+1920834	2756559	sv	Dronten						
+1999479	2756559	fr	Dronten						
 2185588	2756631	nl	Drenthe	1.0	1.0				
 2256825	2756631	fr	Drenthe	1.0	1.0				
 5463434	2756631		Drenthe		1.0				
@@ -11671,6 +12793,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10840829	2757008	nl	Deurne		1.0				
 1247429	2757097		Rijn						
 4125202	2757157		De Peel						
+1247492	2757273		Molenbeek						
 8240010	2757339		Delfzijl						
 10841049	2757339	nl	Delfzijl		1.0				
 1908119	2757340	en	Delfzijl						
@@ -11687,6 +12810,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1908130	2757340	sv	Delfzijl						
 1247525	2757396		Krim						
 1247527	2757397		Krim						
+1247609	2757669		Efteling						
 1247620	2757695		Diemen						
 2426424	2757782		De Bilt		1.0				
 10840959	2757782	nl	De Bilt		1.0				
@@ -11835,6 +12959,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 2018592	2758804	fr	Bloemendaal						
 2018593	2758804	li	Bloemendaal						
 1247927	2758946		Bijlmer						
+2702181	2758992	en	Biddinghuizen						
 8240030	2759039		Best						
 10840824	2759039	nl	Best		1.0				
 1934213	2759040	en	Best						
@@ -11861,6 +12986,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1647923	2759544	nl	Baarn						
 1647924	2759544	sv	Baarn						
 1999496	2759544	fr	Baarn						
+1248063	2759578		Molenbeek						
 8240050	2759632		Assen						
 10840867	2759632	nl	Assen		1.0				
 1611158	2759633	de	Assen						
@@ -12129,6 +13255,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12812385	11511641	en	Scheveningen						
 12812387	11511643	en	Terneuzen						
 13415635	11711047	en	De Peel						
+1332573	3140559		Saksen						
 1559773	3144096	nl	Noorwegen	1.0					
 4619582	3150489		Kampen						
 8336999	3150489	no	Kampen						
@@ -12274,6 +13401,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9763571	9456241	no	Holten						
 9768239	9460033	no	Holten						
 9770179	9461802	no	Engeland						
+9773640	9464744	no	Saksen						
 9773708	9464804	no	Holten						
 9775299	9466359	no	Åland						
 9776690	9467712	no	Holten						
@@ -12284,6 +13412,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9799980	9483299	no	Kampen						
 9806612	9489211	no	Finland						
 9809049	9491472	no	Engeland						
+9809991	9492377	no	Ommen						
 9810157	9492531	no	Halle						
 9811591	9493891	no	Engeland						
 9817796	9498816	no	India						
@@ -12495,6 +13624,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1634476	3703443	ht	Panama						
 1634477	3703443	sk	Panama						
 16727888	3704128	es	Montevideo						
+1499710	3706005		Valencia						
 1499885	3706575		San Francisco						
 1499948	3706754		La Palma						
 17335675	3707050	es	La Palma						
@@ -12636,12 +13766,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 10235041	6564030	es	San Francisco						
 11121014	6564211	es	San Francisco						
 5519442	7540946	es	Florida						
+9211295	7544120	es	Valencia						
 16609034	8350638		Indiana		1.0				
 8525903	8648067	es	Los Angeles						
 8577289	8670059		Florida						
 9273105	9114241	es	Los Angeles						
 11094809	10796835	es	San Francisco						
 11097872	10801125	es	Palestina						
+11132111	10865663	es	Valencia						
 11132141	10865693	es	San Francisco						
 11193421	10951178	es	China						
 11246139	11029735	es	San Francisco						
@@ -12649,6 +13781,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11255411	11039835	es	Washington						
 11255458	11039882	es	San Francisco						
 11445198	11083176	es	Los Angeles						
+11445229	11083207	es	Valencia						
+12811201	11510611	es	Valencia						
 12814719	11512945	es	San Francisco						
 12817326	11514275	es	Washington						
 12818708	11514974	es	Florida						
@@ -12658,6 +13792,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13209300	11557220	es	Arizona						
 13210263	11558419	es	Florida						
 16967800	12281475	es	Florida						
+4315462	4034466		Faro						
+16333726	12043004	fr	Faro						
 4117119	2084518		Utah						
 16939445	2086288		Stockholm						
 18141371	2086420	nl	Salomonseilanden						
@@ -12670,11 +13806,26 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1038119	2099994		Bali						
 1038584	2101262		Long Island						
 1057291	2133612		East Island						
+7302857	1679614	fil	West						
 7302876	1679668	fil	Washington						
 3177122	1679669	fil	Washington						
 7302877	1679670	fil	Washington						
 7648288	1679671	fil	Washington						
 3177156	1679798	fil	Virginia						
+7648333	1680105	fil	Valencia						
+839994	1680107		Valencia						
+7302975	1680108	fil	Valencia						
+8044002	1680109	fil	Valencia						
+3177260	1680110	fil	Valencia						
+3177261	1680111	fil	Valencia						
+3177262	1680112	fil	Valencia						
+7648334	1680113	fil	Valencia						
+3177263	1680114	fil	Valencia						
+4061654	1680115		Valencia						
+4061655	1680116		Valencia						
+7725198	1680117	fil	Valencia						
+7725199	1680118	fil	Valencia						
+7768295	1680119	fil	Valencia						
 841415	1684711		Tacloban		1.0				
 1949036	1684712	es	Tacloban						
 1949037	1684712	fr	Tacloban						
@@ -12866,11 +14017,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3183422	1699805	fil	Mexico						
 7725886	1699806	fil	Mexico						
 846422	1702551		San Francisco						
+5659435	1702817	fil	Malibu						
 4065681	1704129		Madrid						
 7726029	1704130	fil	Madrid						
 3185412	1705544	en	Los Angeles						
 847395	1705804		Logan						
 7310768	1706742	fil	Libanon						
+5659622	1706832	fil	Lepanto						
+7310793	1706833	fil	Lepanto						
+3185778	1706834	fil	Lepanto						
 7311840	1709882	fil	Kabul						
 7650115	1710250	fil	Java						
 17209051	1710760	fil	Indiana						
@@ -12909,6 +14064,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12151867	1957504	fil	Calais						
 3319910	1966116	fil	San Francisco						
 2906673	7091085	fil	San Francisco						
+5364122	7091119	fil	Valencia						
 3442628	7405103	fil	Santiago						
 3450110	7410705	fil	San Francisco						
 3452234	7412584	fil	Santa Barbara						
@@ -12934,6 +14090,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 5699365	7625720	fil	Florida						
 5699477	7625817	fil	Santiago						
 7330678	7758162	fil	San Francisco						
+8114693	8031328		Lepanto						
+7668019	8300993	fil	Valencia						
 7818627	8374505	fil	San Francisco						
 8144605	8520018		San Francisco						
 12064099	11327978	fil	San Diego						
@@ -12965,10 +14123,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13631576	11834931	fil	Santiago						
 13631596	11834950	fil	Los Angeles						
 13647797	11843533	fil	Santa Monica						
+13648146	11843874	fil	Valencia						
 13648178	11843905	fil	Tokio						
 13688043	11868967	fil	Santiago						
+13688588	11869507	fil	Valencia						
+13688731	11869650	fil	Valencia						
+13688740	11869659	fil	Lepanto						
 13688935	11869839	fil	Santa Barbara						
 13691054	11872338	fil	Florida						
+13691992	11873046	fil	Oregon						
 13692125	11873179	fil	Santiago						
 13851702	11899078	fil	Santa Monica						
 13851714	11899090	fil	Santa Monica						
@@ -12979,7 +14142,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13910355	11950827	fil	San Francisco						
 16115557	12010863	fil	San Diego						
 16116764	12012014	fil	Santa Barbara						
+16116894	12012142	fil	Valencia						
 16129182	12019219	fil	Guam						
+16129283	12019318	fil	Lepanto						
 16129533	12019542	fil	San Francisco						
 16129541	12019548	fil	San Francisco						
 16129750	12019744	fil	San Francisco						
@@ -13075,6 +14240,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3939465	1181112		China						
 3939466	1181113		China						
 663182	1345499		China						
+11726367	1353372		Rabat						
 4814055	1363769		China						
 9947207	1365513		China						
 11268273	1375522		China						
@@ -13085,6 +14251,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13456478	1418500		Hama						
 4957319	1465120		China						
 5010346	1482728	en	China						
+11230344	7457647		Rabat						
 462826	756135	de	Warschau						
 1619089	756135	lb	Warschau						
 1619090	756135	li	Warschau						
@@ -13326,6 +14493,30 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1978488	2267057	af	Lissabon						
 13595687	2267057	gsw	Lissabon						
 13595694	2267057	az	Lissabon						
+2185156	2268337		Faro	1.0	1.0				
+2431228	2268337	es	Faro	1.0	1.0				
+2431229	2268337	pt	Faro		1.0				
+11213917	2268337	en	Faro		1.0				
+13360533	2268337	de	Faro						
+17898982	2268337	hu	Faro						
+17898983	2268337	lad	Faro						
+17898997	2268337	eo	Faro						
+17898998	2268337	it	Faro						
+17899001	2268337	eu	Faro						
+17899003	2268337	vi	Faro						
+17899005	2268337	nb	Faro						
+17899010	2268337	nl	Faro						
+17899018	2268337	fr	Faro						
+17899023	2268337	sl	Faro						
+17899026	2268337	sv	Faro						
+17899032	2268337	war	Faro						
+17899038	2268337	pl	Faro						
+17899039	2268337	da	Faro						
+17899040	2268337	li	Faro						
+17899042	2268337	tr	Faro						
+4123270	2268339		Faro						
+8512862	2268339	es	Faro						
+8512863	2268339	en	Faro						
 7319260	2268789		Cuba						
 1243537	2732691		Santiago						
 1243943	2741394		Santiago						
@@ -13334,6 +14525,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13633724	6458923	sv	Lissabon						
 16517374	8010438	pt	Cuba	1.0					
 16517375	8010438	es	Cuba	1.0					
+9512315	8010516	de	Faro	1.0					
+9512317	8010516	fr	Faro	1.0					
+9512318	8010516		Faro	1.0	1.0				
+10581008	8010516	en	Faro		1.0				
 5899519	7732520		Long Island						
 16652189	3436712	es	San Francisco						
 1409645	3436727		Florida						
@@ -13564,7 +14759,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 402660	681868		Langenfeld						
 402817	682111		Chili						
 4344204	685866		Bagdad						
+13520871	11789175	en	West						
 487255	790015		India						
+1368500	3196973		Wolfsburg						
+1978079	6290252	li	Servië						
+1978088	6290252	nl	Servië	1.0					
+8186930	6290252	vls	Servië						
+8186935	6290252	zea	Servië						
+16930735	6290252	fy	Servië	1.0					
 289770	473505		Birma						
 8190533	491421	nl	Sotsji						
 8190535	491421	af	Sotsji						
@@ -13642,6 +14844,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 5023147	6312269		Kosovo						
 5028726	6316081		Poros						
 5367226	7094392		Kosovo						
+3074224	7289610	en	Kremlin						
 3550898	7494472		Florida						
 5564316	7565462		Kabul						
 5629800	7590820		Afrika						
@@ -13656,9 +14859,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 48170	105343		Jeddah						
 1597698	105343	en	Jeddah						
 1597705	105343	id	Jeddah						
+1597707	105343	nl	Djedda						
 1597708	105343	no	Jeddah						
 1635900	105343	it	Jeddah						
 5463498	105343	es	Jeddah	1.0	1.0				
+8205535	105343	af	Djedda						
+8701441	105343	ro	Djedda						
 12096307	105343	sv	Jeddah	1.0					
 1556221	2103350	nl	Salomonseilanden	1.0					
 1039410	2104061		Long Island						
@@ -13766,7 +14972,20 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1978819	2673730	nds	Stockholm						
 1978820	2673730	qu	Stockholm						
 12137577	2682469	sv	Rio						
+1232337	2688367		Norrköping						
+1617645	2688368	de	Norrköping						
+1617646	2688368	en	Norrköping						
+1617647	2688368	da	Norrköping						
+1617648	2688368	fi	Norrköping						
+1617649	2688368	fr	Norrköping						
+1617650	2688368	no	Norrköping	1.0					
+1617651	2688368	pl	Norrköping						
+1617653	2688368	sv	Norrköping						
+1906821	2688368	nl	Norrköping						
+1906822	2688368	pt	Norrköping						
+1906823	2688368	vo	Norrköping						
 1232697	2689965		Ede						
+1235486	2708250		Hamburg						
 15919892	2716939		Ede						
 16208138	2716940		Ede						
 4055269	2716943		Ede						
@@ -13824,9 +15043,13 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 19220540	8988601	nl	Jeruzalem						
 4060072	607233		Long Island						
 1238394	2727849		Wawel						
+1239523	2728944		Saksen						
 1242617	2731459		Queens						
 18211677	2732123	fy	Amsterdam						
 18211684	2732123	nl	Amsterdam						
+1555885	3057568	nl	Slowakije	1.0					
+1618480	3057568	fy	Slowakije	1.0					
+1618489	3057568	li	Slowakije						
 10155195	2403078	en	Wellington						
 1555742	2403846	ca	Sierra Leone	1.0					
 1555743	2403846	cs	Sierra Leone	1.0					
@@ -13883,6 +15106,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4314180	2409732		Congo						
 10391365	2410583	en	Bali						
 10156517	2566425	en	Congo						
+10246094	9872182	en	Hamburg						
 10247066	9872811	en	Bali						
 10252686	9876573	en	Bali						
 10279886	9892729	en	Bagdad						
@@ -14016,6 +15240,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3647448	57469		Halle						
 3647449	57470		Halle						
 9360558	59611	nl	Galkayo						
+10295	59812		Faro						
+3648208	59813	so	Faro						
+10350	59987		Faro						
 12328	64733		Bagdad						
 12373	64833		Mogadishu						
 1959838	65197		Bali						
@@ -14104,6 +15331,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1396039	3383736		Long Island						
 10936116	3384003	nl	Java						
 1396283	3384082		Hannover						
+10936134	3384088	nl	Hamburg						
 10936135	3384091	nl	Haarlem						
 4412374	3384125		Groningen						
 11760624	3384125	fr	Groningen						
@@ -14299,16 +15527,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16931509	1605651	ig	Thailand	1.0					
 16931513	1605651	lb	Thailand	1.0					
 784736	1621014		Bali						
+633889	1220689		Rabat						
+633929	1220745		Rabat						
+738562	1514835		Rabat						
+7767739	1514836	ky	Rabat						
+812085	1645457		Delhi						
 814293	1647156		China						
 116715	162152	en	Balkan		1.0				
 11760546	162152	fr	Balkan						
 1564950	2464461	nl	Tunesië	1.0					
 16931611	2464461	fy	Tunesië	1.0					
+1625	2473353		Nador						
 210932	298225	en	Long Island						
 1564840	298795	nl	Turkije	1.0					
 1973675	298795	fy	Turkije	1.0					
 1973691	298795	li	Turkije						
 212507	300632		Kufra						
+5391361	302435		Rabat						
+3227121	302437		Rabat						
+5663998	302438		Rabat						
 2810683	302601	tr	Karaburun						
 213911	303049		Best						
 8325460	304183	tk	Mugla						
@@ -14429,9 +15666,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 2212889	323856		Anbar						
 7204402	324341		Karaburun						
 226796	324947		Cuba						
+273213	436682		Rabat						
 273716	437718		Anbar						
 274672	439391		Best						
 275808	441695		Best						
+3227120	740506		Rabat						
 455951	744020		Karaburun						
 8465951	744552	tr	Karaburun						
 456361	744878		Karaburun						
@@ -14465,6 +15704,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17657701	745044	hr	Istanbul	1.0					
 458338	747721		Ede						
 458700	748314		Kabul						
+459814	749968		Rabat						
 461035	751818		Kunduz						
 10794135	7503425	tr	Karaburun						
 10795109	7744270	tr	Karaburun						
@@ -14498,9 +15738,13 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 19237078	10048784	nl	Karaburun						
 10661281	10181764	tr	Manavgat						
 17804915	12724266	tr	Karaburun						
+16948557	3573558		Valencia						
+1454155	3573559		Valencia						
+7771652	3573560		Valencia						
 16948646	3573842		Richmond						
 16948652	3573868		Queens						
 7771754	3573997		Palmyra						
+2519855	1665199		Malibu						
 1983319	1668284	en	Taiwan	1.0					
 1983320	1668284	de	Taiwan	1.0					
 1983326	1668284	ca	Taiwan	1.0					
@@ -14540,8 +15784,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 2523445	1673088		Bali						
 5485504	1676156		Hebei						
 2376316	6645942		Hebei						
+13361621	11696333	en	West	1.0	1.0				
+13361529	11696342	en	West	1.0	1.0				
 13372054	11697424	en	Xinjiang	1.0	1.0				
 13379763	11701481	en	Hebei	1.0	1.0				
+16937177	148844		West						
 16937285	150592		Ramadi						
 8185186	550558	nl	Charkov						
 8185206	550558	cs	Charkov						
@@ -14554,7 +15801,22 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1721303	692118	en	Svatove						
 4371780	692118		Svatove						
 16540023	693781	uk	Kalynivka						
+1639365	693805	de	Simferopol						
+1639367	693805	en	Simferopol						
+1639369	693805	fi	Simferopol						
+1639370	693805	fr	Simferopol						
+1639373	693805	ro	Simferopol						
+1639375	693805	sv	Simferopol						
+1902629	693805	eo	Simferopol						
+1902630	693805	nl	Simferopol						
+1902631	693805	no	Simferopol						
+1987893	693805	et	Simferopol						
+1987896	693805	pt	Simferopol						
+1634372	694423	nl	Sebastopol						
+1634374	694423	pt	Sebastopol						
+13721680	694423	en	Sebastopol						
 411683	694427	de	Leipzig				1.0		
+16564762	696114	de	Hamburg				1.0		
 414996	698736		Odessa						
 13444167	698738	de	Odessa		1.0				
 16608411	698738	en	Odessa		1.0				
@@ -14674,6 +15936,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8119194	8507142	uk	Kalynivka						
 8174384	8527433	uk	Kalynivka						
 8363307	8563379	uk	Kalynivka						
+16819831	9028010	uk	Simferopol						
 13698065	9113818	uk	Kalynivka						
 9272972	9114179	uk	Kalynivka						
 10754954	10266836	uk	Kalynivka						
@@ -14706,12 +15969,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1635348	5854951	it	Palmyra						
 1899897	5854951	sk	Palmyra						
 1985878	5854951	cs	Palmyra						
+12428733	4048254		Hamburg						
 12456274	4048394		Washington						
 13071885	4048394	en	Rome	1.0					
 18342914	4048394	sv	Rome						
 18342915	4048394	fr	Rome						
 12997519	4048834	en	Manchester	1.0					
 12429685	4049048		Somerset						
+12467788	4049870		Oregon						
 13005590	4051645	en	Bremen	1.0					
 12344274	4056427		Columbia						
 12833716	4057830	en	Cuba	1.0					
@@ -14722,9 +15987,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18344415	4058106	fr	Damascus						
 18344416	4058106	da	Damascus						
 18344417	4058106	nl	Damascus						
+13060596	4058738	en	Detroit	1.0					
 13037666	4059479	en	Dublin	1.0					
 12492490	4060204		Manchester						
 12301230	4061675		Baltimore						
+13100691	4065955	en	Hamburg	1.0					
 18346887	4073526	en	Logan						
 18346889	4073526	fr	Logan						
 18346891	4073526	es	Logan						
@@ -14766,6 +16033,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18348335	4086030	id	Richmond						
 18348337	4086030	fr	Richmond						
 18348340	4086030	es	Richmond						
+12344463	4095101		Alabama						
 12386977	4095367		Veracruz						
 13121992	4095569	en	Virginia	1.0					
 12344087	4096033		Washington						
@@ -14806,7 +16074,29 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12977764	4107605	en	Dallas	1.0					
 18352562	4107605	fr	Dallas						
 12300776	4108805		Wisconsin						
+12857259	4113607	en	Hamburg	1.0					
 12537283	4115907		Indiana						
+13106053	4118687	en	Lepanto	1.0					
+18355862	4118687	ceb	Lepanto						
+18355863	4118687	de	Lepanto						
+18355864	4118687	pt	Lepanto						
+18355866	4118687	fr	Lepanto						
+18355868	4118687	mg	Lepanto						
+18355869	4118687		Lepanto						
+18355870	4118687	ga	Lepanto						
+18355874	4118687	sv	Lepanto						
+18355875	4118687	uz	Lepanto						
+18355876	4118687	lld	Lepanto						
+18355878	4118687	it	Lepanto						
+18355879	4118687	es	Lepanto						
+18355881	4118687	eu	Lepanto						
+18355883	4118687	vi	Lepanto						
+18355884	4118687	nb	Lepanto						
+18355885	4118687	cy	Lepanto						
+18355886	4118687	hbs	Lepanto						
+18355888	4118687	pl	Lepanto						
+18355890	4118687	da	Lepanto						
+18355891	4118687	nl	Lepanto						
 13663073	4119581	en	Logan		1.0				
 13663074	4119581		Logan		1.0				
 18356002	4119585	en	Logan						
@@ -14874,8 +16164,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13662999	4135394	en	Washington		1.0				
 13663000	4135394		Washington		1.0				
 12830185	4137364	en	Yukon	1.0					
+12529527	4139010		Hamburg						
 12891745	4139739	en	National Defense University	1.0					
 18360950	4140704	nl	Witte Huis						
+1646243	4140827	nl	Capitool						
 1649368	4140963	de	Washington						
 1649398	4140963	en	Washington		1.0				
 1649431	4140963	fr	Washington						
@@ -15093,20 +16385,24 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1902586	4174757	hu	Tampa						
 1902587	4174757	it	Tampa						
 8305949	4174759	hbs	Tampa						
+12545099	4176405		Vermont						
 13663372	4177485	en	Washington		1.0				
 13663373	4177485		Washington		1.0				
 13037008	4182101	en	Bermuda	1.0					
 12956565	4184222	en	Bremen	1.0					
+12731198	4188588		Corsica						
 12437623	4188618		Long Island						
 12348383	4188815		Manchester						
 13668365	4188957	en	Columbia		1.0				
 13668366	4188957		Columbia		1.0				
 12437533	4189516		Dublin						
 13050020	4190604	en	Damascus	1.0					
+12877736	4191253	en	Delhi	1.0					
 12604212	4197000		Georgie						
 17954635	4197000	sco	Georgie						
 17954683	4197000	cs	Georgie						
 17954764	4197000	nrm	Georgie						
+12348775	4197430		Hamburg						
 12348474	4207400		Newtown						
 13122158	4209926	en	Montevideo	1.0					
 12730801	4213867		Odessa						
@@ -15156,8 +16452,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18378238	4236206	da	Columbia						
 18378239	4236206	nl	Columbia						
 18378240	4236206	tr	Columbia						
+12908331	4236954	en	Delhi	1.0					
 12428665	4237085		Rome						
 12465152	4238252		Washington						
+12942258	4240129	en	Hamburg	1.0					
+12997372	4240130	en	Hamburg	1.0					
 13048226	4240174	en	Logan	1.0					
 12465275	4241220		Salisbury						
 13025415	4250267	en	Somerset	1.0					
@@ -15178,6 +16477,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12456227	4257356		Pittsburgh						
 12447110	4257559		New York						
 12513998	4258346		Washington						
+18383495	4258449	en	Hamburg						
+18383497	4258449	fr	Hamburg						
+12852684	4258450	en	Hamburg	1.0					
 12473714	4259303		Pittsburgh						
 12308353	4260011		Manchester						
 12447119	4260199		Somerset						
@@ -15203,6 +16505,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18384495	4261256	pl	Memphis						
 18384496	4261256	nl	Memphis						
 12752873	4262053		Amsterdam						
+12528817	4262123		Oregon						
 12835145	4262746	en	Palmyra	1.0					
 18385063	4262746	de	Palmyra						
 18385064	4262746	ceb	Palmyra						
@@ -15302,6 +16605,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18388552	4268616	vls	Bremen						
 18388553	4268616	da	Bremen						
 18388554	4268616	li	Bremen						
+12465559	4268807		Hamburg						
 18389128	4269037	en	Canada						
 18389130	4269037	fr	Canada						
 12872130	4270169	en	Cuba	1.0					
@@ -15328,6 +16632,19 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18390289	4270169	pl	Cuba						
 18390291	4270169	da	Cuba						
 18390292	4270169	nl	Cuba						
+18390644	4270359	de	Detroit						
+18390645	4270359	ceb	Detroit						
+18390648	4270359	lld	Detroit						
+18390650	4270359	en	Detroit						
+18390651	4270359	it	Detroit						
+18390652	4270359	fr	Detroit						
+18390653	4270359	es	Detroit						
+18390656	4270359	cy	Detroit						
+18390657	4270359	hbs	Detroit						
+18390658	4270359	vo	Detroit						
+18390659	4270359	ga	Detroit						
+18390661	4270359	pl	Detroit						
+18390662	4270359	nl	Detroit						
 12492598	4271086		Columbia						
 12309050	4271973		Memphis						
 12603327	4272075		Glasgow						
@@ -15405,6 +16722,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18395752	4274993	nl	Manchester						
 12351299	4275590		Manchester						
 12583018	4276166		Iowa						
+13070614	4276816	en	Ottawa	1.0					
+13663898	4276817	en	Ottawa		1.0				
+13663899	4276817		Ottawa		1.0				
 18398426	4277147	de	Peru						
 18398427	4277147	ceb	Peru						
 18398428	4277147	pt	Peru						
@@ -15550,6 +16870,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18406600	4289810	fr	Denver						
 18406864	4290441	en	Dublin						
 18406867	4290441	fr	Dublin						
+12351918	4292900		Hamburg						
 12438389	4294930		Manhattan						
 12456540	4295579		Salisbury						
 13664052	4298932	en	Logan		1.0				
@@ -15564,6 +16885,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12447561	4303152		Washington						
 18413306	4303152	fr	Washington						
 18413309	4303152	nl	Washington						
+12996182	4303310	en	Oregon	1.0					
 12912611	4305443	en	Queens	1.0					
 12456511	4305966		Richmond						
 12977364	4306174	en	Rio	1.0					
@@ -15574,6 +16896,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12207136	4308922	en	Somerset						
 12207137	4308922		Somerset						
 13003571	4310732	en	Texas	1.0					
+12853732	4312550	en	Wales	1.0					
 13664127	4312745	en	Washington		1.0				
 13664128	4312745		Washington		1.0				
 18417757	4312923	ceb	Wellington						
@@ -15603,10 +16926,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13127329	4315007	en	Arizona	1.0					
 12452453	4317593		Washington						
 12603326	4325774		Glasgow						
+12949189	4326847	en	Hamburg	1.0					
 2730069	4331987	abbr	LA						
 18421373	4338779	lld	Rio						
 18421374	4338779	en	Rio						
 18421375	4338779	fr	Rio						
+13104582	4341084	en	Sebastopol	1.0					
 12850047	4341946	en	South Bend	1.0					
 12456667	4343257		Dallas						
 13046326	4343347	en	Texas	1.0					
@@ -15639,14 +16964,120 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12456852	4351264		Newtown						
 1616702	4352053	en	Columbia	1.0					
 12992822	4352728	en	Damascus	1.0					
+12466063	4355816		Hamburg						
 1999634	4359528	en	Johns Hopkins University						
 1999635	4359528	de	Johns Hopkins University						
 1999638	4359528	da	Johns Hopkins University						
 1999643	4359528	sv	Johns Hopkins University						
 13081229	4361547	en	Manchester	1.0					
+1979905	4361885	fr	Maryland						
+1979906	4361885	en	Maryland	1.0	1.0				
+1979907	4361885	es	Maryland						
+1979908	4361885	de	Maryland						
+1979909	4361885	pl	Maryland						
+1979915	4361885	br	Maryland						
+1979916	4361885	bs	Maryland						
+1979917	4361885	ca	Maryland						
+1979918	4361885	cs	Maryland						
+1979919	4361885	da	Maryland						
+1979921	4361885	et	Maryland						
+1979922	4361885	eu	Maryland						
+1979923	4361885	fi	Maryland						
+1979924	4361885	frp	Maryland						
+1979925	4361885	ga	Maryland						
+1979926	4361885	gd	Maryland						
+1979927	4361885	gl	Maryland						
+1979929	4361885	hr	Maryland						
+1979931	4361885	hu	Maryland						
+1979933	4361885	id	Maryland						
+1979934	4361885	io	Maryland						
+1979935	4361885	is	Maryland						
+1979936	4361885	it	Maryland						
+1979940	4361885	ku	Maryland						
+1979946	4361885	ms	Maryland						
+1979947	4361885	nds	Maryland						
+1979948	4361885	nl	Maryland						
+1979949	4361885	nn	Maryland						
+1979950	4361885	no	Maryland						
+1979951	4361885	oc	Maryland						
+1979953	4361885	pt	Maryland						
+1979954	4361885	ro	Maryland						
+1979956	4361885	sk	Maryland						
+1979957	4361885	sl	Maryland						
+1979958	4361885	sq	Maryland						
+1979960	4361885	sv	Maryland						
+1979963	4361885	tr	Maryland						
+1979967	4361885	vi	Maryland						
+2186360	4361885		Maryland	1.0	1.0				
+7581485	4361885	hak	Maryland						
+17955043	4361885	ban	Maryland						
+17955045	4361885	bar	Maryland						
+17955047	4361885	pms	Maryland						
+17955048	4361885	sco	Maryland						
+17955049	4361885	scn	Maryland						
+17955050	4361885	af	Maryland						
+17955051	4361885	an	Maryland						
+17955052	4361885	cdo	Maryland						
+17955053	4361885	stq	Maryland						
+17955054	4361885	lfn	Maryland						
+17955055	4361885	rm	Maryland						
+17955056	4361885	ceb	Maryland						
+17955058	4361885	bi	Maryland						
+17955059	4361885	bcl	Maryland						
+17955060	4361885	sc	Maryland						
+17955061	4361885	se	Maryland						
+17955064	4361885	sw	Maryland						
+17955066	4361885	co	Maryland						
+17955068	4361885	cy	Maryland						
+17955069	4361885	tl	Maryland						
+17955070	4361885	ast	Maryland						
+17955071	4361885	lij	Maryland						
+17955072	4361885	diq	Maryland						
+17955074	4361885	zea	Maryland						
+17955076	4361885	pam	Maryland						
+17955077	4361885	pap	Maryland						
+17955078	4361885	uz	Maryland						
+17955080	4361885	hbs	Maryland						
+17955081	4361885	vo	Maryland						
+17955082	4361885	fo	Maryland						
+17955083	4361885	gag	Maryland						
+17955084	4361885	pcd	Maryland						
+17955085	4361885	szl	Maryland						
+17955087	4361885	lld	Maryland						
+17955088	4361885	gn	Maryland						
+17955090	4361885	war	Maryland						
+17955093	4361885	pdc	Maryland						
+17955094	4361885	gv	Maryland						
+17955096	4361885	ha	Maryland						
+17955097	4361885	lmo	Maryland						
+17955098	4361885	nah	Maryland						
+17955099	4361885	yo	Maryland						
+17955100	4361885	ia	Maryland						
+17955101	4361885		Maryland						
+17955102	4361885	ie	Maryland						
+17955103	4361885	ik	Maryland						
+17955104	4361885	frr	Maryland						
+17955105	4361885	zu	Maryland						
+17955106	4361885	jv	Maryland						
+17955108	4361885	smn	Maryland						
+17955110	4361885	kl	Maryland						
+17955111	4361885	lb	Maryland						
+17955112	4361885	li	Maryland						
+17955113	4361885	hif	Maryland						
+17955115	4361885	dag	Maryland						
+17955116	4361885	lad	Maryland						
+17955117	4361885	vec	Maryland						
+17955118	4361885	mg	Maryland						
+17955119	4361885	mi	Maryland						
+17955120	4361885	rmy	Maryland						
+17955121	4361885	ilo	Maryland						
+17955122	4361885	na	Maryland						
+17955123	4361885	nb	Maryland						
+17955124	4361885	kab	Maryland						
 12899178	4363747	en	Newtown	1.0					
 12924929	4363748	en	Newtown	1.0					
 12447782	4364292		Mexico						
+12957396	4364604	en	Oregon	1.0					
 12353673	4365766		Newtown						
 12447840	4366647		Washington						
 13041502	4368711	en	Salisbury	1.0					
@@ -15810,10 +17241,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12901614	4389020	en	Guam	1.0					
 18436330	4389020	vo	Guam						
 18436331	4389020	fr	Guam						
+12883529	4389304	en	Hamburg	1.0					
 13110891	4392339	en	Japan	1.0					
 12398806	4394905		Luxemburg						
 12398341	4397065		Dallas						
 12890025	4398103	en	Mexico	1.0					
+12430368	4400274		Hamburg						
 12439451	4400289		Baltimore						
 12457543	4400799		Somerset						
 18441378	4401659	ceb	Odessa						
@@ -15839,6 +17272,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18441407	4401659	da	Odessa						
 18441408	4401659	nl	Odessa						
 13118107	4401942	en	Olympia	1.0					
+12939689	4402011	en	Oregon	1.0					
+13664291	4402012	en	Oregon		1.0				
+13664292	4402012		Oregon		1.0				
 13030476	4402381	en	Palmyra	1.0					
 13053902	4402385	en	Panama	1.0					
 12314183	4405794		Illinois						
@@ -15878,6 +17314,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18443518	4407611	fr	Santiago						
 13662829	4411468	en	Texas		1.0				
 13662830	4411468		Texas		1.0				
+12314298	4413308		Wales						
 12958485	4413621	en	Washington	1.0					
 18445507	4413621	de	Washington						
 18445508	4413621	ceb	Washington						
@@ -15935,10 +17372,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18446502	4416697	en	Austin						
 18446504	4416697	fr	Austin						
 12355883	4417028		Richmond						
+12397808	4419419		Hamburg						
 13063903	4422457	en	Columbia	1.0					
 12829996	4423443	en	Damascus	1.0					
 12945846	4424829	en	Dublin	1.0					
 12529123	4425300		Manchester						
+12956824	4428890	en	Hamburg	1.0					
 12970728	4430906	en	India	1.0					
 12313393	4432542		Peking						
 12452558	4435717		Memphis						
@@ -15948,6 +17387,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12940937	4443337	en	Rio	1.0					
 13022386	4443788	en	Rome	1.0					
 18448978	4443788	fr	Rome						
+12355753	4445277		Maryland				1.0		1911.0
+13114255	4445366	en	Sebastopol	1.0					
 12439267	4447344		Newtown						
 18449355	4450310	de	Washington						
 18449358	4450310	vo	Washington						
@@ -15955,6 +17396,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18449361	4450310	fr	Washington						
 13664580	4450315	en	Washington		1.0				
 13664581	4450315		Washington		1.0				
+12927362	4450613	en	West	1.0					
 12355994	4451208		Buffalo						
 12318689	4454128		Richmond						
 12950581	4454753	en	Belfast	1.0					
@@ -16013,6 +17455,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17955406	4482348	ilo	North Carolina						
 17955407	4482348	na	North Carolina						
 17955409	4482348	nl	North Carolina						
+12431333	4483554		Oregon						
 12563510	4486141		Broomfield						
 12440453	4487078		Columbia						
 13664407	4487947	en	Richmond		1.0				
@@ -16020,6 +17463,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12431425	4489218		Dublin						
 12872351	4492449	en	Somerset	1.0					
 13079845	4492450	en	Somerset	1.0					
+12467707	4492922		West						
 12440477	4493818		Buffalo						
 12431446	4495193		Buffalo						
 13093544	4497666	en	Washington	1.0					
@@ -16027,20 +17471,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13668484	4497673		Washington		1.0				
 12533799	4497684		Washington						
 12534061	4497771		Washington						
+12318494	4499486		West						
 13089681	4505240	en	Amsterdam	1.0					
 12831159	4505641	en	Austin	1.0					
 13071014	4505716	en	Baltimore	1.0					
 12921264	4506116	en	Belfast	1.0					
 12468032	4506903		Dallas						
 13127729	4507423	en	Buffalo	1.0					
+12468212	4508196		Wales						
 13037384	4509161	en	Columbia	1.0					
 12492618	4509163		Columbia						
 12431631	4509221		Rome						
 13045541	4509702	en	Cuba	1.0					
+12992411	4510018	en	Delhi	1.0					
 13126991	4510067	en	Denver	1.0					
 18456666	4510067	vo	Denver						
 18456668	4510067	fr	Denver						
 12459010	4510401		Texas						
+13130066	4513560	en	Hamburg	1.0					
+13030114	4513561	en	Hamburg	1.0					
 12440891	4515247		Newtown						
 12458872	4515688		Damascus						
 12980189	4517471	en	Manchester	1.0					
@@ -16183,6 +17632,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17955535	4544379	crh	Oklahoma						
 17955536	4544379	ang	Oklahoma						
 17955538	4544379	pl	Oklahoma						
+13664901	4547357	en	Ottawa		1.0				
+13664902	4547357		Ottawa		1.0				
 13665079	4554708	en	Washington		1.0				
 13665080	4554708		Washington		1.0				
 12432247	4558988		Newtown						
@@ -16224,6 +17675,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12322478	4583108		Long Island						
 13039347	4585749	en	Long Island	1.0					
 12987799	4590141	en	Olympia	1.0					
+13064344	4592954	en	Rimini	1.0					
 13011712	4593412	en	Rome	1.0					
 2089561	4597040	en	South Carolina	1.0	1.0				
 2186526	4597040		South Carolina	1.0	1.0				
@@ -16275,6 +17727,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12408258	4616837		Denver						
 13094069	4617892	en	Denver	1.0					
 12501213	4619895		Manchester						
+12871098	4627266	en	Hamburg	1.0					
 12365861	4628109		Damascus						
 13096917	4638036	en	Long Island	1.0					
 12965800	4638037	en	Long Island	1.0					
@@ -16303,6 +17756,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12450929	4655979		Salisbury						
 12451057	4655980		Salisbury						
 12441971	4656269		New York						
+13013031	4665340	en	Wales	1.0					
 13665228	4665975	en	Washington		1.0				
 13665229	4665975		Washington		1.0				
 12441984	4666453		Austin						
@@ -16389,6 +17843,29 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11328577	4684904	az	Dallas						
 13665430	4684904	en	Dallas		1.0				
 13665431	4684904		Dallas		1.0				
+18479978	4685987	de	Detroit						
+18479979	4685987	ceb	Detroit						
+18479982	4685987	hr	Detroit						
+18479983	4685987	ht	Detroit						
+18479984	4685987	fr	Detroit						
+18479986	4685987	mg	Detroit						
+18479987	4685987		Detroit						
+18479988	4685987	ga	Detroit						
+18479989	4685987	ca	Detroit						
+18479993	4685987	sv	Detroit						
+18479994	4685987	uz	Detroit						
+18479995	4685987	lld	Detroit						
+18479997	4685987	en	Detroit						
+18479998	4685987	it	Detroit						
+18479999	4685987	es	Detroit						
+18480000	4685987	eu	Detroit						
+18480002	4685987	vi	Detroit						
+18480003	4685987	nb	Detroit						
+18480004	4685987	hbs	Detroit						
+18480005	4685987	vo	Detroit						
+18480007	4685987	pl	Detroit						
+18480008	4685987	da	Detroit						
+18480010	4685987	nl	Detroit						
 18480410	4687151	de	Dublin						
 18480411	4687151	ceb	Dublin						
 18480412	4687151	pt	Dublin						
@@ -16417,6 +17894,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18480441	4687151	nl	Dublin						
 12525208	4687726		Columbia						
 12442161	4688156		Buffalo						
+12453490	4689553		Delhi						
 13081323	4699848	en	India	1.0					
 13010198	4707894	en	Los Angeles	1.0					
 18486943	4707894	ceb	Los Angeles						
@@ -16586,6 +18064,35 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13011507	4740148	en	Washington	1.0					
 13665526	4740157	en	Washington		1.0				
 13665527	4740157		Washington		1.0				
+18496742	4740686	de	West						
+18496743	4740686	ceb	West						
+18496745	4740686	pt	West						
+18496747	4740686	hr	West						
+18496748	4740686	ht	West						
+18496749	4740686	fr	West						
+18496750	4740686	sk	West						
+18496751	4740686	mg	West						
+18496752	4740686		West						
+18496753	4740686	ga	West						
+18496754	4740686	id	West						
+18496755	4740686	ca	West						
+18496757	4740686	uz	West						
+18496758	4740686	lld	West						
+18496760	4740686	en	West						
+18496761	4740686	eo	West						
+18496762	4740686	it	West						
+18496763	4740686	es	West						
+18496764	4740686	cs	West						
+18496765	4740686	eu	West						
+18496766	4740686	vi	West						
+18496767	4740686	nb	West						
+18496768	4740686	cy	West						
+18496770	4740686	hbs	West						
+18496771	4740686	pl	West						
+18496772	4740686	ro	West						
+18496773	4740686	da	West						
+18496774	4740686	nl	West						
+18496775	4740686	tr	West						
 13634143	4740759	en	Columbia				1.0		
 18497870	4744357	en	Amsterdam						
 18497871	4744357	it	Amsterdam						
@@ -16600,6 +18107,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12442751	4753854		Rome						
 12752864	4755173		Amsterdam						
 13097432	4755199	en	Damascus	1.0					
+13101693	4762830	en	Hamburg	1.0					
 18501705	4770569	en	Long Island						
 18501707	4770569	fr	Long Island						
 18501849	4771428	de	Manchester						
@@ -16661,6 +18169,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18507336	4803929	fr	Denver						
 18507338	4803929	es	Denver						
 12601598	4806346		Alaska						
+12414832	4807238		Detroit						
 12539591	4807762		Salisbury						
 12713117	4807908		South Bend						
 13665690	4812863	en	Logan		1.0				
@@ -16669,6 +18178,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12461071	4813828		Buffalo						
 18511120	4816613	en	Newtown						
 18511121	4816613	fr	Newtown						
+18511237	4817367	en	Ottawa						
+18511238	4817367	fr	Ottawa						
 12563511	4817792		Broomfield						
 18511353	4817988	en	Peru						
 18511354	4817988	vo	Peru						
@@ -16727,6 +18238,138 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18513047	4827957	fr	Yukon						
 13094123	4828077	en	Buffalo	1.0					
 12431606	4828927		Veracruz						
+1632833	4829764	pl	Alabama						
+1632834	4829764	en	Alabama	1.0	1.0				
+1632835	4829764	es	Alabama						
+1632836	4829764	de	Alabama						
+1632837	4829764	ang	Alabama						
+1632839	4829764	ast	Alabama						
+1632841	4829764	bs	Alabama						
+1632842	4829764	ca	Alabama						
+1632843	4829764	cs	Alabama						
+1632844	4829764	cy	Alabama						
+1632845	4829764	da	Alabama						
+1632847	4829764	et	Alabama						
+1632848	4829764	eu	Alabama						
+1632850	4829764	fi	Alabama						
+1632851	4829764	fr	Alabama						
+1632852	4829764	ga	Alabama						
+1632853	4829764	gd	Alabama						
+1632854	4829764	gl	Alabama						
+1632856	4829764	hr	Alabama						
+1632857	4829764	hu	Alabama						
+1632858	4829764	id	Alabama						
+1632859	4829764	io	Alabama						
+1632860	4829764	is	Alabama						
+1632861	4829764	it	Alabama						
+1632866	4829764	kw	Alabama						
+1632867	4829764	la	Alabama						
+1632868	4829764	lb	Alabama						
+1632869	4829764	lt	Alabama						
+1632870	4829764	lv	Alabama						
+1632873	4829764	ms	Alabama						
+1632874	4829764	nl	Alabama						
+1632875	4829764	nn	Alabama						
+1632876	4829764	no	Alabama						
+1632877	4829764	oc	Alabama						
+1632879	4829764	pt	Alabama						
+1632882	4829764	sk	Alabama						
+1632883	4829764	sl	Alabama						
+1632884	4829764	sq	Alabama						
+1632886	4829764	sv	Alabama						
+1632888	4829764	tr	Alabama						
+1632891	4829764	vi	Alabama						
+1894259	4829764	nds	Alabama						
+1894260	4829764	hbs	Alabama						
+1979072	4829764	co	Alabama						
+1979073	4829764	frp	Alabama						
+1979074	4829764	ku	Alabama						
+2186688	4829764		Alabama	1.0	1.0				
+7579184	4829764	lij	Alabama						
+7579201	4829764	hak	Alabama						
+7579205	4829764	yo	Alabama						
+10386980	4829764	fy	Alabama						
+17955902	4829764	mwl	Alabama						
+17955904	4829764	ban	Alabama						
+17955906	4829764	fit	Alabama						
+17955907	4829764	bar	Alabama						
+17955909	4829764	pms	Alabama						
+17955910	4829764	sco	Alabama						
+17955911	4829764	scn	Alabama						
+17955912	4829764	af	Alabama						
+17955914	4829764	an	Alabama						
+17955915	4829764	cdo	Alabama						
+17955916	4829764	stq	Alabama						
+17955917	4829764	lfn	Alabama						
+17955919	4829764	az	Alabama						
+17955920	4829764	rm	Alabama						
+17955922	4829764	ceb	Alabama						
+17955923	4829764	bi	Alabama						
+17955924	4829764	bcl	Alabama						
+17955925	4829764	br	Alabama						
+17955926	4829764	sc	Alabama						
+17955928	4829764	se	Alabama						
+17955929	4829764	min	Alabama						
+17955931	4829764	sm	Alabama						
+17955932	4829764	so	Alabama						
+17955935	4829764	sw	Alabama						
+17955938	4829764	tk	Alabama						
+17955939	4829764	tl	Alabama						
+17955940	4829764	vls	Alabama						
+17955941	4829764	rup	Alabama						
+17955942	4829764	diq	Alabama						
+17955944	4829764	zea	Alabama						
+17955946	4829764	pam	Alabama						
+17955947	4829764	gpe	Alabama						
+17955948	4829764	pap	Alabama						
+17955949	4829764	sgs	Alabama						
+17955951	4829764	uz	Alabama						
+17955953	4829764	hsb	Alabama						
+17955954	4829764	vo	Alabama						
+17955956	4829764	fo	Alabama						
+17955957	4829764	gag	Alabama						
+17955958	4829764	pcd	Alabama						
+17955959	4829764	nov	Alabama						
+17955962	4829764	szl	Alabama						
+17955964	4829764	lld	Alabama						
+17955966	4829764	war	Alabama						
+17955968	4829764	gv	Alabama						
+17955969	4829764	sje	Alabama						
+17955971	4829764	ha	Alabama						
+17955972	4829764	sju	Alabama						
+17955973	4829764	tly	Alabama						
+17955974	4829764	gsw	Alabama						
+17955975	4829764	ht	Alabama						
+17955976	4829764	lmo	Alabama						
+17955977	4829764	nah	Alabama						
+17955978	4829764	ia	Alabama						
+17955979	4829764		Alabama						
+17955980	4829764	ie	Alabama						
+17955981	4829764	nap	Alabama						
+17955982	4829764	ig	Alabama						
+17955983	4829764	ik	Alabama						
+17955984	4829764	frr	Alabama						
+17955985	4829764	za	Alabama						
+17955986	4829764	sma	Alabama						
+17955988	4829764	jv	Alabama						
+17955989	4829764	smj	Alabama						
+17955991	4829764	smn	Alabama						
+17955993	4829764	sms	Alabama						
+17955994	4829764	li	Alabama						
+17955995	4829764	fur	Alabama						
+17955996	4829764	hif	Alabama						
+17955997	4829764	dag	Alabama						
+17955998	4829764	lad	Alabama						
+17955999	4829764	vec	Alabama						
+17956000	4829764	mg	Alabama						
+17956001	4829764	mi	Alabama						
+17956003	4829764	rmy	Alabama						
+17956006	4829764	ilo	Alabama						
+17956007	4829764	na	Alabama						
+17956008	4829764	nb	Alabama						
+17956009	4829764	kaa	Alabama						
+17956010	4829764	kab	Alabama						
+17956011	4829764	crh	Alabama						
 12578017	4830172		Tampa						
 1980080	4831725	en	Connecticut	1.0	1.0				
 1980081	4831725	fr	Connecticut						
@@ -16839,10 +18482,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 9366888	4832278	hbs	Massachusetts						
 9366889	4832278	pl	Massachusetts						
 12387649	4832317		Long Island						
+18514954	4832806	de	Wales						
+18514956	4832806	en	Wales						
+18514957	4832806	fr	Wales						
 12360175	4833276		Washington						
 12982428	4833336	en	Florida	1.0					
+13042565	4835683	en	Hamburg	1.0					
 12464135	4835797		Newtown						
 12427763	4835841		Newtown						
+12453276	4836104		Hamburg						
 12927879	4838174	en	Manchester	1.0					
 12687648	4840218		East Island						
 12599054	4841018		East Island						
@@ -16908,6 +18556,33 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18522006	4852304	fr	Columbia						
 13665802	4853335	en	Dallas		1.0				
 13665803	4853335		Dallas		1.0				
+18523266	4853722	ceb	Delhi						
+18523267	4853722	de	Delhi						
+18523268	4853722	pt	Delhi						
+18523270	4853722	ht	Delhi						
+18523271	4853722	rup	Delhi						
+18523272	4853722	fr	Delhi						
+18523274	4853722	mg	Delhi						
+18523275	4853722		Delhi						
+18523276	4853722	ga	Delhi						
+18523278	4853722	ca	Delhi						
+18523279	4853722	sr	Delhi						
+18523282	4853722	sv	Delhi						
+18523283	4853722	uz	Delhi						
+18523284	4853722	lld	Delhi						
+18523285	4853722	io	Delhi						
+18523287	4853722	en	Delhi						
+18523288	4853722	it	Delhi						
+18523289	4853722	es	Delhi						
+18523292	4853722	eu	Delhi						
+18523294	4853722	vi	Delhi						
+18523295	4853722	nb	Delhi						
+18523296	4853722	cy	Delhi						
+18523298	4853722	hbs	Delhi						
+18523299	4853722	vo	Delhi						
+18523301	4853722	pl	Delhi						
+18523302	4853722	da	Delhi						
+18523303	4853722	nl	Delhi						
 18523456	4853799	de	Denver						
 18523457	4853799	ceb	Denver						
 18523458	4853799	pt	Denver						
@@ -16935,6 +18610,32 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18523491	4853799	pl	Denver						
 18523492	4853799	da	Denver						
 18523493	4853799	nl	Denver						
+18527460	4859603	de	Hamburg						
+18527461	4859603	ceb	Hamburg						
+18527462	4859603	pt	Hamburg						
+18527464	4859603	ht	Hamburg						
+18527465	4859603	fr	Hamburg						
+18527467	4859603	mg	Hamburg						
+18527468	4859603		Hamburg						
+18527469	4859603	ga	Hamburg						
+18527471	4859603	ca	Hamburg						
+18527472	4859603	sr	Hamburg						
+18527475	4859603	sv	Hamburg						
+18527476	4859603	uz	Hamburg						
+18527477	4859603	lld	Hamburg						
+18527478	4859603	io	Hamburg						
+18527480	4859603	en	Hamburg						
+18527481	4859603	it	Hamburg						
+18527482	4859603	es	Hamburg						
+18527485	4859603	eu	Hamburg						
+18527487	4859603	vi	Hamburg						
+18527488	4859603	nb	Hamburg						
+18527489	4859603	cy	Hamburg						
+18527490	4859603	hbs	Hamburg						
+18527491	4859603	vo	Hamburg						
+18527493	4859603	pl	Hamburg						
+18527494	4859603	da	Hamburg						
+18527495	4859603	nl	Hamburg						
 1980289	4862182	fr	Iowa						
 1980290	4862182	en	Iowa	1.0	1.0				
 1980291	4862182	es	Iowa						
@@ -17369,13 +19070,17 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17956311	4896861	ang	Illinois						
 17956313	4896861	pl	Illinois						
 12455971	4899581		Palmyra						
+12437882	4899770		Wales						
 13665952	4900338	en	Logan		1.0				
 13665953	4900338		Logan		1.0				
 12307856	4900817		Washington						
 12484794	4901027		Newtown						
+12962399	4901379	en	Maryland	1.0					
 12461849	4902097		Oklahoma						
 12950328	4902097	en	Mexico	1.0					
 12996048	4903687	en	Newtown	1.0					
+12837195	4904898	en	Oregon	1.0					
+13012855	4905006	en	Ottawa	1.0					
 18546569	4905245	ceb	Palmyra						
 18546570	4905245	en	Palmyra						
 18546572	4905245	fr	Palmyra						
@@ -17499,6 +19204,9 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1911082	4926563	id	South Bend						
 1998083	4926563	es	South Bend						
 12438154	4927583		Veracruz						
+18552248	4927589	en	Vermont						
+18552250	4927589	fr	Vermont						
+18552251	4927589	es	Vermont						
 12466264	4928718		Newtown						
 12483542	4929004		Salisbury						
 12429884	4931972		Newtown						
@@ -17520,11 +19228,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13046962	4951248	en	Somerset	1.0					
 12917939	4952629	en	Taunton	1.0					
 12979434	4952777	en	Texas	1.0					
+12989278	4954292	en	Wales	1.0					
 12904012	4954553	en	Washington	1.0					
+12438939	4955126		West						
 12516079	4957968		Washington						
 12878399	4959223	en	Bremen	1.0					
 12986548	4959834	en	Calais	1.0					
 12918581	4960817	en	China	1.0					
+13112943	4962481	en	Detroit	1.0					
 12488772	4968145		Long Island						
 12419775	4969426		Somerset						
 13106830	4970335	en	Long Island	1.0					
@@ -17540,6 +19251,34 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13662399	4982182	en	Washington		1.0				
 13662400	4982182		Washington		1.0				
 12434341	4983970		Manchester						
+1599831	4990729	de	Detroit						
+1599832	4990729	en	Detroit	1.0					
+1599833	4990729	es	Detroit						
+1599834	4990729	af	Detroit						
+1599837	4990729	ca	Detroit						
+1599838	4990729	da	Detroit						
+1599839	4990729	eo	Detroit						
+1599840	4990729	fi	Detroit						
+1599843	4990729	id	Detroit						
+1599844	4990729	is	Detroit						
+1599845	4990729	it	Detroit						
+1599849	4990729	nl	Detroit						
+1599850	4990729	no	Detroit						
+1599851	4990729	pl	Detroit						
+1599852	4990729	pt	Detroit						
+1599854	4990729	sv	Detroit						
+1599855	4990729	tr	Detroit						
+1634320	4990729	cs	Detroit						
+1634322	4990729	et	Detroit						
+1896699	4990729	bs	Detroit						
+1896701	4990729	gl	Detroit						
+1896702	4990729	hu	Detroit						
+1896703	4990729	ro	Detroit						
+1896704	4990729	sk	Detroit						
+1896707	4990729	vi	Detroit						
+1982558	4990729	io	Detroit						
+1982559	4990729	nn	Detroit						
+1982560	4990729	oc	Detroit						
 12958884	4993873	en	Gibraltar	1.0					
 18564223	4993873	de	Gibraltar						
 18564224	4993873	ceb	Gibraltar						
@@ -17693,6 +19432,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17956551	5001836	ang	Michigan						
 17956553	5001836	pl	Michigan						
 12463151	5003374		Buffalo						
+13666205	5004681	en	Ottawa		1.0				
+13666206	5004681		Ottawa		1.0				
 18568244	5007141	de	Richmond						
 18568245	5007141	ceb	Richmond						
 18568246	5007141	pt	Richmond						
@@ -17718,6 +19459,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18568272	5007141	nl	Richmond						
 12434275	5011821		Long Island						
 12603254	5012194		New Jersey						
+12470771	5013918		Wales						
 12893602	5014351	en	Wellington	1.0					
 18570505	5015701	ceb	Zeeland						
 18570506	5015701	de	Zeeland						
@@ -17741,6 +19483,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18570532	5015701	nl	Zeeland						
 18570533	5015701	tr	Zeeland						
 13127959	5016884	en	Austin	1.0					
+12870514	5024164	en	Delhi	1.0					
 12891227	5026506	en	Finland	1.0					
 18578347	5026506	de	Finland						
 18578348	5026506	ceb	Finland						
@@ -17768,6 +19511,30 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18580235	5028921		Groningen						
 18580237	5028921	fr	Groningen						
 18580238	5028921	nl	Groningen						
+13041948	5029189	en	Hamburg	1.0					
+18580417	5029189	de	Hamburg						
+18580418	5029189	ceb	Hamburg						
+18580420	5029189	pt	Hamburg						
+18580422	5029189	ht	Hamburg						
+18580423	5029189	fr	Hamburg						
+18580425	5029189	mg	Hamburg						
+18580426	5029189		Hamburg						
+18580427	5029189	ga	Hamburg						
+18580429	5029189	ca	Hamburg						
+18580433	5029189	uz	Hamburg						
+18580434	5029189	lld	Hamburg						
+18580435	5029189	io	Hamburg						
+18580437	5029189	it	Hamburg						
+18580438	5029189	es	Hamburg						
+18580441	5029189	eu	Hamburg						
+18580443	5029189	vi	Hamburg						
+18580444	5029189	nb	Hamburg						
+18580445	5029189	cy	Hamburg						
+18580446	5029189	hbs	Hamburg						
+18580447	5029189	vo	Hamburg						
+18580449	5029189	pl	Hamburg						
+18580450	5029189	da	Hamburg						
+18580451	5029189	nl	Hamburg						
 12960888	5036390	en	Manchester	1.0					
 8181496	5038018	en	Montevideo	1.0					
 8181497	5038018		Montevideo						
@@ -17795,6 +19562,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18588595	5040047	pl	Odessa						
 18588596	5040047	da	Odessa						
 18588597	5040047	nl	Odessa						
+13048966	5040484	en	Ottawa	1.0					
 13053736	5041220	en	Perth	1.0					
 13114605	5043204	en	Richmond	1.0					
 18590661	5043204	ceb	Richmond						
@@ -18039,6 +19807,26 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18603550	5062191	en	Tokio						
 18603551	5062191	it	Tokio						
 18603553	5062191	fr	Tokio						
+12950928	5062368	en	Wales	1.0					
+18603749	5062368	de	Wales						
+18603751	5062368	pt	Wales						
+18603753	5062368	fr	Wales						
+18603754	5062368	ht	Wales						
+18603757	5062368	mg	Wales						
+18603758	5062368		Wales						
+18603759	5062368	ga	Wales						
+18603760	5062368	ca	Wales						
+18603764	5062368	uz	Wales						
+18603766	5062368	it	Wales						
+18603767	5062368	es	Wales						
+18603769	5062368	eu	Wales						
+18603771	5062368	nb	Wales						
+18603772	5062368	cy	Wales						
+18603773	5062368	hbs	Wales						
+18603774	5062368	vo	Wales						
+18603776	5062368	pl	Wales						
+18603777	5062368	da	Wales						
+18603778	5062368	nl	Wales						
 18604107	5062610	de	Zeeland						
 18604109	5062610	fr	Zeeland						
 18604110	5062610	ht	Zeeland						
@@ -18192,6 +19980,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18610080	5096818	ga	Columbia						
 18610082	5096818	pl	Columbia						
 12496696	5098095		Columbia						
+13095795	5098760	en	Hamburg	1.0					
 12458101	5099312		Columbia						
 2089555	5101760	en	New Jersey	1.0	1.0				
 2186561	5101760		New Jersey	1.0	1.0				
@@ -18291,6 +20080,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18611815	5105045	fr	Stockholm						
 13042258	5106057	en	Washington	1.0					
 12467328	5106127		Washington						
+12954390	5106870	en	Alabama	1.0					
 12095207	5107152	en	Amsterdam	1.0					
 12742039	5107290		China						
 18612618	5107623	en	Bagdad						
@@ -18321,7 +20111,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12440164	5116692		Columbia						
 12834782	5117451	en	Florida	1.0					
 8716182	5117472	sq	Queens						
+12554116	5118466		Vermont						
 12431148	5119211		Newtown						
+12915011	5119833	en	Hamburg	1.0					
+13111197	5119834	en	Hamburg	1.0					
 12634444	5122466		Peru						
 12359766	5123519		Manchester						
 12431162	5124593		Canada						
@@ -18331,6 +20124,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13115249	5125646	en	Madrid	1.0					
 12467466	5125758		Manchester						
 7486927	5125771	en	Manhattan	1.0	1.0				
+17207315	5126153	en	Maryland	1.0					
 13128140	5126586	en	Memphis	1.0					
 18619162	5126586	vo	Memphis						
 18619164	5126586	nl	Memphis						
@@ -18531,9 +20325,12 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13666851	5143303	en	Washington		1.0				
 13666852	5143303		Washington		1.0				
 12449377	5145131		Rome						
+12361852	5145430		Oregon						
 12507383	5145808		Dallas						
+12361969	5146144		Detroit						
 12449812	5146256		Austin						
 13014961	5147177	en	Best	1.0					
+12731199	5147701		Corsica						
 12744170	5147701		Barcelona						
 12468039	5148028		Richmond						
 12426437	5150453		Panama						
@@ -18558,6 +20355,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18626278	5151663	ca	Damascus						
 12404174	5152058		Palmyra						
 12431674	5152168		Washington						
+12468122	5152507		Oregon						
 12361895	5152805		Utah						
 12431727	5154905		Rome						
 12703473	5155130		Java						
@@ -18577,11 +20375,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12468069	5164239		Bremen						
 12468016	5164428		Somerset						
 12319753	5165564		Washington						
+12989832	5165801	en	Ottawa	1.0					
+13666969	5165803	en	Ottawa		1.0				
+13666970	5165803		Ottawa		1.0				
 12431979	5166061		Columbia						
 12361546	5166423		Newtown						
 13014061	5166543	en	Peru	1.0					
 12499234	5166819		Washington						
 12468141	5167275		Salisbury						
+12449781	5167687		Delhi						
 12449790	5168060		Richmond						
 12404026	5168085		Richmond						
 13085072	5168564	en	Rome	1.0					
@@ -18619,6 +20421,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12321383	5186257		Dallas						
 12963253	5186266	en	Dallas	1.0					
 13111280	5186291	en	Damascus	1.0					
+12432213	5186308		Wales						
 12406205	5186966		Virginia						
 13111665	5187443	en	Dublin	1.0					
 12450322	5188085		Texas						
@@ -18678,6 +20481,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18638954	5203361	ga	Newtown						
 18638957	5203361	ca	Newtown						
 18638958	5203361	tr	Newtown						
+12406317	5204155		Oregon						
 18639292	5204366	de	Oklahoma						
 18639293	5204366	ceb	Oklahoma						
 18639295	5204366	lld	Oklahoma						
@@ -18769,6 +20573,27 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18644706	5226996	pl	Columbia						
 18644707	5226996	da	Columbia						
 18644708	5226996	nl	Columbia						
+18644741	5227048	ceb	Corsica						
+18644742	5227048	pt	Corsica						
+18644744	5227048	fr	Corsica						
+18644745	5227048	ht	Corsica						
+18644747	5227048	mg	Corsica						
+18644748	5227048		Corsica						
+18644749	5227048	ga	Corsica						
+18644750	5227048	ca	Corsica						
+18644753	5227048	lld	Corsica						
+18644754	5227048	uz	Corsica						
+18644756	5227048	en	Corsica						
+18644757	5227048	it	Corsica						
+18644758	5227048	es	Corsica						
+18644760	5227048	eu	Corsica						
+18644762	5227048	nb	Corsica						
+18644763	5227048	cy	Corsica						
+18644764	5227048	hbs	Corsica						
+18644765	5227048	vo	Corsica						
+18644767	5227048	pl	Corsica						
+18644768	5227048	da	Corsica						
+18644769	5227048	nl	Corsica						
 13030023	5228796	en	Java	1.0					
 12915676	5229542	en	Manchester	1.0					
 12323450	5230329		Denver						
@@ -18778,6 +20603,112 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12451462	5239191		Long Island						
 12964598	5239736	en	Peru	1.0					
 12990775	5240760	en	Salisbury	1.0					
+1979590	5242283	fr	Vermont						
+1979591	5242283	en	Vermont	1.0	1.0				
+1979592	5242283	es	Vermont						
+1979593	5242283	de	Vermont						
+1979594	5242283	pl	Vermont						
+1979595	5242283	af	Vermont						
+1979599	5242283	br	Vermont						
+1979600	5242283	bs	Vermont						
+1979601	5242283	ca	Vermont						
+1979602	5242283	ceb	Vermont						
+1979603	5242283	cs	Vermont						
+1979604	5242283	da	Vermont						
+1979606	5242283	et	Vermont						
+1979607	5242283	eu	Vermont						
+1979608	5242283	fi	Vermont						
+1979610	5242283	ga	Vermont						
+1979611	5242283	gd	Vermont						
+1979612	5242283	gl	Vermont						
+1979615	5242283	hr	Vermont						
+1979616	5242283	hu	Vermont						
+1979618	5242283	id	Vermont						
+1979619	5242283	io	Vermont						
+1979620	5242283	is	Vermont						
+1979621	5242283	it	Vermont						
+1979625	5242283	ku	Vermont						
+1979626	5242283	kw	Vermont						
+1979631	5242283	ms	Vermont						
+1979632	5242283	nds	Vermont						
+1979633	5242283	nl	Vermont						
+1979634	5242283	nn	Vermont						
+1979635	5242283	no	Vermont						
+1979636	5242283	oc	Vermont						
+1979639	5242283	ro	Vermont						
+1979642	5242283	hbs	Vermont						
+1979643	5242283	sk	Vermont						
+1979644	5242283	sl	Vermont						
+1979645	5242283	sq	Vermont						
+1979647	5242283	sv	Vermont						
+1979650	5242283	tr	Vermont						
+1979654	5242283	vi	Vermont						
+2184799	5242283		Vermont	1.0	1.0				
+7584575	5242283	hak	Vermont						
+8187787	5242283	yo	Vermont						
+17957292	5242283	ban	Vermont						
+17957294	5242283	bar	Vermont						
+17957295	5242283	pms	Vermont						
+17957296	5242283	sco	Vermont						
+17957297	5242283	scn	Vermont						
+17957298	5242283	an	Vermont						
+17957299	5242283	cdo	Vermont						
+17957300	5242283	stq	Vermont						
+17957301	5242283	lfn	Vermont						
+17957302	5242283	az	Vermont						
+17957303	5242283	rm	Vermont						
+17957304	5242283	bi	Vermont						
+17957305	5242283	bcl	Vermont						
+17957306	5242283	sc	Vermont						
+17957307	5242283	se	Vermont						
+17957309	5242283	sw	Vermont						
+17957311	5242283	co	Vermont						
+17957313	5242283	cy	Vermont						
+17957314	5242283	tl	Vermont						
+17957315	5242283	ast	Vermont						
+17957316	5242283	lij	Vermont						
+17957317	5242283	diq	Vermont						
+17957319	5242283	zea	Vermont						
+17957321	5242283	pam	Vermont						
+17957322	5242283	pap	Vermont						
+17957323	5242283	uz	Vermont						
+17957324	5242283	vo	Vermont						
+17957325	5242283	fo	Vermont						
+17957326	5242283	gag	Vermont						
+17957327	5242283	pcd	Vermont						
+17957328	5242283	szl	Vermont						
+17957329	5242283	lld	Vermont						
+17957330	5242283	gn	Vermont						
+17957332	5242283	war	Vermont						
+17957334	5242283	pdc	Vermont						
+17957335	5242283	gv	Vermont						
+17957336	5242283	ha	Vermont						
+17957337	5242283	lmo	Vermont						
+17957338	5242283	nah	Vermont						
+17957339	5242283	ia	Vermont						
+17957340	5242283		Vermont						
+17957341	5242283	ie	Vermont						
+17957342	5242283	ig	Vermont						
+17957343	5242283	ik	Vermont						
+17957344	5242283	frr	Vermont						
+17957345	5242283	zu	Vermont						
+17957346	5242283	jv	Vermont						
+17957348	5242283	smn	Vermont						
+17957350	5242283	lb	Vermont						
+17957351	5242283	li	Vermont						
+17957352	5242283	hif	Vermont						
+17957353	5242283	dag	Vermont						
+17957354	5242283	lad	Vermont						
+17957355	5242283	vec	Vermont						
+17957356	5242283	mg	Vermont						
+17957357	5242283	mi	Vermont						
+17957358	5242283	rmy	Vermont						
+17957360	5242283	ilo	Vermont						
+17957361	5242283	na	Vermont						
+17957362	5242283	nb	Vermont						
+17957363	5242283	kab	Vermont						
+17957364	5242283	crh	Vermont						
+17957365	5242283	ang	Vermont						
 12899164	5242528	en	Washington	1.0					
 13667184	5242529	en	Washington		1.0				
 13667185	5242529		Washington		1.0				
@@ -18805,13 +20736,39 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13667209	5249193		Columbia		1.0				
 12564042	5249868		Cuba						
 13082646	5253903	en	Friesland	1.0					
+12330349	5254739		Hamburg						
+13076030	5255424	en	Hamburg	1.0					
 13666601	5257509	en	Iowa		1.0				
 13666602	5257509		Iowa		1.0				
+12415173	5257623		Delhi						
+12955182	5258525	en	Kiel	1.0					
+18650584	5258525	de	Kiel						
+18650585	5258525	ceb	Kiel						
+18650586	5258525	pt	Kiel						
+18650588	5258525	ht	Kiel						
+18650589	5258525	fr	Kiel						
+18650592	5258525	mg	Kiel						
+18650593	5258525		Kiel						
+18650594	5258525	ga	Kiel						
+18650595	5258525	ca	Kiel						
+18650598	5258525	sv	Kiel						
+18650599	5258525	uz	Kiel						
+18650600	5258525	lld	Kiel						
+18650601	5258525	war	Kiel						
+18650602	5258525	it	Kiel						
+18650603	5258525	es	Kiel						
+18650606	5258525	hbs	Kiel						
+18650607	5258525	vo	Kiel						
+18650609	5258525	pl	Kiel						
+18650610	5258525	nl	Kiel						
+18650683	5258906	en	Kremlin						
+18650684	5258906	fr	Kremlin						
 12470477	5260658		Dublin						
 13077813	5260794	en	Long Island	1.0					
 13126297	5261340	en	Luxemburg	1.0					
 13004607	5261562	en	Manchester	1.0					
 12713869	5264372		Friesland						
+12935796	5265785	en	Oregon	1.0					
 12461302	5265803		Richmond						
 12372773	5267776		Washington						
 18652378	5269443	de	Rome						
@@ -19005,8 +20962,44 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18667013	5338800	tr	Columbia						
 12446240	5340921		Belfast						
 12942266	5341441	en	Damascus	1.0					
+18668609	5342522	de	Delhi						
+18668610	5342522	ceb	Delhi						
+18668611	5342522	pt	Delhi						
+18668614	5342522	hr	Delhi						
+18668615	5342522	fr	Delhi						
+18668617	5342522	mg	Delhi						
+18668618	5342522		Delhi						
+18668619	5342522	ga	Delhi						
+18668620	5342522	ca	Delhi						
+18668624	5342522	sv	Delhi						
+18668625	5342522	lld	Delhi						
+18668627	5342522	en	Delhi						
+18668628	5342522	it	Delhi						
+18668629	5342522	es	Delhi						
+18668631	5342522	eu	Delhi						
+18668634	5342522	hbs	Delhi						
+18668635	5342522	vo	Delhi						
+18668637	5342522	pl	Delhi						
+18668638	5342522	nl	Delhi						
+18668639	5342522	tr	Delhi						
 12949665	5344157	en	Dublin	1.0					
+12470896	5344486		Delhi						
 13096921	5352116	en	Gibraltar	1.0					
+1622176	5352844	en	Golden Gate Bridge	1.0					
+1622177	5352844	de	Golden Gate Bridge	1.0					
+1622181	5352844	cs	Golden Gate Bridge						
+1622183	5352844	fi	Golden Gate Bridge						
+1622184	5352844	fr	Golden Gate Bridge	1.0					
+1622187	5352844	it	Golden Gate Bridge						
+1622192	5352844	no	Golden Gate Bridge						
+1983916	5352844	nl	Golden Gate Bridge						
+18672537	5352844	sk	Golden Gate Bridge						
+18672539	5352844	sq	Golden Gate Bridge						
+18672541	5352844	sw	Golden Gate Bridge						
+18672544	5352844	lb	Golden Gate Bridge						
+18672551	5352844	nb	Golden Gate Bridge						
+18672552	5352844	nn	Golden Gate Bridge						
+18672553	5352844	oc	Golden Gate Bridge						
 12715425	5358873		Cuba						
 13007133	5364022	en	La Palma	1.0					
 18676396	5364022	de	La Palma						
@@ -19074,6 +21067,11 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1894435	5368361	sq	Los Angeles						
 13667236	5368381	en	Los Angeles		1.0				
 13667237	5368381		Los Angeles		1.0				
+1949308	5369907	de	Malibu						
+1949309	5369907	fr	Malibu						
+1949313	5369907	nl	Malibu						
+1949314	5369907	sv	Malibu						
+12834638	5369907	en	Malibu	1.0					
 18678992	5370048	de	Manchester						
 18678993	5370048	ceb	Manchester						
 18678995	5370048	lld	Manchester						
@@ -19092,6 +21090,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12332099	5376573		Chicago						
 13020193	5376932	en	Newtown	1.0					
 12910270	5376933	en	Newtown	1.0					
+12848483	5376959	en	Nice	1.0					
+18681703	5376959	de	Nice						
+18681704	5376959	ceb	Nice						
+18681705	5376959	pt	Nice						
+18681707	5376959	hr	Nice						
+18681708	5376959	fr	Nice						
+18681710	5376959	mg	Nice						
+18681711	5376959		Nice						
+18681712	5376959	ga	Nice						
+18681713	5376959	ca	Nice						
+18681717	5376959	lld	Nice						
+18681719	5376959	it	Nice						
+18681720	5376959	es	Nice						
+18681722	5376959	eu	Nice						
+18681725	5376959	hbs	Nice						
+18681726	5376959	vo	Nice						
+18681728	5376959	pl	Nice						
+18681729	5376959	nl	Nice						
+18681730	5376959	tr	Nice						
 12866296	5380894	en	Panama	1.0					
 18683319	5380894	it	Panama						
 18683321	5380894	fr	Panama						
@@ -19210,6 +21227,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13092877	5392952	en	Santa Barbara	1.0					
 13667279	5392967	en	Santa Barbara		1.0				
 13667280	5392967		Santa Barbara		1.0				
+12346295	5393046		Silicon Valley						
 1901337	5393212	en	Santa Monica						
 1901338	5393212	de	Santa Monica						
 1901339	5393212	pl	Santa Monica						
@@ -19267,6 +21285,34 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18688702	5393212	gl	Santa Monica						
 18688703	5393212	lld	Santa Monica						
 18688705	5393212	war	Santa Monica						
+13030292	5394165	en	Sebastopol	1.0					
+18689182	5394165	de	Sebastopol						
+18689183	5394165	pt	Sebastopol						
+18689184	5394165	hr	Sebastopol						
+18689185	5394165	ht	Sebastopol						
+18689186	5394165	hu	Sebastopol						
+18689189	5394165	mg	Sebastopol						
+18689190	5394165		Sebastopol						
+18689192	5394165	it	Sebastopol						
+18689193	5394165	es	Sebastopol						
+18689194	5394165	eu	Sebastopol						
+18689195	5394165	nb	Sebastopol						
+18689197	5394165	hbs	Sebastopol						
+18689198	5394165	vo	Sebastopol						
+18689200	5394165	nl	Sebastopol						
+18689201	5394165	ceb	Sebastopol						
+18689204	5394165	fr	Sebastopol						
+18689206	5394165	sl	Sebastopol						
+18689207	5394165	ga	Sebastopol						
+18689208	5394165	ca	Sebastopol						
+18689210	5394165	sv	Sebastopol						
+18689211	5394165	szl	Sebastopol						
+18689212	5394165	lld	Sebastopol						
+18689214	5394165	war	Sebastopol						
+18689215	5394165	tl	Sebastopol						
+18689216	5394165	pl	Sebastopol						
+18689217	5394165	da	Sebastopol						
+18689218	5394165	tr	Sebastopol						
 12939746	5397108	en	Somerset	1.0					
 12674566	5405346		Florida						
 12470884	5406565		Virginia						
@@ -19289,6 +21335,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18693713	5407287	tr	Washington						
 12434457	5408884		Columbia						
 12332215	5409802		Newtown						
+12715273	5410999		Sebastopol						
 10907455	5415035		Broomfield						
 10907456	5415035	en	Broomfield	1.0					
 13667311	5415040	en	Broomfield		1.0				
@@ -19389,6 +21436,10 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17957682	5417618	nn	Colorado						
 17957683	5417618	oc	Colorado						
 17957685	5417618	ang	Colorado						
+18696759	5419324	en	Delhi						
+18696760	5419324	vo	Delhi						
+18696762	5419324	it	Delhi						
+18696763	5419324	fr	Delhi						
 1985133	5419384	fr	Denver						
 1985134	5419384	es	Denver						
 1985135	5419384	de	Denver						
@@ -19414,6 +21465,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13667327	5419396	en	Denver		1.0				
 13667328	5419396		Denver		1.0				
 12687195	5427732		San Francisco						
+12454873	5430876		Hamburg						
 12898959	5432410	en	Nederland	1.0					
 12387380	5434499		Rio						
 13011262	5439390	en	Somerset	1.0					
@@ -19459,6 +21511,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13086865	5489563	en	San Francisco	1.0					
 12623113	5489571		San Francisco						
 12741798	5494626		Cuba						
+18706109	5496315	de	Valencia						
+18706110	5496315	ceb	Valencia						
+18706111	5496315	pt	Valencia						
+18706113	5496315	fr	Valencia						
+18706116	5496315		Valencia						
+18706117	5496315	ga	Valencia						
+18706118	5496315	ca	Valencia						
+18706122	5496315	lld	Valencia						
+18706124	5496315	en	Valencia						
+18706125	5496315	it	Valencia						
+18706126	5496315	es	Valencia						
+18706130	5496315	nb	Valencia						
+18706131	5496315	hbs	Valencia						
+18706132	5496315	vo	Valencia						
+18706134	5496315	pl	Valencia						
+18706135	5496315	nl	Valencia						
+11359347	5496319	nah	Valencia						
+13667484	5496319	en	Valencia		1.0				
+13667485	5496319		Valencia		1.0				
 12458215	5496749		Richmond						
 12358899	5496762		Virginia						
 13038319	5499537	en	Austin	1.0					
@@ -19636,6 +21707,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17958022	5549030	oc	Utah						
 17958024	5549030	ang	Utah						
 17958026	5549030	pl	Utah						
+13115056	5549145	en	Wales	1.0					
 13662746	5549225	en	Washington		1.0				
 13662747	5549225		Washington		1.0				
 18713515	5549349	ceb	Wellington						
@@ -19799,6 +21871,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13263386	5555256	en	Long Island						
 12994732	5555258	en	Long Island	1.0					
 12647266	5564205		Stockholm						
+13106306	5564693	en	Hamburg	1.0					
 12347224	5564966		Bagdad						
 12387511	5577350		Nantes						
 13662720	5579185	en	Logan		1.0				
@@ -19807,6 +21880,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 18720830	5584007	en	Amsterdam						
 12392267	5590063		Chicago						
 12349748	5596530		Chicago						
+12349732	5604510		Valencia						
 13668142	5611570	en	Washington		1.0				
 13668143	5611570		Washington		1.0				
 12997014	5637923	en	Austin	1.0					
@@ -19815,11 +21889,33 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12398867	5644999		Rotterdam						
 12448817	5645859		Columbia						
 12859328	5654321	en	Glasgow	1.0					
+18730185	5661173	de	Kremlin						
+18730186	5661173	ceb	Kremlin						
+18730187	5661173	pt	Kremlin						
+18730188	5661173	uz	Kremlin						
+18730189	5661173	lld	Kremlin						
+18730191	5661173	en	Kremlin						
+18730192	5661173	it	Kremlin						
+18730193	5661173	fr	Kremlin						
+18730194	5661173	es	Kremlin						
+18730195	5661173	eu	Kremlin						
+18730197	5661173	hbs	Kremlin						
+18730198	5661173	vo	Kremlin						
+18730199	5661173		Kremlin						
+18730200	5661173	ga	Kremlin						
+18730201	5661173	id	Kremlin						
+18730203	5661173	pl	Kremlin						
+18730204	5661173	ca	Kremlin						
+18730205	5661173	nl	Kremlin						
 12873251	5663208	en	Logan	1.0					
 12885287	5664534	en	Manhattan	1.0					
 13115626	5664535	en	Manhattan	1.0					
 12662545	5670519		Stockholm						
 12375130	5672833		Japan						
+13135297	5673934	en	Rimini	1.0					
+18731469	5673934	fi	Rimini						
+18731470	5673934	lld	Rimini						
+18731471	5673934	it	Rimini						
 12739723	5678851		Sudan						
 18732159	5680960	pt	Sumatra						
 18732160	5680960	en	Sumatra						
@@ -19870,6 +21966,136 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13667927	5720173	en	Columbia		1.0				
 13667928	5720173		Columbia		1.0				
 12974572	5722088	en	Damascus	1.0					
+11563303	5722994	sr	Detroit						
+18741392	5722994	ceb	Detroit						
+18741393	5722994	de	Detroit						
+18741394	5722994	pt	Detroit						
+18741396	5722994	fr	Detroit						
+18741397	5722994	ht	Detroit						
+18741398	5722994	hu	Detroit						
+18741400	5722994	sk	Detroit						
+18741401	5722994	mg	Detroit						
+18741402	5722994		Detroit						
+18741403	5722994	ga	Detroit						
+18741404	5722994	ca	Detroit						
+18741406	5722994	uz	Detroit						
+18741407	5722994	lld	Detroit						
+18741408	5722994	io	Detroit						
+18741409	5722994	en	Detroit						
+18741410	5722994	it	Detroit						
+18741411	5722994	es	Detroit						
+18741414	5722994	eu	Detroit						
+18741415	5722994	cs	Detroit						
+18741416	5722994	cy	Detroit						
+18741417	5722994	hbs	Detroit						
+18741418	5722994	vo	Detroit						
+18741419	5722994	pl	Detroit						
+18741420	5722994	nl	Detroit						
+18741421	5722994	tr	Detroit						
+1894739	5744337	fr	Oregon						
+1894740	5744337	en	Oregon	1.0	1.0				
+1894741	5744337	de	Oregon						
+1894742	5744337	pl	Oregon						
+1894743	5744337	ang	Oregon						
+1894747	5744337	bs	Oregon						
+1894748	5744337	ca	Oregon						
+1894749	5744337	cs	Oregon						
+1894750	5744337	cy	Oregon						
+1894751	5744337	da	Oregon						
+1894753	5744337	et	Oregon						
+1894754	5744337	eu	Oregon						
+1894755	5744337	fi	Oregon						
+1894756	5744337	ga	Oregon						
+1894757	5744337	gd	Oregon						
+1894760	5744337	hu	Oregon						
+1894762	5744337	id	Oregon						
+1894763	5744337	io	Oregon						
+1894764	5744337	is	Oregon						
+1894765	5744337	it	Oregon						
+1894770	5744337	kw	Oregon						
+1894774	5744337	nds	Oregon						
+1894775	5744337	nl	Oregon						
+1894776	5744337	nn	Oregon						
+1894777	5744337	no	Oregon						
+1894778	5744337	oc	Oregon						
+1894781	5744337	ro	Oregon						
+1894783	5744337	sk	Oregon						
+1894784	5744337	sl	Oregon						
+1894785	5744337	sq	Oregon						
+1894787	5744337	sv	Oregon						
+1894789	5744337	tr	Oregon						
+1979408	5744337	br	Oregon						
+1979409	5744337	frp	Oregon						
+1979411	5744337	hr	Oregon						
+1979412	5744337	ku	Oregon						
+1979414	5744337	ms	Oregon						
+1979415	5744337	hbs	Oregon						
+1979418	5744337	vi	Oregon						
+7582920	5744337	hak	Oregon						
+17958427	5744337	bar	Oregon						
+17958429	5744337	pms	Oregon						
+17958430	5744337	sco	Oregon						
+17958431	5744337	scn	Oregon						
+17958432	5744337	af	Oregon						
+17958433	5744337	cdo	Oregon						
+17958434	5744337	stq	Oregon						
+17958435	5744337	lfn	Oregon						
+17958436	5744337	rm	Oregon						
+17958437	5744337	ceb	Oregon						
+17958438	5744337	bi	Oregon						
+17958439	5744337	bcl	Oregon						
+17958440	5744337	sc	Oregon						
+17958441	5744337	se	Oregon						
+17958443	5744337	so	Oregon						
+17958444	5744337	sw	Oregon						
+17958446	5744337	co	Oregon						
+17958449	5744337	tl	Oregon						
+17958450	5744337	lij	Oregon						
+17958451	5744337	diq	Oregon						
+17958453	5744337	zea	Oregon						
+17958455	5744337	pam	Oregon						
+17958456	5744337	pap	Oregon						
+17958457	5744337	uz	Oregon						
+17958458	5744337	hsb	Oregon						
+17958459	5744337	vo	Oregon						
+17958460	5744337	fo	Oregon						
+17958461	5744337	gag	Oregon						
+17958462	5744337	pcd	Oregon						
+17958463	5744337	fy	Oregon						
+17958464	5744337	szl	Oregon						
+17958466	5744337	lld	Oregon						
+17958467	5744337	pt-BR	Oregon						
+17958468	5744337	gn	Oregon						
+17958470	5744337	war	Oregon						
+17958472	5744337	gv	Oregon						
+17958474	5744337	ha	Oregon						
+17958475	5744337	gsw	Oregon						
+17958476	5744337	ht	Oregon						
+17958477	5744337	lmo	Oregon						
+17958478	5744337	nah	Oregon						
+17958479	5744337	yo	Oregon						
+17958480	5744337	ia	Oregon						
+17958481	5744337		Oregon						
+17958482	5744337	ie	Oregon						
+17958483	5744337	ig	Oregon						
+17958484	5744337	ik	Oregon						
+17958485	5744337	frr	Oregon						
+17958486	5744337	jv	Oregon						
+17958488	5744337	smn	Oregon						
+17958489	5744337	sms	Oregon						
+17958490	5744337	lb	Oregon						
+17958491	5744337	li	Oregon						
+17958492	5744337	hif	Oregon						
+17958493	5744337	vec	Oregon						
+17958494	5744337	mg	Oregon						
+17958495	5744337	mi	Oregon						
+17958496	5744337	rmy	Oregon						
+17958497	5744337	ilo	Oregon						
+17958498	5744337	na	Oregon						
+17958499	5744337	nb	Oregon						
+17958500	5744337	kab	Oregon						
+17958501	5744337	crh	Oregon						
+17958502	5744337	om	Oregon						
 12299447	5746077		Pittsburgh						
 18746977	5748196	de	Richmond						
 18746979	5748196	en	Richmond						
@@ -19945,6 +22171,25 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 13668060	5790614	en	Columbia		1.0				
 13668061	5790614		Columbia		1.0				
 12753259	5792352		Gibraltar						
+18757577	5793496	de	Elbe						
+18757578	5793496	pt	Elbe						
+18757580	5793496	fr	Elbe						
+18757581	5793496	hu	Elbe						
+18757583	5793496		Elbe						
+18757584	5793496	ga	Elbe						
+18757585	5793496	ca	Elbe						
+18757588	5793496	uz	Elbe						
+18757589	5793496	lld	Elbe						
+18757590	5793496	en	Elbe						
+18757591	5793496	eo	Elbe						
+18757592	5793496	it	Elbe						
+18757593	5793496	es	Elbe						
+18757594	5793496	cs	Elbe						
+18757595	5793496	eu	Elbe						
+18757596	5793496	hbs	Elbe						
+18757597	5793496	vo	Elbe						
+18757599	5793496	pl	Elbe						
+18757600	5793496	nl	Elbe						
 12870067	5794609	en	Cape Flattery	1.0					
 18758250	5794609	de	Cape Flattery						
 18758251	5794609	ceb	Cape Flattery						
@@ -20172,6 +22417,36 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12990316	5867782	en	Long Island	1.0					
 13046334	5867785	en	Long Island	1.0					
 12488442	5875040		Long Island						
+12850897	5877563	en	Wales	1.0					
+18778632	5877563	ceb	Wales						
+18778633	5877563	de	Wales						
+18778634	5877563	fi	Wales						
+18778635	5877563	pt	Wales						
+18778637	5877563	ht	Wales						
+18778638	5877563	fr	Wales						
+18778639	5877563	oc	Wales						
+18778640	5877563	sk	Wales						
+18778641	5877563	mg	Wales						
+18778642	5877563		Wales						
+18778643	5877563	ga	Wales						
+18778644	5877563	ca	Wales						
+18778645	5877563	sq	Wales						
+18778646	5877563	scn	Wales						
+18778649	5877563	sv	Wales						
+18778650	5877563	uz	Wales						
+18778651	5877563	lld	Wales						
+18778652	5877563	it	Wales						
+18778653	5877563	es	Wales						
+18778654	5877563	eu	Wales						
+18778655	5877563	cs	Wales						
+18778657	5877563	nb	Wales						
+18778658	5877563	cy	Wales						
+18778660	5877563	hbs	Wales						
+18778661	5877563	vo	Wales						
+18778662	5877563	pl	Wales						
+18778664	5877563	da	Wales						
+18778665	5877563	tr	Wales						
+18778666	5877563	nl	Wales						
 2080172	5879092	es	Alaska	1.0					
 2089569	5879092	en	Alaska	1.0	1.0				
 2186689	5879092		Alaska	1.0	1.0				
@@ -20811,13 +23086,18 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11191458	10944646	es	La Palma						
 13351288	11674222	en	Florida						
 13351299	11674233	en	San Francisco						
+631657	1216308		Rabat						
 11911684	1216351		Panama						
 631792	1216519		Madrid						
+707266	1463557		Rabat						
+6553965	1463651		Rabat						
 1563915	1512440	nl	Oezbekistan	1.0					
 1976484	1512440	fy	Oezbekistan	1.0					
+16518522	1512977		Rabat						
 738346	1514483		Bagdad						
 754116	1538556		Bagdad						
 7275922	8163801		Kabul						
+7119148	3577792		Vermont						
 1455757	3577933		Richmond						
 17514345	12535701	en	Palmyra						
 1563470	3625428	cs	Venezuela	1.0					
@@ -20875,6 +23155,15 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 16931945	3625428	ku	Venezuela	1.0					
 16931947	3625428	lb	Venezuela	1.0					
 16931951	3625428	qu	Venezuela	1.0					
+1598882	3625549	de	Valencia						
+1598883	3625549	en	Valencia						
+1598884	3625549	es	Valencia						
+1598885	3625549	af	Valencia						
+1598887	3625549	fr	Valencia						
+1598889	3625549	nl	Valencia						
+1598890	3625549	pl	Valencia						
+1642742	3625549	da	Valencia						
+4401853	3625549		Valencia						
 1473645	3627039		Santiago						
 7910053	3627551	en	Santa Barbara		1.0				
 7910054	3627551	es	Santa Barbara		1.0				
@@ -20949,6 +23238,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17510954	3757206	es	San Diego						
 17511026	3757316	es	Paraguay						
 17488171	3758754	es	Veracruz						
+17542859	3759437	es	Valencia						
 4835674	3798376	es	La Palma						
 4835915	3798618	es	Santa Barbara						
 7909729	8131430	en	San Diego		1.0				
@@ -21101,6 +23391,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 17385	70225		Taiz						
 16659974	70225	en	Taiz						
 22482	77503		Zuwara						
+23066	78116		Rabat						
 24236	79468		Haifa						
 16368804	7356913		Qatar						
 4316670	936393		Zwitserland						
@@ -21110,6 +23401,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1925724	943882	en	Virginia						
 4317649	943882		Virginia						
 4317827	945089		Valkenburg						
+520583	945101		Valencia						
 520639	945811		Utrecht						
 4317892	945813		Utrecht						
 6128946	945817		Utrecht						
@@ -21128,10 +23420,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 523550	963523		Queens						
 523692	964395		Portugal						
 4321022	966211		Parijs						
+4321181	967277		Ottawa						
+11392541	967278		Ottawa						
+4321182	967280		Ottawa						
 525184	971432		Canada						
 11992358	972062	ts	Kwazulu-Natal						
 17871647	972062	nov	Kwazulu-Natal						
 525995	974900		Utrecht						
+15964712	978547		Maryland						
 4323184	978807		Marikana						
 16212078	978941		Marburg						
 4323554	981028		Maastricht						
@@ -21144,11 +23440,14 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 15966381	993934		Java						
 4325902	994820		India						
 4326396	997879		Hardenberg						
+7566471	998131		Hamburg						
+13913678	998132		Hamburg						
 7566472	998360		Haarlem						
 530525	998433		Haarlem						
 4326666	999680		Groningen						
 530911	1000994		Long Island						
 7119113	1004134		Florida						
+531398	1004975		Noord						
 4327649	1007310		Durban						
 1900245	1007311	es	Durban						
 1900246	1007311	pl	Durban						
@@ -21185,6 +23484,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 532798	1014983		Buffalo						
 532840	1015241		Buffalo						
 4328667	1015448		Broomfield						
+4328717	1015810		Braunschweig						
+4328718	1015812		Braunschweig						
 16212205	1017420		Bordeaux						
 533195	1017817		Richmond						
 533198	1017819		Richmond						
@@ -21204,6 +23505,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 11392571	1023300		Alkmaar						
 534079	1023345		Belfast						
 4317300	3359510		Wellington						
+7119054	3359982		Vermont						
 4323735	3364479		Long Island						
 15965139	3364480		Long Island						
 4326466	3367101		Haarlem						
@@ -21256,6 +23558,7 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4098197	879397	en	Virginia						
 3199150	879398		Virginia						
 15921853	879437		Vic						
+3199162	879447	en	Vermont						
 15921890	880310		Texas						
 15921899	880826		Somerset						
 3199668	880827	en	Somerset						
@@ -21267,10 +23570,13 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3200517	882744	en	Queens						
 4098713	882945	en	Pentagon						
 504462	886359		Virginia						
+504696	886930		Maryland						
+3202515	886932	en	Maryland						
 505259	888825		Salisbury						
 6112759	888825	en	Salisbury						
 8543890	890298		Salisbury				1.0		
 505617	890299		Salisbury						
+505629	890343		Hamburg						
 505748	890672		Guinee						
 15922250	891130		Glasgow						
 3204202	891151		Gibraltar						
@@ -21284,13 +23590,17 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 3205933	895262		Belfast						
 3206017	895491	en	Bali						
 4100741	895769		Alaska						
+3335118	7319101	en	West						
 3336335	7320775	en	Auckland						
 3363055	7341978	en	Georgie						
 3363684	7342591	en	Stockholm						
 3396002	7370551	en	Logan						
+3396119	7370685	en	Vermont						
+16051589	7428372		Delhi						
 5452569	7523802	en	Mali						
 11802662	363196	nl	Middellandse Zee						
 4251618	2072320		East Island						
+1271825	2960848	nl	Noordzee						
 1626683	6255146	de	Afrika	1.0					
 1626686	6255146	eu	Afrika						
 2039225	6255146	da	Afrika						
