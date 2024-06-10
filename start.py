@@ -104,7 +104,7 @@ class GetCandidate:
     def get_most_likely_candidate(self, target_toponym, surrounding_toponyms):
         self.target_toponym = target_toponym
         self.surrounding_toponyms = surrounding_toponyms
-        self.candidate_rows_df = pd.DataFrame(data[target_toponym])
+        self.candidate_rows_df = pd.DataFrame(data[self.target_toponym])
         self.score_dict = create_score_dict(self.candidate_rows_df)
         if self.candidate_rows_df.empty:
             return ["toponym_not_found"]
@@ -113,6 +113,9 @@ class GetCandidate:
             # print(self.target_toponym)
 
             return [geoname_id]
+        # if self.candidate_rows_df.shape[0] > 1:
+        #     return ["top candidates have equal scores", self.score_dict]
+
         # return ["top candidates have equal scores"]
         if self.rand:
             random_df =  self.candidate_rows_df.sample(n=1, random_state=0)
@@ -130,22 +133,39 @@ class GetCandidate:
                 return [max(self.score_dict, key=self.score_dict.get)]
         if self.params.get_sim_entity_value() != 0:
             self.country_similarity()
+
         self.superordinate_mention()
+
         self.p_class_places()
         self.dutch_places()
         self.feature_rank()
+        # print(self.score_dict)
+        # quit()
         if self.params.get_dutch_exonym_value() != 0:
             self.dutch_exonyms()
         self.dutch_alternate_names()
         max_value = max(self.score_dict.values())
         max_keys = [key for key, value in self.score_dict.items() if value == max_value]
+        # code = self.most_alt_names(max_keys)
+        # if code == "no_alt_names":
+        #     random_df =  self.candidate_rows_df.sample(n=1, random_state=0)
+        #     geoname_id = random_df.iloc[0]['geonameid']
+        #     return [geoname_id]
+        # else:
+        #     return [code, self.score_dict]
+
         if len(max_keys) > 1:
+            # random_df =  self.candidate_rows_df.sample(n=1, random_state=0)
+            # geoname_id = random_df.iloc[0]['geonameid']
+            # return [geoname_id]
+            # return ["top candidates have equal scores", self.score_dict]
             # return ["top candidates have equal scores", self.score_dict]
             code = self.most_populated_place(max_keys)
             if code == "no_population":
                 # print('yes')
                 code = self.most_alt_names(max_keys)
                 if code == "no_alt_names":
+                    # print('no alt names')
                     return ["top candidates have equal scores", self.score_dict]
                 else:
                     return [code, self.score_dict]
@@ -181,7 +201,7 @@ class GetCandidate:
         # print(max_population_row['population'], second_max_population_row['population'], most_populated_geoname_id, second_max_population_row['geonameid'])
         # quit()
         if not np.isinf(population_ratio) and not np.isnan(population_ratio):
-            score = min(int(population_ratio), 10)  # Ensure the score doesn't exceed 10
+            score = min(int(population_ratio), self.params.get_cutoff_value())  # Ensure the score doesn't exceed 10
         else:
             score = 0  # Default score if population_ratio is NaN
 
@@ -239,7 +259,7 @@ class GetCandidate:
         for geoname_id in geoname_ids:
             self.score_dict[geoname_id] += pplc_value
 
-        pcli_value = self.params.get_plci_value()
+        pcli_value = self.params.get_pcli_value()
         PCLI_rows = self.candidate_rows_df[self.candidate_rows_df['feature_code'] == 'PCLI']
         geoname_ids = PCLI_rows['geonameid'].tolist()
         for geoname_id in geoname_ids:
@@ -289,17 +309,18 @@ class GetCandidate:
         geoname_ids = filtered_df['geonameid'].tolist()
         alt_select = self.alt_df['geonameid'].isin(geoname_ids)
         alt_rows_df = self.alt_df[alt_select]
-        # exonyms_df = alt_rows_df[
-        #     (alt_rows_df['isolanguage'] == 'nl') &
-        #     (alt_rows_df['alternate name'] == self.target_toponym)
-        # ]
+        exonyms_df = alt_rows_df[
+            (alt_rows_df['isolanguage'] == 'nl') &
+            (alt_rows_df['alternate name'] == self.target_toponym)
+        ]
         exonyms_df = alt_rows_df[alt_rows_df['isolanguage'] == 'nl']
         # print(exonyms_df)
         if exonyms_df.empty:
             return
-        geoids = exonyms_df['geonameid'].tolist()
+        # print(exonyms_df)
+        geoids = set(exonyms_df['geonameid'].tolist())
         for geoname_id in geoids:
-            self.score_dict[geoname_id] += 0
+            self.score_dict[geoname_id] += incr_value
 
     def dutch_alternate_names(self):
         incr_value = self.params.get_NL_alt_names_value()
@@ -309,7 +330,7 @@ class GetCandidate:
         exonyms_df = alt_rows_df[alt_rows_df['isolanguage'] == 'nl']
         if exonyms_df.empty:
             return
-        print(exonyms_df)
+        # print(exonyms_df)
 
         geoids = set(exonyms_df['geonameid'].tolist())
         for geoname_id in geoids:
@@ -380,7 +401,7 @@ def analyse_error(guessed_id, actual_id, country_df):
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--maxpop", action="store_true", help="Perform georesolution with the maximum population as the sole heuristic")
-parser.add_argument('--development', action='store_true', help="Run the algorithm on the development set")
+parser.add_argument('--dev', action='store_true', help="Run the algorithm on the development set")
 parser.add_argument('--test', action='store_true', help="Run the algorithm on the test set")
 parser.add_argument("--interactive", action="store_true", help="Prompt user for input")
 parser.add_argument("--parameters", action="store_true", help="Prompt user for parameter weights. ")
@@ -390,7 +411,7 @@ parser.add_argument("--debug", action="store_true", help="Debug mode, for develo
 args = parser.parse_args()
 maxpop = args.maxpop
 rand = args.rand
-development = args.development
+development = args.dev
 test = args.test
 debug = args.debug
 original_stdout = sys.stdout
@@ -470,6 +491,7 @@ for file_id in text_toponym_dict:
         geoname_id = entry[1]
         surrounding_toponyms = get_surrounding_toponyms(text_toponym_dict[file_id], target_toponym)
         result_list = obj.get_most_likely_candidate(target_toponym, surrounding_toponyms)
+
         most_likely_candidate_id = result_list[0]
         score_dict = "empty"
         if len (result_list) > 1:
@@ -477,11 +499,20 @@ for file_id in text_toponym_dict:
             # print(score_dict)
         if str(most_likely_candidate_id) != str(geoname_id):
             error_code = analyse_error(str(most_likely_candidate_id) , str(geoname_id), country_df)
+            # P classified as A
             if error_code == "error_code_1":
                 error_code_1_count += 1
                 # print(file_id, target_toponym, "actual id:", geoname_id, "guessed id:", most_likely_candidate_id,
                 #        sorted(score_dict.items(), key=lambda x: x[1], reverse=True))
+            # A classified as P
             elif error_code == "error_code_2":
+                print(target_toponym,  "actual:", geoname_id, "guessed:", most_likely_candidate_id )
+                if len(score_dict) < 5:
+                    print(score_dict)
+                if target_toponym == "Utrecht":
+                    print(score_dict)
+
+                # print(result_list)
                 error_code_2_count += 1
             elif error_code == "error_code_3":
                 error_code_3_count += 1
@@ -493,7 +524,7 @@ for file_id in text_toponym_dict:
             elif error_code == "error_code_6":
                 error_code_6_count += 1
             elif most_likely_candidate_id == "toponym_not_found":
-                # print(target_toponym)
+                # print(target_toponym, geoname_id)
                 unfound_toponyms += 1
             elif most_likely_candidate_id == "top candidates have equal scores":
                 equal_scores += 1
@@ -519,23 +550,27 @@ sys.stdout = original_stdout
 print(elapsed_time)
 
 print(vars(parameters_obj))
-print("Correctly guessed toponyms: {} out of {} total toponyms.".format(correctly_guessed, total_toponyms))
-
-print("Unfound toponyms: {} were not found.".format(unfound_toponyms))
+Tn = total_toponyms-unfound_toponyms
+errorcount = total_toponyms - correctly_guessed - unfound_toponyms
+# print("binary disabled")
+print("Correctly guessed toponyms: {} out of {} total toponyms ({:.2%}).".format(correctly_guessed, total_toponyms, correctly_guessed / total_toponyms))
+print("Accuracy score: {:.2%}".format(correctly_guessed / Tn))
+print("Unfound toponyms: {} were not found ({:.2%}).".format(unfound_toponyms, unfound_toponyms / total_toponyms))
 if maxpop:
-    print("Toponyms without population status: {} didn't have a population status.".format(no_pop_status))
-print("Toponyms with equal scores and therefore not correctly guessed: {}".format(equal_scores))
-print("Accuracy score: {:.2%}".format(correctly_guessed / (total_toponyms)))
-print("{} toponyms were wrongly guessed as administrative divisions while they were populated places".format(error_code_1_count))
-print("{} toponyms were wrongly guessed as populated places while they were administrative divions ".format(error_code_2_count))
+    print("Toponyms without population status: {} didn't have a population status ({:.2%}).".format(no_pop_status, no_pop_status / Tn))
+errorcount = total_toponyms - correctly_guessed - unfound_toponyms
 
-print("{} toponyms were wrongly guessed as provincies while they were gemeentes".format(error_code_3_count))
-print("{} toponyms were wrongly guessed as islands".format(error_code_4_count))
-print("{} toponyms were wrongly guessed as P or A while they were islands".format(error_code_5_count))
-print("{} airports where wrongly classified as populated places".format(error_code_6_count))
-print("{} toponyms were wrongly classified through an unknown mechanism".format(other_errors))
+print("Toponyms with equal scores and therefore not correctly guessed: {} ({:.2%} of all errors).".format(equal_scores, equal_scores / errorcount))
+print("{} toponyms were wrongly guessed as administrative divisions while they were populated places ({:.2%} of all errors).".format(error_code_1_count, error_code_1_count / errorcount))
+print("{} toponyms were wrongly guessed as populated places while they were administrative divisions ({:.2%} of all errors).".format(error_code_2_count, error_code_2_count / errorcount))
+print("{} toponyms were wrongly guessed as provinces while they were municipalities ({:.2%} of all errors).".format(error_code_3_count, error_code_3_count / errorcount))
+print("{} toponyms were wrongly guessed as islands ({:.2%} of all errors).".format(error_code_4_count, error_code_4_count / errorcount))
+print("{} toponyms were wrongly guessed as P or A while they were islands ({:.2%} of all errors).".format(error_code_5_count, error_code_5_count / errorcount))
+print("{} airports were wrongly classified as populated places ({:.2%} of all errors).".format(error_code_6_count, error_code_6_count / errorcount))
+print("{} toponyms were wrongly classified through an unknown mechanism ({:.2%} of all errors).".format(other_errors, other_errors / errorcount))
 
-print("Total amount of wrongly classified or missed toponyms: {}".format(correctly_guessed - total_toponyms))
+
+print("Total amount of wrongly classified or missed toponyms: {}".format(errorcount))
 print(unfound_toponyms+no_pop_status+equal_scores+error_code_1_count+error_code_2_count+error_code_3_count+error_code_4_count+error_code_5_count+error_code_6_count+other_errors)
 
 # results = str(vars(parameters_obj)) + "\nAccuracy:" + str(correctly_guessed / total_toponyms)
@@ -544,7 +579,7 @@ print(unfound_toponyms+no_pop_status+equal_scores+error_code_1_count+error_code_
 
 
 results = vars(parameters_obj)
-results["Accuracy"] = correctly_guessed / total_toponyms
+results["Accuracy"] = correctly_guessed / Tn
 
 # Convert the dictionary to a DataFrame
 df = pd.DataFrame(results, index=[0])
