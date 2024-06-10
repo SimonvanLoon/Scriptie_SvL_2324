@@ -72,5 +72,3 @@ class Parameters:
 
     def get_cutoff_value(self):
         return self.cutoff_value
-# obj = Paramaters()
-# print(obj.get_most_pop_value())
