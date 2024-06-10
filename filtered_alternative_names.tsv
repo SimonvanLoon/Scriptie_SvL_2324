@@ -695,7 +695,6 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 7295755	8180600	en	Long Island						
 7295756	8180601	en	Long Island						
 7404712	8219823	en	Santa Barbara						
-7450701	8237136	en	Georgie						
 8522555	8237627		Gibraltar						
 7451560	8237983	en	Queensland						
 8439987	8347770	en	Congo						
@@ -5795,7 +5794,6 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1555472	614540	af	Georgië	1.0					
 1555510	614540	nl	Georgië	1.0					
 1973638	614540	li	Georgië						
-1973651	614540	sco	Georgie						
 11318816	614540	vls	Georgië						
 16928258	614540	fy	Georgië	1.0					
 370180	615419		Luxemburg				1.0	1921.0	1944.0
@@ -7176,12 +7174,8 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1598822	3173435	nl	Milaan						
 1991538	3174945	pms	Lech						
 1563632	3175395	af	Italië	1.0					
-1563653	3175395	fr	Italie	1.0					
 1563674	3175395	nl	Italië	1.0					
-1972566	3175395	fur	Italie						
 1972584	3175395	li	Italië						
-1972595	3175395	nrm	Italie						
-16003404	3175395		Italie						
 16928972	3175395	fy	Italië	1.0					
 1350915	3176217	de	Genua	1.0	1.0				
 6157635	3176217		Genua						
@@ -7712,7 +7706,6 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 8191623	276781	af	Beiroet						
 13605722	6271642		Hama						
 13606660	6273974		Doha						
-13607758	6275293		Brazilie						
 1562333	3042058	ca	Liechtenstein	1.0					
 1562335	3042058	cy	Liechtenstein	1.0					
 1562336	3042058	da	Liechtenstein	1.0					
@@ -7952,7 +7945,6 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 1895902	2960316	sv	Luxemburg						
 6127809	2960316		Luxemburg						
 8490743	2960317	de	Luxemburg						
-1271468	2960411		Italie						
 1561989	458258	af	Letland	1.0					
 1561997	458258	da	Letland	1.0					
 1562029	458258	nl	Letland	1.0					
@@ -16398,10 +16390,6 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 12437533	4189516		Dublin						
 13050020	4190604	en	Damascus	1.0					
 12877736	4191253	en	Delhi	1.0					
-12604212	4197000		Georgie						
-17954635	4197000	sco	Georgie						
-17954683	4197000	cs	Georgie						
-17954764	4197000	nrm	Georgie						
 12348775	4197430		Hamburg						
 12348474	4207400		Newtown						
 13122158	4209926	en	Montevideo	1.0					
@@ -23592,7 +23580,6 @@ alternateNameId	geonameid	isolanguage	alternate name	isPreferredName	isShortName
 4100741	895769		Alaska						
 3335118	7319101	en	West						
 3336335	7320775	en	Auckland						
-3363055	7341978	en	Georgie						
 3363684	7342591	en	Stockholm						
 3396002	7370551	en	Logan						
 3396119	7370685	en	Vermont						
