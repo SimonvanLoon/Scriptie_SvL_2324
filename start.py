@@ -10,7 +10,7 @@ from parameters import Parameters
 import json
 import os
 
-with open('toponym_candidates.json') as json_file:
+with open('toponym_candidates_dna_lgl.json') as json_file:
     data = json.load(json_file)
 
 def load_alt_names(filename):
@@ -104,6 +104,8 @@ class GetCandidate:
         self.candidate_rows_df = pd.DataFrame(data[self.target_toponym])
         self.score_dict = create_score_dict(self.candidate_rows_df)
         if self.candidate_rows_df.empty:
+            print("target: ", target_toponym)
+            # quit()
             return ["toponym_not_found"]
         if self.candidate_rows_df.shape[0] == 1:
             geoname_id = self.candidate_rows_df.iloc[0]['geonameid']
@@ -151,6 +153,7 @@ class GetCandidate:
         sorted_rows = self.candidate_rows_df.nlargest(2, 'population')
         max_population_row = self.candidate_rows_df.loc[sorted_rows.index[0]]
         most_populated_geoname_id = max_population_row['geonameid']
+        print(most_populated_geoname_id)
         # Find the row with the second highest population
         # The '-1' index ensures that a row is always selected even if there is only one candidate row
         second_max_population_row = self.candidate_rows_df.loc[sorted_rows.index[-1]]
@@ -176,6 +179,11 @@ class GetCandidate:
             score += increment_value
         # Update the score for the most populated place
         self.score_dict[most_populated_geoname_id] += score
+        print("Max pop:", max_population_row['population'],
+      "Second pop:", second_max_population_row['population'],
+      "Ratio:", population_ratio,
+      "Score:", score)
+
 
     def country_similarity(self):
         target_toponym_set = set(self.candidate_rows_df['country_code'])
@@ -360,6 +368,8 @@ parser.add_argument("--interactive", action="store_true", help="Prompt user for 
 parser.add_argument("--parameters", action="store_true", help="Prompt user for parameter weights. ")
 parser.add_argument("--rand", action="store_true", help="Randomly nominate a location if the number of candidates are 1 or more. ")
 parser.add_argument("--debug", action="store_true", help="Debug mode, for developers only")
+parser.add_argument('--lgl', action='store_true', help="Run the algorithm on the lgl")
+
 
 args = parser.parse_args()
 maxpop = args.maxpop
@@ -368,6 +378,7 @@ development = args.dev
 test = args.test
 debug = args.debug
 original_stdout = sys.stdout
+lgl = args.lgl
 
 
 
@@ -384,13 +395,17 @@ if args.interactive:
         print("Toponym is not included in the dataset.")
         quit()
     print("Candidate toponyms:")
-    print(candidate_rows_df[["name", "geonameid", "population", "country_code", "feature_code"]])
+    # print(candidate_rows_df[["name", "geonameid", "population", "country_code", "feature_code"]])
+    print(candidate_rows_df[["name", "country_code", "admin1_code", "admin2_code", "admin3_code", "admin4_code","feature_class"]
+])
     candidate_rows_df['population'] = pd.to_numeric(candidate_rows_df['population'], errors='coerce')
     quit(0)
 if development:
     annotations_df = load_annotations('train_annotations.tsv')
 elif test:
     annotations_df = load_annotations('test_annotations.tsv')
+elif lgl:
+    annotations_df = load_annotations('lgl_annotations.tsv')
 else:
     annotations_df = load_annotations('annotations_gold.tsv')
 
@@ -430,8 +445,8 @@ other_errors = 0
 
 start_time = time.time()
 
-with open('toponym_candidates.json') as json_file:
-    data = json.load(json_file)
+# with open('toponym_candidates_dna_lgl.json') as json_file:
+#     data = json.load(json_file)
 
 start_time = time.time()
 
@@ -508,4 +523,3 @@ print("{} toponyms were wrongly guessed as P or A while they were islands ({:.2%
 print("{} airports were wrongly classified as populated places ({:.2%} of all errors).".format(error_code_6_count, error_code_6_count / errorcount))
 print("{} toponyms were wrongly classified through an unknown mechanism ({:.2%} of all errors).".format(other_errors, other_errors / errorcount))
 print("Total amount of wrongly classified or missed toponyms: {}".format(errorcount))
-

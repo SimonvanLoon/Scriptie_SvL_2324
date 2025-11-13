@@ -71,7 +71,14 @@ alternative_names_df['alternate name'] = alternative_names_df['alternate name'].
 )
 
 gold_df = load_annotations('annotations_gold.tsv')
-toponym_set = create_toponym_set(gold_df)
+lgl_df = load_annotations('lgl_annotations.tsv')
+
+# merge them
+all_annotations_df = pd.concat([gold_df, lgl_df], ignore_index=True)
+
+# build toponym set from both
+toponym_set = create_toponym_set(all_annotations_df)
+
 
 
 filtered_alternative_names_df = alternative_names_df[alternative_names_df['alternate name'].isin(toponym_set)]
